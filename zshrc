@@ -1,4 +1,8 @@
-source $HOME/.antigen/antigen.zsh
+# If not running interactively, do not do anything
+[[ $- != *i* ]] && return
+[[ -z "$TMUX" ]] && exec tmux
+
+source /usr/share/zsh/share/antigen.zsh
 
 SPACESHIP_KUBECONTEXT_SHOW=false
 
