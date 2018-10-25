@@ -1,5 +1,6 @@
-call plug#begin('~/.local/share/nvim/plugged')
+let g:airline_theme='badwolf'
 
+call plug#begin('~/.local/share/nvim/plugged')
 Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'altercation/vim-colors-solarized'
 Plug 'ctrlpvim/ctrlp.vim'
