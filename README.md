@@ -11,7 +11,7 @@ My configuration files.
 Clone the repository:
 
 ```
-$ git clone https://github.com/sestrella/dotfiles.git ~/.dotfiles
+$ git clone https://github.com/mrcrow85/dotfiles.git ~/.dotfiles
 ```
 
 Copy the `rcrc` file to your home directory:

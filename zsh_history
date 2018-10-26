@@ -1,0 +1,3817 @@
+: 1540507846:0;nvm intstall 8.11.4
+: 1540507875:0;nvm install 8.11.4
+: 1540507965:0;ssh-keygen -t rsa -C "mmena@stackbuilders.com"
+: 1540508054:0;vi .tmux.conf
+: 1540508331:0;vi .config/nvim/init.vim
+: 1540508631:0;yay python2
+: 1540508667:0;yay -S python2
+: 1540508714:0;which python
+: 1540508794:0;yay firacode
+: 1540508800:0;yay fira-code
+: 1540508877:0;vi
+: 1540508948:0;vi .tmux.conf
+: 1540509036:0;yay vscode
+: 1540509086:0;yay code
+: 1540509150:0;yay visual-studio-code-bin
+: 1540509967:0;mkdir git
+: 1540509970:0;cd git
+: 1540510079:0;yay postgres
+: 1540510109:0;sudo visudo
+: 1540510195:0;groups
+: 1540510399:0;yay postgres
+: 1540510432:0;sudo visudo
+: 1540510671:0;yay postgres
+: 1540510709:0;npm -g i yarn
+: 1540510774:0;cd git
+: 1540510784:0;git clone git@github.com:TheGuarantors/theguarantors.com.git
+: 1540510835:0;ssh-keygen -t rsa -C "mmena@stackbuilders.com"
+: 1540510869:0;git clone git@github.com:TheGuarantors/theguarantors.com.git
+: 1540510970:0;ssh staging@theguarantors.com
+: 1540511109:0;yay slack
+: 1540512354:0;cp -Rf ~/Dropbox/ssh ~/.ssh
+: 1540512375:0;ll ~/.ssh/
+: 1540512414:0;cd git
+: 1540512418:0;git clone git@github.com:TheGuarantors/theguarantors.com.git
+: 1540512960:0;eval "$(ssh-agent -s)"
+: 1540512977:0;ssh-add ~/.ssh/id_rsa
+: 1540512988:0;git clone git@github.com:TheGuarantors/theguarantors.com.git
+: 1540513055:0;cd
+: 1540513075:0;chmod -R 700 .ssh
+: 1540513092:0;chown -R mmena:mmena .ssh
+: 1540513096:0;ssh-add ~/.ssh/id_rsa
+: 1540513109:0;git clone git@github.com:TheGuarantors/theguarantors.com.git
+: 1540513131:0;ssh-add ~/.ssh/id_rsa
+: 1540513173:0;ll ~/.ssh/
+: 1540513225:0;cd .ssh
+: 1540513226:0;ls
+: 1540513237:0;cd ssh
+: 1540513239:0;ls
+: 1540513255:0;mv * ~/.ssh
+: 1540513262:0;ll ~/.ssh/
+: 1540513266:0;ll
+: 1540513276:0;ssh-add ~/.ssh/id_rsa
+: 1540513284:0;git clone git@github.com:TheGuarantors/theguarantors.com.git
+: 1540513338:0;ll
+: 1540513366:0;mv theguarantors.com ~/git/theguarantors.com
+: 1540563726:0;alias
+: 1540564018:0;cp Dropbox/bkp-sb/settings.json .config/Code/User/settings.json
+: 1540564113:0;cd git/theguarantors.com
+: 1540564137:0;yarn
+: 1540564462:0;yay cursor
+: 1540564496:0;yay
+: 1540564565:0;git branches
+: 1540564623:0;git branch -a
+: 1540564655:0;git checkout delete-all-orphaned-deals-hubspot-LG-47
+: 1540564848:0;yay powerline
+: 1540565014:0;cd git/theguarantors.com
+: 1540565883:0;sudo visudo
+: 1540566852:0;uname -r
+: 1540567588:0;yay spotify
+: 1540567658:0;yay google-music
+: 1540567679:0;yay google-desktop
+: 1540567696:0;yay google
+: 1540567832:0;yay gpmpd
+: 1540567843:0;yay gpmdp
+: 1540567890:0;yay spotify
+: 1540568010:0;yay spotify-stable
+: 1540568087:0;yay -Syyua
+: 1540568981:0;gem install mailcatcher
+: 1540569281:0;gem install rdoc
+: 1540569295:0;gem install mailcatcher
+: 1540569428:0;git checkout master
+: 1540569432:0;git pull
+: 1540569460:0;git checkout -
+: 1540569468:0;git rebase master
+: 1540574653:0;echo $HISTFILE
+: 1540575036:0;la ~/Dropbox
+: 1540578870:0;ll ~/Dropbox
+: 1540579209:0;cat ~/Dropbox/zsh_history >> ~/.zsh_history
+: 1530803903:0;tmux
+: 1530803916:0;ll
+: 1530803921:0;cd .dotfiles
+: 1530803934:0;git status
+: 1530804447:0;ll
+: 1530804461:0;nano zshrc
+: 1530804564:0;cd git/theguarantors.com
+: 1530804597:0;git checkout -
+: 1530804623:0;git checkout master
+: 1530804628:0;git pull
+: 1530804692:0;yaourt tmux
+: 1530805626:0;cd .dotfiles
+: 1530805627:0;ll
+: 1530805641:0;nano tmux.conf
+: 1530805977:0;cd git/theguarantors.com
+: 1530806220:0;cd .dotfiles
+: 1530806222:0;ll
+: 1530806343:0;nano tmux.conf
+: 1530806428:0;yaourt tmux
+: 1530806757:0;l
+: 1530806792:0;nano zshrc
+: 1530806883:0;nano tmux.conf
+: 1530806902:0;tmux source ~/.tmux.conf
+: 1530806958:0;cd .dotfiles
+: 1530806961:0;ll
+: 1530806971:0;tmux source tmux.conf
+: 1530807010:0;nano tmux.conf
+: 1530807191:0;tmux source tmux.conf
+: 1530807285:0;nano tmux.conf
+: 1530807356:0;ll
+: 1530807358:0;la
+: 1530807505:0;cd .tmux
+: 1530807507:0;ll
+: 1530807524:0;ll plugins/tpm/
+: 1530807561:0;yaourt tmux
+: 1530807723:0;cd ..
+: 1530807730:0;cd git/theguarantors.com
+: 1530807745:0;git checkout -
+: 1530808094:0;tmux source-file ~/.tmux.conf
+: 1530808397:0;nano tmux.conf
+: 1530808442:0;tmux source-file ~/.tmux.conf
+: 1530808473:0;nano tmux.conf
+: 1530810269:0;yarn test
+: 1530810428:0;ll ~/.tmux/plugins
+: 1530810735:0;ll ~/.tmux/plugins/tpm
+: 1530810967:0;yarn test
+: 1530812708:0;ll ~/.tmux/plugins
+: 1530812970:0;yarn test
+: 1530817290:0;nano tmux.conf
+: 1530817875:0;cp tmux.conf tmux.conf.bkp
+: 1530817879:0;nano tmux.conf
+: 1530818060:0;tmux source-file ~/.tmux.conf
+: 1530818073:0;nano tmux.conf
+: 1530818398:0;ls ~/.tmux/plugins
+: 1530818403:0;ll ~/.tmux/plugins
+: 1530818411:0;ll ~/.tmux/plugins/tpm
+: 1530818500:0;rm -rf ~/.tmux/plugins/
+: 1530818506:0;ll ~/.tmux/plugins/
+: 1530818512:0;ll ~/.tmux/
+: 1530818524:0;mkdir ~/.tmux/plugins/
+: 1530818538:0;ll ~/.tmux/
+: 1530818564:0;tmux source-file ~/.tmux.conf
+: 1530818583:0;ll ~/.tmux/plugins
+: 1530818632:0;yaourt tmux
+: 1530818911:0;ll ~/.tmux/plugins
+: 1530818922:0;ll ~/.tmux/plugins/tpm
+: 1530818941:0;nano /tmp/yaourt-tmp-mmena/aur-tmux-tpm/tpm
+: 1530818978:0;nano ~/.tmux/plugins/tpm/tpm
+: 1530819000:0;tmux source-file ~/.tmux.conf
+: 1530819017:0;yaourt -Rns tmux-tpm
+: 1530819053:0;git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+: 1530819064:0;ll ~/.tmux/plugins/tpm
+: 1530819089:0;rm -rf ~/.tmux/plugins/
+: 1530819098:0;ll ~/.tmux/plugins
+: 1530819120:0;mkdir ~/.tmux/plugins/
+: 1530819127:0;git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+: 1530819148:0;tmux source-file ~/.tmux.conf
+: 1530819181:0;nano tmux.conf
+: 1530819473:0;yarn test
+: 1530830330:0;la
+: 1530830391:0;cd .dotfiles
+: 1530830397:0;la
+: 1530891784:0;yaourt -Syu
+: 1530893020:0;la
+: 1530894656:0;cd git/theguarantors.com
+: 1530894658:0;yarn test
+: 1530895338:0;git log
+: 1530895347:0;git add .
+: 1530895412:0;git commit -m "Add validators, router and refactor some tests"
+: 1530895423:0;git push
+: 1530895439:0;git push origin upload-documents-dashboard-v2-158695907
+: 1530895456:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1530895922:0;yarn test
+: 1530903942:0;git checkout -
+: 1530904058:0;git stash --include-untracked
+: 1530904081:0;git checkout -
+: 1530904084:0;git pull
+: 1530904160:0;git checkout change-logic-filter-158808116
+: 1530905452:0;git checkout -
+: 1530905505:0;git checkout upload-documents-dashboard-v2-158695907
+: 1530905528:0;git stash pop
+: 1530905652:0;yarn test
+: 1531147039:0;cd git/theguarantors.com
+: 1531147046:0;yarn test
+: 1531161554:0;npm start-dev
+: 1531161593:0;npm run start-dev
+: 1531161988:0;sudo -u postgres -i
+: 1531167509:0;yarn test
+: 1531169298:0;sudo -u postgres -i
+: 1531169302:0;yarn test
+: 1531175974:0;npm run start-dev
+: 1531177202:0;vi .env
+: 1531177241:0;vi .env.development
+: 1531177266:0;grep -r XPRESS_DEBUG *
+: 1531177297:0;echo $EXPRESS_DEBUG
+: 1531177788:0;npm run start-dev
+: 1531179696:0;yarn test
+: 1531180359:0;npm run start-dev
+: 1531180993:0;sudo -u postgres -i
+: 1531182756:0;git add .
+: 1531182823:0;git commit -m "Add missing endpoints and tests, refactor some code"
+: 1531182971:0;git add .
+: 1531183058:0;git commit -m "Clean up some comments, remove some unneeded tests"
+: 1531183065:0;git checkout -
+: 1531183069:0;git pull
+: 1531183096:0;yarn
+: 1531183244:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1531183291:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1531183306:0;git checkout -
+: 1531183346:0;git reset --hard origin/master
+: 1531183361:0;git checkout -
+: 1531183371:0;git rebase master
+: 1531183403:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1531183630:0;git add .
+: 1531183670:0;git commit -m "Delete unneeded file"
+: 1531183687:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1531183863:0;git add .
+: 1531183906:0;git commit -m "Add a new line on json file"
+: 1531183912:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1531184576:0;git add .
+: 1531184651:0;git commit -m "Remove .only on tests, reorder imports in tests"
+: 1531184668:0;git rebase -i HEAD~7
+: 1531184907:0;git rebase --continue
+: 1531184932:0;git log
+: 1531184969:0;git rebase -i HEAD~4
+: 1531185035:0;git log
+: 1531185045:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1531185093:0;git rebase -i HEAD~3
+: 1531185147:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1531185867:0;la
+: 1531185899:0;cp .gitconfig .dotfiles/gitconfig
+: 1531185926:0;cat .gitconfig
+: 1531185949:0;cat .zprofile
+: 1531185968:0;cp .zprofile .dotfiles/zprofile
+: 1531186038:0;cd .dotfiles
+: 1531186040:0;ll
+: 1531186050:0;git add .
+: 1531186175:0;git commit -m "Update zshenv, xprofile, gitconfig"
+: 1531186185:0;git push
+: 1531233487:0;cd training/node-blog-app-ts
+: 1531233499:0;git status
+: 1531241458:0;cd git/theguarantors.com
+: 1531241468:0;yarn test
+: 1531244269:0;grep -r "const fs = require('fs');" *
+: 1531244594:0;yarn test
+: 1531249234:0;ping 8.8.8.8
+: 1531249769:0;yarn test
+: 1531255143:0;sudo -u postgres -i
+: 1531255605:0;yarn test
+: 1531265999:0;ps aux | grep vscode
+: 1531266041:0;yarn test
+: 1531266148:0;yaourt -Syu
+: 1531266244:0;yarn test
+: 1531272603:0;git add .
+: 1531272676:0;git commit -m "Refactor the request to accept an atachment instead of a json blob"
+: 1531272691:0;git checkout -
+: 1531272695:0;git pull
+: 1531272730:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1531272774:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1531272790:0;git checkout -
+: 1531272808:0;git log
+: 1531272821:0;git rebase -i HEAD~2
+: 1531272903:0;yarn
+: 1531272924:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1531273671:0;cd git/theguarantors.com
+: 1531273699:0;git commit -m "Fix some format issues"
+: 1531273707:0;git add .
+: 1531273713:0;git commit -m "Fix some format issues"
+: 1531273719:0;git checkout -
+: 1531273727:0;git pull
+: 1531273740:0;git checkout -
+: 1531273756:0;git rebase -i HEAD~2
+: 1531273808:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1531273896:0;git add .
+: 1531273917:0;git commit -m "Remove unneeded file"
+: 1531273922:0;git rebase -i HEAD~2
+: 1531273962:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1531318456:0;cd git/theguarantors.com
+: 1531318469:0;npm run start-dev
+: 1531318479:0;la
+: 1531318535:0;nano .bashrc.aliases
+: 1531318569:0;nano .bashrc
+: 1531318594:0;nano .bash_profile
+: 1531320897:0;yarn test
+: 1531323307:0;grep alias ~/.*
+: 1531323332:0;grep alias /etc/*
+: 1531323369:0;grep alias /etc/environment*
+: 1531323373:0;grep alias /etc/environment/*
+: 1531323468:0;nano /etc/bash.bashrc
+: 1531323502:0;nano .bashrc
+: 1531323527:0;alias ll
+: 1531323700:0;grep -R 'alias ll'
+: 1531323972:0;yarn test
+: 1531324468:0;git add .
+: 1531324606:0;git commit -m "Add test when trying to POST without attachment, fix code review issues"
+: 1531324615:0;git rebase -i HEAD~2
+: 1531324676:0;git checkout -
+: 1531324679:0;git pull
+: 1531324690:0;git checkout -
+: 1531324700:0;git rebase master
+: 1531324707:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1531324934:0;la
+: 1531325001:0;nano .zshrc.zwc
+: 1531325050:0;nano .bash_profile
+: 1531325857:0;npm run start-dev
+: 1531327517:0;npm install
+: 1531327540:0;yarn install
+: 1531327558:0;npm run start-dev
+: 1531328381:0;yarn test
+: 1531339546:0;yaourt vim-plug
+: 1531340933:0;nano /usr/share/vim-plug/vimrc.sample
+: 1531341141:0;la
+: 1531341874:0;vim
+: 1531341973:0;yarn test
+: 1531342040:0;yaourt vim-plug
+: 1531342070:0;yaourt -Rns vim-plug
+: 1531342084:0;yaourt vim-plug
+: 1531342420:0;nvim
+: 1531342734:0;nvim .nvmrc
+: 1531342785:0;nvim .psqlrc
+: 1531343065:0;yarn test
+: 1531345388:0;nvim .psqlrc
+: 1531345409:0;yarn test
+: 1531345731:0;ll .config/nvim/plugin
+: 1531345741:0;la
+: 1531346021:0;yarn test
+: 1531346512:0;git checkout -
+: 1531346525:0;git add .
+: 1531346588:0;git commit -m "Refactor endpints into a single endpoint"
+: 1531346608:0;yaourt -Syyu
+: 1531346697:0;npm run start-dev
+: 1531346912:0;git checkout -
+: 1531346915:0;git pull
+: 1531346944:0;git checkout -
+: 1531346955:0;git rebase -i HEAD~2
+: 1531347227:0;git rebase master
+: 1531347360:0;git add .
+: 1531347375:0;git rebase --continue
+: 1531347392:0;git rebase -i HEAD~2
+: 1531347425:0;git log
+: 1531347498:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1531349199:0;yarn test
+: 1531349284:0;git add .
+: 1531349340:0;git commit -m "Update endpoint url"
+: 1531349345:0;git rebase -i HEAD~2
+: 1531349397:0;git checkout -
+: 1531349402:0;git pull
+: 1531349428:0;git checkout -
+: 1531349457:0;git rebase master
+: 1531349478:0;git rebase -i HEAD~1
+: 1531349505:0;git log
+: 1531349547:0;git rebase -i HEAD~1
+: 1531349630:0;git rebase -i HEAD~2
+: 1531349678:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1531349817:0;git checkout -
+: 1531349820:0;git pull
+: 1531349845:0;git checkout -
+: 1531349852:0;git rebase master
+: 1531351056:0;git checkout -
+: 1531351059:0;git pull
+: 1531351066:0;git checkout -
+: 1531407303:0;cd git/theguarantors.com
+: 1531407340:0;rm -rf node_modules
+: 1531407346:0;yarn
+: 1531407403:0;npm run start-dev
+: 1531409256:0;yarn test
+: 1531409343:0;nvim .tmux.conf
+: 1531409441:0;tmux source-file ~/.tmux.conf
+: 1531411004:0;yaourt -Syua
+: 1531412384:0;nvim ~/.config/nvim/init.vim
+: 1531417914:0;yarn test.
+: 1531417916:0;yarn test
+: 1531501039:0;cd git/theguarantors.com
+: 1531501048:0;yarn test
+: 1531515823:0;ps aux | grep vscode
+: 1531515910:0;ps -p 4749
+: 1531515918:0;ps -p 10904
+: 1531515928:0;ps -p 2308
+: 1531516003:0;htop
+: 1531516133:0;ps aux | grep vscode
+: 1531516179:0;yarn test
+: 1531516333:0;ps aux | grep vscode
+: 1531516349:0;ps -p 22118
+: 1531516360:0;ps -p 22118 -o comm=
+: 1531518821:0;yarn test
+: 1531519978:0;sudo -u postgres -i
+: 1531520234:0;yarn test
+: 1531521413:0;cd git/theguarantors.com
+: 1531521608:0;yarn test
+: 1531687610:0;cd git/theguarantors.com
+: 1531687630:0;yarn test
+: 1531755138:0;cd git/theguarantors.com
+: 1531755145:0;yarn test
+: 1531767669:0;git add .
+: 1531767757:0;git commit -m "Update request to handle multiple documents at once"
+: 1531767769:0;git checkout -
+: 1531767776:0;git pull
+: 1531767806:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1531767848:0;yarn
+: 1531767877:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1531767895:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1531767906:0;git checkout -
+: 1531767916:0;git rebase -i HEAD~2
+: 1531767990:0;git rebase --edit-todo
+: 1531768120:0;git rebase --continue
+: 1531768334:0;git add .
+: 1531768367:0;git commit -m "Remove .only in tests"
+: 1531768372:0;git rebase -i HEAD~2
+: 1531768423:0;git log
+: 1531768447:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1531768583:0;git rebase master
+: 1531768709:0;yarn compile
+: 1531768774:0;git add .
+: 1531768788:0;git rebase --continue
+: 1531768801:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1531769457:0;yarn test
+: 1531770775:0;git add .
+: 1531770809:0;git commit -m "Add a formated date to the output"
+: 1531770887:0;git checkout -
+: 1531770898:0;git pull
+: 1531770913:0;git checkout -
+: 1531770921:0;git rebase -i HEAD~2
+: 1531770964:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1531770982:0;npm run start-dev
+: 1531774876:0;yaourt haskell
+: 1531774980:0;yaourt -Syua
+: 1531775456:0;yaourt -S stack
+: 1531775475:0;yaourt -S stack-bin
+: 1531775552:0;stack install hapistrano
+: 1531776306:0;cd git/theguarantors.com
+: 1531776312:0;ll
+: 1531776328:0;ll deploy
+: 1531776343:0;nvim deploy/local.yaml
+: 1531776492:0;git checkout -
+: 1531776517:0;hap deploy -c deploy/local.yaml
+: 1531776922:0;git checkout -
+: 1531779055:0;yarn test
+: 1531784246:0;git add .
+: 1531784401:0;git commit -m "Refactor some code: put error hndling functions in a separate file, presenters in a separate file"
+: 1531784431:0;git add .
+: 1531784441:0;git commit -m "Refactor some code: put error hndling functions in a separate file, presenters in a separate file" --amend
+: 1531784458:0;git checkout -
+: 1531784463:0;git pull
+: 1531784478:0;git checkout -
+: 1531784484:0;git rebase -i HEAD~2
+: 1531784519:0;git rebase master
+: 1531784532:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1531837764:0;cd git/theguarantors.com
+: 1531837771:0;yarn test
+: 1531844788:0;sudo -u postgres -i
+: 1531846140:0;yarn test
+: 1531853513:0;node
+: 1531854025:0;yarn test
+: 1531855832:0;node
+: 1531855857:0;yarn test
+: 1531861825:0;ps aux | grep vscode
+: 1531862001:0;cd git/theguarantors.com
+: 1531862006:0;la
+: 1531862017:0;rm -r .vscode
+: 1531862435:0;cd git/theguarantors.com
+: 1531862440:0;yarn test
+: 1531862787:0;git status
+: 1531862893:0;yarn test
+: 1531865472:0;git add .
+: 1531865775:0;git commit -m "Add some missing unit tests and a decorator"
+: 1531866601:0;yarn test
+: 1531867730:0;git status
+: 1531867765:0;git add .
+: 1531867946:0;git commit -m "Refactor the endpoint. Now most of the logic will be handled in upload-documents"
+: 1531867964:0;git rebase -i HEAD~3
+: 1531868180:0;git add .
+: 1531868306:0;git commit -m "Delete extra .only in tests"
+: 1531868313:0;git rebase -i HEAD~2
+: 1531868386:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1531870026:0;git checkout -
+: 1531870030:0;git pull
+: 1531870060:0;git checkout -
+: 1531870079:0;git rebase master
+: 1531870099:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1531931590:0;node
+: 1531940338:0;cd git/theguarantors.com
+: 1531940343:0;yarn test
+: 1531953512:0;nvim ~/.config/nvim/init.vim
+: 1531953533:0;yarn test
+: 1531955094:0;nvim ~/.config/nvim/init.vim
+: 1531955102:0;yarn test
+: 1531961205:0;npm run start-dev
+: 1531961594:0;git add .
+: 1531961710:0;git commit -m "Move the source files to their corresponding domain. Refactor some functions"
+: 1531961732:0;git checkout -
+: 1531961737:0;git pull
+: 1531961792:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1531961833:0;yarn
+: 1531961853:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1531961911:0;NODE_ENV=development npm run sequelize -- db:seed:all
+: 1531961922:0;git checkout -
+: 1531961933:0;git rebase -i HEAD~2
+: 1531961970:0;git log
+: 1531961983:0;git rebase master
+: 1531962103:0;git add .
+: 1531962108:0;git rebase --continue
+: 1531962125:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1532009026:0;cd git/theguarantors.com
+: 1532009029:0;npm run start-dev
+: 1532015184:0;git checkout -
+: 1532015197:0;git pull
+: 1532015566:0;git checkout -b prevent-future-data-leases-covered-159109794
+: 1532015714:0;npm run start-dev
+: 1532018114:0;yarn test
+: 1532018221:0;git checkout upload-documents-dashboard-v2-158695907
+: 1532018294:0;git status
+: 1532018336:0;git commit -m "Remove .only in tests"
+: 1532018376:0;git rebase -i HEAD~2
+: 1532018435:0;git stash --include-untracked
+: 1532018443:0;git status
+: 1532018450:0;git rebase -i HEAD~2
+: 1532018507:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1532018526:0;git checkout prevent-future-data-leases-covered-159109794
+: 1532018541:0;git stash pop
+: 1532018596:0;yarn test
+: 1532018860:0;git checkout upload-documents-dashboard-v2-158695907
+: 1532018931:0;yarn compile
+: 1532018974:0;git checkout prevent-future-data-leases-covered-159109794
+: 1532018981:0;yarn test
+: 1532020067:0;npm run start-dev
+: 1532020687:0;yarn test
+: 1532020940:0;node
+: 1532021063:0;yarn test
+: 1532021126:0;npm run start-dev
+: 1532029265:0;yarn test
+: 1532030056:0;npm run start-dev
+: 1532030567:0;cd git/theguarantors.com
+: 1532030581:0;git add .
+: 1532030658:0;git commit -m "Remove upcoming month from the leases covered widget in the landlord dashboard"
+: 1532030724:0;git checkout master
+: 1532030735:0;git pull
+: 1532030744:0;npm run start-dev
+: 1532031054:0;git rebase master
+: 1532031063:0;git checkout -
+: 1532031067:0;git rebase master
+: 1532031125:0;yarn test
+: 1532031148:0;npm run start-dev
+: 1532035230:0;git add status
+: 1532035236:0;git status
+: 1532035241:0;git add .
+: 1532035257:0;git commit -m "Remove upcoming month from the leases covered widget in the landlord dashboard" --amend
+: 1532035282:0;git checkout upload-documents-dashboard-v2-158695907
+: 1532035643:0;yarn test
+: 1532036362:0;git add .
+: 1532036385:0;gi status
+: 1532036389:0;git status
+: 1532036458:0;git commit -m "Remove validation when there is no files in the requests, now it respond with an empty array"
+: 1532036482:0;git rebase -i HEAD~2
+: 1532036537:0;git rebase master
+: 1532036551:0;git log
+: 1532036574:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1532037248:0;git checkout prevent-future-data-leases-covered-159109794
+: 1532041036:0;git push origin prevent-future-data-leases-covered-159109794
+: 1532041081:0;git checkout master
+: 1532041148:0;git pull
+: 1532041249:0;git checkout -
+: 1532041255:0;git rebase master
+: 1532044374:0;git add .
+: 1532044475:0;git commit -m "Remove .only from tests"
+: 1532044483:0;git rebase -i HEAD~2
+: 1532044531:0;git push origin prevent-future-data-leases-covered-159109794
+: 1532044537:0;git push origin prevent-future-data-leases-covered-159109794 -f
+: 1532095961:0;cd git/theguarantors.com
+: 1532096100:0;git checkout -
+: 1532096106:0;git pull
+: 1532096143:0;yarn
+: 1532096168:0;git checkout -
+: 1532096179:0;git rebase master
+: 1532096186:0;git push origin prevent-future-data-leases-covered-159109794 -f
+: 1532098663:0;npm run start-dev
+: 1532111088:0;yarn test
+: 1532112089:0;yarn clean
+: 1532112115:0;yarn test
+: 1532112769:0;yarn clean
+: 1532112905:0;yarn test
+: 1532115077:0;git add .
+: 1532115124:0;git commit -m "Add more detailed test cases"
+: 1532115132:0;git rebase -i HEAD~2
+: 1532115162:0;git checkout -
+: 1532115203:0;git pull
+: 1532115222:0;git checkout -
+: 1532115232:0;git rebase master
+: 1532115263:0;git push origin prevent-future-data-leases-covered-159109794 -f
+: 1532121219:0;npm run start-dev
+: 1532121436:0;mailcatcher
+: 1532128538:0;htop
+: 1532314445:0;cd git/theguarantors.com
+: 1532314452:0;npm run start-dev
+: 1532314661:0;mailcatcher
+: 1532354773:0;cd git/theguarantors.com
+: 1532354779:0;npm run start-dev
+: 1532362479:0;sudo -u postgres -i
+: 1532365199:0;cd git/theguarantors.com
+: 1532365204:0;git status
+: 1532365249:0;git commit -m "Move constants above list of expects"
+: 1532365259:0;git rebase -i HEAD~2
+: 1532365351:0;git checkout -
+: 1532365360:0;git pull
+: 1532365379:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1532365451:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1532365459:0;yarn
+: 1532365485:0;git status
+: 1532365490:0;git checkout -
+: 1532365500:0;git rebase master
+: 1532365511:0;git push origin prevent-future-data-leases-covered-159109794 -f
+: 1532366608:0;npm run start-dev
+: 1532372976:0;git checkout -
+: 1532372981:0;git pull
+: 1532373024:0;yarn
+: 1532373044:0;git checkout -
+: 1532373052:0;git push origin prevent-future-data-leases-covered-159109794 -f
+: 1532373121:0;git rebase master
+: 1532373129:0;git push origin prevent-future-data-leases-covered-159109794 -f
+: 1532373782:0;git checkout -
+: 1532374300:0;yaourt google-music
+: 1532374320:0;yaourt google
+: 1532374393:0;yaourt gpmdp
+: 1532374531:0;yaourt -Syua
+: 1532376330:0;git checkout -
+: 1532376336:0;git pull
+: 1532376364:0;git checkout -
+: 1532376374:0;git pull
+: 1532376401:0;git checkout -
+: 1532376404:0;git rebase master
+: 1532376409:0;git push origin prevent-future-data-leases-covered-159109794 -f
+: 1532442600:0;cd git/theguarantors.com
+: 1532442610:0;git checkout -
+: 1532442616:0;git pull
+: 1532442649:0;yarn
+: 1532462332:0;git pull
+: 1532462357:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1532462399:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1532462505:0;git checkout -b onboard-ric-applicants-earlier-159014265
+: 1532465145:0;yarn test
+: 1532470586:0;sudo -u postgres -i
+: 1532471280:0;yarn test
+: 1532471489:0;q
+: 1532471493:0;yarn test
+: 1532477920:0;npm run sequelize model:generate --name User --attributes firstName:string,lastName:string,email:string
+: 1532477963:0;sequelize model:generate --name User --attributes firstName:string,lastName:string,email:string
+: 1532478618:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1532478693:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1532479199:0;yarn test
+: 1532479481:0;git add .
+: 1532479614:0;git commit -m "Add column approvalDate and function to create onSiteTenants"
+: 1532479637:0;git push origin onboard-ric-applicants-earlier-159014265
+: 1532528367:0;cd git/theguarantors.com
+: 1532528381:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1532528420:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1532528802:0;yarn test
+: 1532534305:0;git add .
+: 1532534356:0;git commit -m "Add column approvalDate to RentersInsuranceApplications"
+: 1532537442:0;yarn test
+: 1532538008:0;sudo -u postgres -i
+: 1532546166:0;npm run start
+: 1532546776:0;cd git/theguarantors.com
+: 1532546801:0;mailcatcher
+: 1532547686:0;ssh theguarantors@staging.theguarantors.com
+: 1532549130:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1532549192:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1532549287:0;yarn test
+: 1532549468:0;git add .
+: 1532549500:0;git commit -m "Add column approvalDate to RentersInsuranceLeads"
+: 1532552643:0;yarn test
+: 1532556379:0;git tatus
+: 1532556384:0;git status
+: 1532560249:0;node jobs/insert-tenants-from-email.js
+: 1532562205:0;yarn compile
+: 1532563051:0;node jobs/insert-tenants-from-email.js
+: 1532614938:0;ping 8.8.8.8
+: 1532636988:0;cd git/theguarantors.com
+: 1532636992:0;yarn compile
+: 1532636998:0;yarn test
+: 1532644320:0;cd git/theguarantors.com
+: 1532646469:0;node services/process-hubspot-queue.js 
+: 1532646540:0;sudo -u postgres -i
+: 1532701593:0;yaourt -Syua
+: 1532701839:0;yaourt libreoffice
+: 1532706616:0;cd git/theguarantors.com
+: 1532706627:0;yarn test
+: 1532708943:0;sudo -u postgres -i
+: 1532711550:0;cd git/theguarantors.com
+: 1532711553:0;yarn test
+: 1532730404:0;cd git/theguarantors.com
+: 1532730411:0;yarn test
+: 1532739234:0;cd git/theguarantors.com
+: 1532739240:0;yarn test
+: 1532959596:0;yaourt -Syua
+: 1532959744:0;cd git/theguarantors.com
+: 1532959747:0;yarn test
+: 1532959866:0;yaourt -Syyua
+: 1532969713:0;yarn test
+: 1532977420:0;cd .ssh
+: 1532977421:0;ll
+: 1532977428:0;cat id_rsa
+: 1532978232:0;yarn test
+: 1532987205:0;sudo -u postgres -i
+: 1532989465:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1532989785:0;NODE_ENV=test npm run sequelize -- db:migrate:undo
+: 1532989800:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1532989827:0;NODE_ENV=test npm run sequelize -- db:migrate:undo
+: 1532989877:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1532989899:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1532989978:0;yarn test
+: 1533071131:0;yaourt -Syyua
+: 1533071268:0;cd git/theguarantors.com
+: 1533071358:0;git branch create-or-update-onsite-tenants-159014265
+: 1533071374:0;git branch -m create-or-update-onsite-tenants-159014265
+: 1533071419:0;git branch -d create-or-update-onsite-tenants-159014265
+: 1533071427:0;git branch -m create-or-update-onsite-tenants-159014265
+: 1533072736:0;sudo -u postgres -i
+: 1533076454:0;git status
+: 1533076504:0;git log
+: 1533076799:0;git reset --soft HEAD~1
+: 1533076832:0;git log
+: 1533076862:0;git reset --soft HEAD~1
+: 1533076865:0;git log
+: 1533077326:0;git commit -m "Add column approvalDate and function to create onSiteTenants" --amend
+: 1533077351:0;git stash
+: 1533077361:0;git stash pop
+: 1533077369:0;git stash --include-untracked
+: 1533077396:0;git checkout -
+: 1533077401:0;git pull
+: 1533077465:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1533077591:0;yarn
+: 1533077642:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1533077689:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1533077839:0;git checkout -b update-or-create-ric-from-onsite-159446805
+: 1533077895:0;git stash apply
+: 1533077902:0;git stash clear
+: 1533077927:0;git add .
+: 1533077930:0;git status
+: 1533078009:0;git commit -m "Add approvalDate to leads, applications and contacts from hubspot"
+: 1533078041:0;git checkout create-or-update-onsite-tenants-159014265
+: 1533078451:0;git push origin :onboard-ric-applicants-earlier-159014265 create-or-update-onsite-tenants-159014265
+: 1533079011:0;yarn test
+: 1533079113:0;git stash
+: 1533079139:0;git rebase master
+: 1533079147:0;git stash pop
+: 1533079162:0;yarn test
+: 1533079750:0;git stash pop
+: 1533079754:0;yarn test
+: 1533138959:0;cd git/theguarantors.com
+: 1533138962:0;yarn test
+: 1533139830:0;yaourt -Syyua
+: 1533141804:0;git log
+: 1533141818:0;git reset --soft HEAD~1
+: 1533141918:0;git status
+: 1533141946:0;git commit -m "Add column approvalDate and function to create onSiteTenants" --amend
+: 1533142056:0;git reset --soft HEAD@{1}
+: 1533142066:0;git status
+: 1533142069:0;git log
+: 1533142102:0;git commit -m "Add column approvalDate and function to create onSiteTenants"
+: 1533142126:0;git loh
+: 1533142131:0;git log
+: 1533142159:0;git push origin create-or-update-onsite-tenants-159014265
+: 1533142164:0;git push origin create-or-update-onsite-tenants-159014265 -f
+: 1533144632:0;yarn test
+: 1533144812:0;select * from ""
+: 1533144820:0;select
+: 1533144828:0;sudo -u postgres -i
+: 1533151970:0;node jobs/insert-tenants-from-email.js
+: 1533152724:0;nvm use
+: 1533152736:0;nvm install 8.11.3
+: 1533152749:0;nvm use
+: 1533153260:0;ssh theguarantors@staging.theguarantors.com
+: 1533169567:0;yarn test
+: 1533171519:0;	q
+: 1533171523:0;yarn test
+: 1533219382:0;cd git/theguarantors.com
+: 1533219697:0;node jobs/insert-tenants-from-email.js
+: 1533219713:0;sudo -u postgres -i
+: 1533219882:0;yarn compile
+: 1533219948:0;node jobs/insert-tenants-from-email.js
+: 1533220234:0;yarn compile
+: 1533220287:0;node jobs/insert-tenants-from-email.js
+: 1533220326:0;yarn compile
+: 1533220368:0;node jobs/insert-tenants-from-email.js
+: 1533224112:0;yarn test
+: 1533225326:0;git log
+: 1533225341:0;git add .
+: 1533225349:0;git commit -m "Add column approvalDate and function to create onSiteTenants"
+: 1533225359:0;git checkout -
+: 1533225371:0;git checkout master
+: 1533225374:0;git pull
+: 1533225429:0;nvm use
+: 1533225446:0;git checkout -
+: 1533225464:0;git rebase -i HEAD~2
+: 1533225521:0;git log
+: 1533225532:0;git rebase master
+: 1533225542:0;git push origin create-or-update-onsite-tenants-159014265 -f
+: 1533226449:0;yarn test
+: 1533226807:0;git add .
+: 1533226836:0;git commit -m "Refactor some tests"
+: 1533226848:0;git checkout -
+: 1533226851:0;git pull
+: 1533226858:0;git checkout -
+: 1533226884:0;git rebase -i HEAD~2
+: 1533226906:0;git push
+: 1533226914:0;git push origin create-or-update-onsite-tenants-159014265 -f
+: 1533234994:0;git status
+: 1533235016:0;git add .
+: 1533235046:0;git commit -m "Address some code review issues"
+: 1533235072:0;git push origin create-or-update-onsite-tenants-159014265 -f
+: 1533237332:0;git test
+: 1533237337:0;yarn test
+: 1533238065:0;git add .
+: 1533238094:0;git commit -m "Fix some broken tests"
+: 1533238104:0;git rebase -i HEAD~2
+: 1533238148:0;git log
+: 1533238158:0;git rebase -i HEAD~2
+: 1533238201:0;git checkout -
+: 1533238204:0;git pull
+: 1533238220:0;git checkout -
+: 1533238226:0;git rebase master
+: 1533238231:0;git push origin create-or-update-onsite-tenants-159014265 -f
+: 1533239645:0;node jobs/insert-tenants-from-email.js
+: 1533247569:0;git add .
+: 1533247585:0;git status
+: 1533247636:0;git commit -m "Address additional code review comments"
+: 1533247642:0;git rebase -i HEAD~2
+: 1533247688:0;git checkout -
+: 1533247692:0;git pull
+: 1533247699:0;git checkout -
+: 1533247782:0;git rebase master
+: 1533247786:0;git push origin create-or-update-onsite-tenants-159014265 -f
+: 1533249160:0;git checkout update-or-create-ric-from-onsite-159446805
+: 1533249165:0;git rebase master
+: 1533250756:0;git checkout master
+: 1533250771:0;hap deploy -c deploy/local.yaml
+: 1533251244:0;git pull
+: 1533253097:0;git checkout -
+: 1533253785:0;git pull
+: 1533253805:0;git checkout production
+: 1533253817:0;git pull origin
+: 1533253853:0;git checkout -b release-$(date +%Y%m%d)
+: 1533253876:0;git merge master --no-ff
+: 1533253974:0;git push origin release-20180802
+: 1533255127:0;git checkout master
+: 1533255137:0;git pull
+: 1533255155:0;git checkout create-or-update-onsite-tenants-159014265
+: 1533255160:0;git rebase master
+: 1533255176:0;git push origin create-or-update-onsite-tenants-159014265 -f
+: 1533305806:0;git checkout master
+: 1533305812:0;cd git/theguarantors.com
+: 1533305815:0;git checkout master
+: 1533305820:0;git pull
+: 1533305876:0;git checkout update-or-create-ric-from-onsite-159446805
+: 1533305886:0;git rebase master
+: 1533307080:0;yarn test
+: 1533319527:0;ping 8.8.8.8
+: 1533319556:0;ping github.com
+: 1533319563:0;ping www.github.com
+: 1533319585:0;ping https://www.github.com
+: 1533319609:0;ping www.google.com
+: 1533319865:0;ifconfig
+: 1533319900:0;ifconfig /all
+: 1533319905:0;ifconfig -all
+: 1533326676:0;yarn test
+: 1533326695:0;cd git/theguarantors.com
+: 1533326700:0;yarn test
+: 1533328955:0;ssh theguarantors@staging.theguarantors.com
+: 1533566067:0;yaourt -Syyua
+: 1533566129:0;cd git/theguarantors.com
+: 1533566135:0;yarn test
+: 1533573809:0;nvm use
+: 1533574586:0;yarn test
+: 1533595016:0;mailcatcher
+: 1533595020:0;yarn test
+: 1533650827:0;yaourt -Syyua
+: 1533650937:0;cd git/theguarantors.com
+: 1533650949:0;nvm use
+: 1533650961:0;cd ..
+: 1533650972:0;cd .dotfiles
+: 1533650986:0;cd ..
+: 1533650988:0;ll
+: 1533650992:0;cd .dotfiles
+: 1533650994:0;ll
+: 1533651025:0;nvim nvmrc
+: 1533651058:0;cd git/theguarantors.com
+: 1533651065:0;nvm use
+: 1533651092:0;git status
+: 1533651108:0;git add .
+: 1533651159:0;git commit -m "Update node version"
+: 1533651165:0;git push
+: 1533651173:0;git push -f
+: 1533651187:0;cd ..
+: 1533651192:0;cd git/theguarantors.com
+: 1533652336:0;yarn test
+: 1533653109:0;slack
+: 1533653438:0;yaourt slack
+: 1533653493:0;slack
+: 1533653600:0;yaourt slack-desktop
+: 1533653746:0;yarn test
+: 1533654984:0;slack
+: 1533655100:0;slack --version
+: 1533655890:0;yarn test
+: 1533665552:0;mailcatcher
+: 1533665557:0;yarn test
+: 1533670231:0;sudo -u postgres -i
+: 1533670441:0;node jobs/insert-leads-from-external-sources.js
+: 1533670530:0;sudo -u postgres -i
+: 1533671150:0;node jobs/insert-leads-from-external-sources.js
+: 1533671652:0;cd git/theguarantors.com
+: 1533671672:0;node jobs/insert-leads-from-external-sources.js
+: 1533671963:0;sudo -u postgres -i
+: 1533672656:0;node jobs/insert-leads-from-external-sources.js
+: 1533672708:0;cd .dotfiles
+: 1533672709:0;ll
+: 1533672729:0;nvim tmux.conf
+: 1533672936:0;cd git/theguarantors.com
+: 1533672944:0;node jobs/insert-leads-from-external-sources.js
+: 1533673167:0;sudo -u postgres -i
+: 1533673443:0;node jobs/insert-leads-from-external-sources.js
+: 1533673597:0;clear
+: 1533673601:0;node jobs/insert-leads-from-external-sources.js
+: 1533674582:0;yarn compile
+: 1533674621:0;node jobs/insert-leads-from-external-sources.js
+: 1533674797:0;yarn compile
+: 1533674836:0;node jobs/insert-leads-from-external-sources.js
+: 1533674903:0;yarn compile
+: 1533674940:0;node jobs/insert-leads-from-external-sources.js
+: 1533675371:0;yarn compile
+: 1533675410:0;nvm use
+: 1533675426:0;yarn compile
+: 1533675464:0;node jobs/insert-leads-from-external-sources.js
+: 1533675863:0;yarn compile
+: 1533675917:0;node jobs/insert-leads-from-external-sources.js
+: 1533675979:0;yarn compile
+: 1533676050:0;node jobs/insert-leads-from-external-sources.js
+: 1533676237:0;yarn compile
+: 1533676307:0;node jobs/insert-leads-from-external-sources.js
+: 1533678533:0;yarn compile
+: 1533678567:0;node jobs/insert-leads-from-external-sources.js
+: 1533678711:0;git add .
+: 1533678714:0;git status
+: 1533678845:0;git add .
+: 1533678867:0;git log
+: 1533678904:0;git reset --soft HEAD@{1}
+: 1533678913:0;git log
+: 1533678943:0;git reset --soft HEAD@{1}
+: 1533678947:0;git log
+: 1533679077:0;git reset HEAD~
+: 1533679365:0;git add .
+: 1533679368:0;git status
+: 1533679446:0;git commit -m "Add approvalDate to RIC leads and applications. Update RIC leads and applications from onsite"
+: 1533679484:0;git checkout -
+: 1533679489:0;gi pull
+: 1533679493:0;git pull
+: 1533679561:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1533679606:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1533679662:0;NODE_ENV=test npm run sequelize -- db:seed:all
+: 1533679674:0;NODE_ENV=development npm run sequelize -- db:seed:all
+: 1533679700:0;git checkout -
+: 1533679715:0;git rebase master
+: 1533680045:0;git add .
+: 1533680052:0;git commit -m "Add approvalDate to RIC leads and applications. Update RIC leads and applications from onsite" --amend
+: 1533683208:0;git push origin update-or-create-ric-from-onsite-159446805
+: 1533683590:0;git add .
+: 1533683630:0;git commit -m "Remove console.log"
+: 1533683641:0;git rebase -i HEAD~2
+: 1533683807:0;git push origin update-or-create-ric-from-onsite-159446805 -f
+: 1533738365:0;cd git/theguarantors.com
+: 1533738388:0;yarn test
+: 1533738563:0;yarn
+: 1533738759:0;nvm use
+: 1533738775:0;yarn test
+: 1533738827:0;yarn compile
+: 1533738874:0;rm -rf node_modules
+: 1533738881:0;yarn
+: 1533739061:0;yarn test
+: 1533739887:0;git checkout -
+: 1533739904:0;git pull
+: 1533739920:0;git checkout -
+: 1533739925:0;git rebase master
+: 1533739928:0;yarn
+: 1533739978:0;yarn test
+: 1533740259:0;npm run compile
+: 1533745728:0;git checkout -
+: 1533745733:0;yarn test
+: 1533745797:0;git checkout -
+: 1533747385:0;rm -rf node_modules
+: 1533747394:0;yarn
+: 1533747481:0;yarn test
+: 1533747652:0;npm run clean
+: 1533747660:0;yarn test
+: 1533751452:0;git add .
+: 1533751484:0;git commit -m "Fix tests"
+: 1533751491:0;git rebase -i HEAD~2
+: 1533751525:0;git rebase master
+: 1533751557:0;git push origin update-or-create-ric-from-onsite-159446805 -f
+: 1533753482:0;yaourt -Syyua
+: 1533753719:0;slack
+: 1533757731:0;sudo -u postgres -i
+: 1533758854:0;cd git/theguarantors.com
+: 1533758948:0;hap deploy -c deploy/staging.yaml
+: 1533758977:0;ssh theguarantors@staging.theguarantors.com
+: 1533760197:0;hap deploy -c deploy/staging.yaml
+: 1533762675:0;ssh theguarantors@staging.theguarantors.com
+: 1533763069:0;hap deploy -c deploy/staging.yaml
+: 1533763087:0;cd git/theguarantors.com
+: 1533763097:0;git checkout -
+: 1533763158:0;git add .
+: 1533763178:0;git commit -m "Address code review comments"
+: 1533763186:0;git checkout -
+: 1533763191:0;git pull
+: 1533763225:0;git checkout -
+: 1533763271:0;git rebase -i HEAD~2
+: 1533763310:0;git rebase master
+: 1533763316:0;git push origin update-or-create-ric-from-onsite-159446805 -f
+: 1533824258:0;cd git/theguarantors.com
+: 1533824270:0;git checkout -
+: 1533824274:0;git pull
+: 1533824292:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1533824307:0;yarn
+: 1533824322:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1533824361:0;NODE_ENV=development npm run sequelize -- db:seed:all
+: 1533824371:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1533824382:0;git checkout -
+: 1533824389:0;git rebase master
+: 1533824395:0;git push origin update-or-create-ric-from-onsite-159446805 -f
+: 1533825011:0;git checkout -
+: 1533825163:0;git checkout -b rsdr-extra-fields-158468033
+: 1533825169:0;nvm use
+: 1533825979:0;git checkout -
+: 1533825984:0;git pull
+: 1533825997:0;git checkout update-or-create-ric-from-onsite-159446805
+: 1533826003:0;git rebase master
+: 1533826013:0;git push origin update-or-create-ric-from-onsite-159446805 -f
+: 1533827864:0;git checkout - rsdr-extra-fields-158468033
+: 1533827872:0;git checkout rsdr-extra-fields-158468033
+: 1533828325:0;yaourt -Syyua
+: 1533829239:0;git checkout -
+: 1533829251:0;git checkout master
+: 1533829254:0;git pull
+: 1533829271:0;git checkout -
+: 1533829279:0;git rebase master
+: 1533829287:0;git push origin update-or-create-ric-from-onsite-159446805 -f
+: 1533830753:0;yarn test
+: 1533831079:0;yarn
+: 1533831141:0;npm run clean
+: 1533831147:0;yarn test
+: 1533832526:0;npm run start-dev
+: 1533832930:0;yarn test
+: 1533833104:0;npm run start-dev
+: 1533836601:0;bin/dump_db theguarantors@staging.theguarantors.com
+: 1533836662:0;pg_restore --no-owner --no-acl -j 4 -U postgres -d theguarantors_development theguarantors.zdump
+: 1533836896:0;sudo -u postgres -i
+: 1533836989:0;pg_restore --no-owner --no-acl -j 4 -U postgres -d theguarantors_development theguarantors.zdump
+: 1533837003:0;npm run start-dev
+: 1533837495:0;cd git/theguarantors.com
+: 1533837506:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1533837517:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1533838258:0;git checkout master
+: 1533838267:0;git pull
+: 1533838349:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1533838540:0;git checkout -
+: 1533838557:0;git rebase master
+: 1533838574:0;git checkout rsdr-extra-fields-158468033
+: 1533839259:0;npm run start-dev
+: 1533839534:0;git status
+: 1533839575:0;git add .
+: 1533839608:0;git commit -m "Add extra fields for endpoint json"
+: 1533839631:0;git push origin  rsdr-extra-fields-158468033
+: 1533839643:0;git rebase master
+: 1533839650:0;git push origin  rsdr-extra-fields-158468033 -f
+: 1533844993:0;yarn test
+: 1533846587:0;sudo -u postgres -i
+: 1533846701:0;yarn test
+: 1533847627:0;git add .
+: 1533847665:0;git commit -m "Remove utc() from common presenter"
+: 1533847688:0;git checkout -
+: 1533847695:0;git checkout master
+: 1533847707:0;git pull
+: 1533847752:0;git checkout -
+: 1533847759:0;git rebase -i HEAD~2
+: 1533847794:0;git rebase master
+: 1533847801:0;git push origin  rsdr-extra-fields-158468033 -f
+: 1533850008:0;node
+: 1533851598:0;git stash --include-untracked
+: 1533851613:0;git checkout master
+: 1533851617:0;git pull
+: 1533851630:0;git checkout -
+: 1533851646:0;git checkout update-or-create-ric-from-onsite-159446805
+: 1533851657:0;git rebase master
+: 1533853165:0;git status
+: 1533853530:0;git rebase --continue
+: 1533853542:0;git checkout master
+: 1533853545:0;git pull
+: 1533853555:0;git checkout -
+: 1533853597:0;git rebase master
+: 1533853604:0;git push origin update-or-create-ric-from-onsite-159446805 -f
+: 1533853683:0;git checkout rsdr-extra-fields-158468033
+: 1533853702:0;git stash apply
+: 1533853713:0;git stash clear
+: 1533856381:0;yarn test
+: 1533857936:0;git add .
+: 1533858012:0;git commit -m "Replace dummy values with real data"
+: 1533858017:0;git checkout master
+: 1533858022:0;git pull
+: 1533858052:0;git checkout -
+: 1533858066:0;git rebase -i HEAD~2
+: 1533858090:0;git rebase master
+: 1533858096:0;git push origin  rsdr-extra-fields-158468033 -f
+: 1533858120:0;npm run start
+: 1533861456:0;yarn test
+: 1533861863:0;git add .
+: 1533861881:0;git commit -m "Address code review comments"
+: 1533861895:0;git rebase -i HEAD~2
+: 1533861958:0;git checkout -
+: 1533861964:0;git pull
+: 1533861982:0;git checkout -
+: 1533862000:0;git rebase master
+: 1533862007:0;git push origin  rsdr-extra-fields-158468033 -f
+: 1534174756:0;cd git/theguarantors.com
+: 1534174798:0;git checkout update-or-create-ric-from-onsite-159446805
+: 1534174813:0;git checkout master
+: 1534174816:0;git pull
+: 1534174864:0;nvm use
+: 1534174891:0;git checkout -
+: 1534174947:0;git rebase master
+: 1534175226:0;git log
+: 1534176898:0;ssh theguarantors@staging.theguarantors.com
+: 1534180715:0;git reset HEAD~
+: 1534186345:0;yaourt -Syyua
+: 1534190660:0;node jobs/insert-tenants-from-email.js
+: 1534191211:0;yarn compile
+: 1534191258:0;node jobs/insert-tenants-from-email.js
+: 1534191328:0;yarn compile
+: 1534191363:0;node jobs/insert-tenants-from-email.js
+: 1534191471:0;yarn compile
+: 1534191533:0;node jobs/insert-tenants-from-email.js
+: 1534191663:0;yarn compile
+: 1534191716:0;node jobs/insert-tenants-from-email.js
+: 1534191825:0;yarn compile
+: 1534191886:0;node jobs/insert-tenants-from-email.js
+: 1534192078:0;yarn compile
+: 1534192122:0;node jobs/insert-tenants-from-email.js
+: 1534192375:0;ebv
+: 1534192379:0;env
+: 1534194526:0;git add .
+: 1534194614:0;git commit -m "Add approvalDate to RIC leads and applications. Update RIC leads and applications from onsite"
+: 1534194733:0;git checkout master
+: 1534194736:0;git pull
+: 1534194743:0;git checkout -b fix-update-onsite-tenants-159014265
+: 1534194922:0;yarn test
+: 1534196812:0;sudo -u postgres -i
+: 1534197085:0;node jobs/insert-tenants-from-email.js
+: 1534197135:0;git add .
+: 1534197207:0;git commit -m "Only update the approvalDate and monthlyRent of OnSiteTenants"
+: 1534197259:0;git push origin fix-update-onsite-tenants-159014265
+: 1534198125:0;git pull
+: 1534198150:0;git pull origin fix-update-onsite-tenants-159014265
+: 1534198161:0;git checkout -
+: 1534198165:0;git pull
+: 1534198178:0;git checkout -
+: 1534198187:0;git rebase -i HEAD~2
+: 1534198220:0;git rebase master
+: 1534198229:0;git push origin fix-update-onsite-tenants-159014265
+: 1534198235:0;git push origin fix-update-onsite-tenants-159014265 -f
+: 1534199205:0;git checkout -
+: 1534199208:0;git pull
+: 1534200126:0;yarn test
+: 1534200755:0;git checkout -
+: 1534200766:0;yarn test
+: 1534201272:0;git add .
+: 1534201291:0;git commit -m "Fix tests"
+: 1534201296:0;git rebase -i HEAD~2
+: 1534201331:0;git checkout -
+: 1534201336:0;git pull
+: 1534201351:0;git checkout -
+: 1534201358:0;git rebase master
+: 1534201363:0;git push origin fix-update-onsite-tenants-159014265 -f
+: 1534204532:0;ssh theguarantors@staging.theguarantors.com
+: 1534205170:0;ssh
+: 1534205173:0;ssh theguarantors@staging.theguarantors.com
+: 1534255677:0;yaourt -Syyua
+: 1534257458:0;cd git/theguarantors.com
+: 1534257971:0;git status
+: 1534257980:0;git add .
+: 1534258026:0;git commit -m "Delete unnecessary file"
+: 1534258037:0;git checkout -
+: 1534258041:0;git pull
+: 1534258051:0;git checkout -
+: 1534258057:0;git rebase -i HEAD~2
+: 1534258090:0;git rebase master
+: 1534258132:0;git push origin fix-update-onsite-tenants-159014265 -f
+: 1534258440:0;git checkout -
+: 1534258544:0;git checkout -b remove-extra-file-15901426
+: 1534258561:0;git status
+: 1534258600:0;git commit -m "Delete an unnecessary file"
+: 1534258608:0;git add .
+: 1534258610:0;git commit -m "Delete an unnecessary file"
+: 1534258635:0;git push origin remove-extra-file-15901426
+: 1534260342:0;git checkout -
+: 1534260346:0;git pull
+: 1534260355:0;git checkout -
+: 1534260374:0;git rebase master
+: 1534260381:0;git push origin remove-extra-file-15901426
+: 1534260386:0;git push origin remove-extra-file-15901426 -f
+: 1534263611:0;nvm use
+: 1534263646:0;git checkout -
+: 1534263653:0;git pull
+: 1534263697:0;git checkout -
+: 1534263703:0;git rebase master
+: 1534263711:0;git push origin remove-extra-file-15901426 -f
+: 1534263764:0;git checkout -
+: 1534263775:0;git pull
+: 1534263787:0;git checkout -
+: 1534263799:0;git checkout master
+: 1534263809:0;git checkout -
+: 1534263814:0;git rebase master
+: 1534263822:0;git push origin remove-extra-file-15901426 -f
+: 1534263939:0;git checkout -b list-sdr-claims-159343977
+: 1534264352:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1534264406:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1534264508:0;sudo -u postgres -i
+: 1534264528:0;cd .dotfiles
+: 1534264667:0;ll
+: 1534264679:0;cat psqlrc
+: 1534268451:0;git clean
+: 1534268463:0;npm run clean
+: 1534268509:0;yarn compile
+: 1534279279:0;yarn test
+: 1534284760:0;git add .
+: 1534284857:0;git commit -m "Add operation to list rsdr claims"
+: 1534284897:0;git push origin list-sdr-claims-159343977
+: 1534342065:0;yaourt -Syyua
+: 1534343327:0;cd git/theguarantors.com
+: 1534343333:0;yarn test
+: 1534350822:0;ll
+: 1534350825:0;al
+: 1534350827:0;la
+: 1534350850:0;cat .nvmrc
+: 1534350882:0;node -v
+: 1534350892:0;nvm use
+: 1534351277:0;yarn test
+: 1534351863:0;git add .
+: 1534352014:0;git commit -m "Add presenter to transform sdr claims to rows on landlord dashboard"
+: 1534352024:0;git checkout -
+: 1534352032:0;git pull
+: 1534352050:0;git checkout -
+: 1534352055:0;git checkout master
+: 1534352059:0;git pull
+: 1534352088:0;git checkout -
+: 1534352097:0;git rebase master
+: 1534353470:0;npm run test
+: 1534370002:0;yarn test
+: 1534376022:0;npm run start
+: 1534376066:0;cd git/theguarantors.com
+: 1534376071:0;npm run start
+: 1534376259:0;netstat -tupln
+: 1534376280:0;kill -9 18027
+: 1534376283:0;netstat -tupln
+: 1534376295:0;npm run start
+: 1534376465:0;sudo -u postgres -i
+: 1534376645:0;npm run start-dev
+: 1534377439:0;npm run start
+: 1534428249:0;yaourt -Syyua
+: 1534428433:0;cd git/theguarantors.com
+: 1534428455:0;nvm use
+: 1534428532:0;git log
+: 1534428548:0;git add .
+: 1534428593:0;git commit -m "Add the endpoint for listing sdr claims in the landlord dashboard"
+: 1534428611:0;git checkout -
+: 1534428623:0;git pull
+: 1534428664:0;yarn
+: 1534428697:0;git checkout -
+: 1534428702:0;git rebase master
+: 1534444521:0;git status
+: 1534444535:0;git push origin list-sdr-claims-159343977 -f
+: 1534448337:0;yarn test
+: 1534457222:0;yaourt -Syyua
+: 1534457375:0;yaourt antergos-common-meta
+: 1534457414:0;yaourt hunspell-en_US
+: 1534457441:0;yaourt -Rns hunspell-en
+: 1534457543:0;npm run start
+: 1534457713:0;git status
+: 1534457719:0;git add .
+: 1534457783:0;git commit -m "Refactor claims listing function, address code review comments"
+: 1534457802:0;git checkout -
+: 1534457806:0;git pull
+: 1534457824:0;git checkout -
+: 1534457828:0;git rebase master
+: 1534457839:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1534458018:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1534458063:0;git push origin list-sdr-claims-159343977 -f
+: 1534458727:0;git checkout -
+: 1534458730:0;git pull
+: 1534458744:0;git checkout -
+: 1534458814:0;git log
+: 1534458831:0;git rebase -i HEAD~4
+: 1534458914:0;git push origin list-sdr-claims-159343977 -f
+: 1534460383:0;yarn test
+: 1534461037:0;sudo -u postgres -i
+: 1534461157:0;yarn test
+: 1534462195:0;git add .
+: 1534462220:0;git commit -m "Address more code review comments"
+: 1534462235:0;git rebase -i HEAD~2
+: 1534462289:0;git rebase master
+: 1534462299:0;git checkout -
+: 1534462303:0;git pull
+: 1534462320:0;git checkout -
+: 1534462323:0;git rebase master
+: 1534462329:0;git push origin list-sdr-claims-159343977 -f
+: 1534462577:0;yarn test
+: 1534462836:0;git add .
+: 1534462840:0;git status
+: 1534462855:0;git commit -m "Address more code review comments"
+: 1534462861:0;git rebase -i HEAD~2
+: 1534462925:0;git checkout -
+: 1534462928:0;git pull
+: 1534462932:0;git checkout -
+: 1534462944:0;git push origin list-sdr-claims-159343977 -f
+: 1534463254:0;git add .
+: 1534463260:0;git commit -m "Address more code review comments"
+: 1534463264:0;git rebase -i HEAD~2
+: 1534463340:0;git push origin list-sdr-claims-159343977 -f
+: 1534463753:0;npm run start
+: 1534464244:0;ssh theguarantors@staging.theguarantors.com
+: 1534515496:0;cd git/theguarantors.com
+: 1534515520:0;nvm use
+: 1534515562:0;git checkout -
+: 1534515566:0;git pull
+: 1534515848:0;git checkout -b rsdr-csv-upload-RSDR-39
+: 1534516250:0;git cherry-pick 01e5b4423b787d80fdafbf3083d13abbc91e10a3
+: 1534522408:0;git add .
+: 1534522423:0;git status
+: 1534522902:0;git commit -m "[RSDR-39] Implement CSV consumption in ResiSDR "
+: 1534523001:0;git reset HEAD~
+: 1534523125:0;git add .
+: 1534523181:0;git commit -m "Cherry pick and merge conflicts from [RSDR-39] Implement CSV consumption in ResiSDR"
+: 1534524101:0;sudo -u postgres -i
+: 1534525648:0;cd resisdr-onboarding
+: 1534525665:0;npm run start
+: 1534525686:0;cd ..
+: 1534525698:0;npm run start resisdr
+: 1534526301:0;cd git/theguarantors.com
+: 1534526309:0;cd resisdr-onboarding
+: 1534526310:0;ll
+: 1534526317:0;cd src
+: 1534526319:0;ll
+: 1534526371:0;cd ..
+: 1534526379:0;npm run compile
+: 1534526491:0;PORT=3000 LOCALHOST_PAYMENTS_PORT=3001 LOCALHOST_RESI_SDR_PORT=3002 npm start
+: 1534526643:0;PORT=3000 LOCALHOST_PAYMENTS_PORT=3001 LOCALHOST_RESI_SDR_PORT=3002 npm run start
+: 1534527208:0;yarn
+: 1534527255:0;npm install
+: 1534527283:0;PORT=3000 LOCALHOST_PAYMENTS_PORT=3001 LOCALHOST_RESI_SDR_PORT=3002 npm run start
+: 1534528917:0;git status
+: 1534528923:0;git add .
+: 1534528956:0;git commit -m "Fix RSDR application creation from CSV"
+: 1534529005:0;git checkout -
+: 1534529008:0;git pull
+: 1534529098:0;git checkout -b fix-field-names-from-sdr-claims-159343977
+: 1534534374:0;npm run start
+: 1534534658:0;git add .
+: 1534534717:0;git commit -m "Fix claim field names with more apropriate ones"
+: 1534534768:0;git checkout -
+: 1534534772:0;git pull
+: 1534534821:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1534534869:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1534534878:0;git checkout -
+: 1534534887:0;git rebase master
+: 1534534919:0;git push origin fix-field-names-from-sdr-claims-159343977
+: 1534535217:0;git checkout rsdr-csv-upload-RSDR-39
+: 1534537210:0;git checkout fix-field-names-from-sdr-claims-159343977
+: 1534537292:0;yarn test
+: 1534537468:0;git add .
+: 1534537483:0;git commit -m "Fix tests"
+: 1534537497:0;git checkout -
+: 1534537504:0;git pull
+: 1534537533:0;git checkout -
+: 1534537548:0;git checkout master
+: 1534537558:0;git pull
+: 1534537566:0;git checkout -
+: 1534537575:0;git rebase -i HEAD~2
+: 1534537597:0;git rebase master
+: 1534537605:0;git push origin fix-field-names-from-sdr-claims-159343977
+: 1534537610:0;git push origin fix-field-names-from-sdr-claims-159343977 -f
+: 1534537813:0;git checkout rsdr-csv-upload-RSDR-39
+: 1534539712:0;git add .
+: 1534539745:0;git commit -m "Fix RSDR application creation from CSV" --amend
+: 1534539757:0;git checkout -
+: 1534539883:0;yarn test
+: 1534539943:0;git checkout master
+: 1534539946:0;git pull
+: 1534539959:0;git checkout -
+: 1534539973:0;git status
+: 1534540004:0;git add .
+: 1534540025:0;git commit -m "Fix tests"
+: 1534540029:0;git rebase master
+: 1534540033:0;git rebase -i HEAD~2
+: 1534540057:0;git push origin fix-field-names-from-sdr-claims-159343977 -f
+: 1534540153:0;git checkout rsdr-csv-upload-RSDR-39
+: 1534541278:0;PORT=3000 LOCALHOST_PAYMENTS_PORT=3001 LOCALHOST_RESI_SDR_PORT=3002 npm run start
+: 1534543049:0;ssh theguarantors@staging.theguarantors.com
+: 1534774262:0;yaourt -Syyua
+: 1534779324:0;cd git/theguarantors.com
+: 1534779334:0;yarn test
+: 1534779530:0;kill -CONT 5993
+: 1534779578:0;jobs
+: 1534779583:0;fg
+: 1534779668:0;yarn test
+: 1534779915:0;git log
+: 1534779925:0;git add .
+: 1534779937:0;git commit -m "Fix RSDR application creation from CSV" --amend
+: 1534779958:0;git checkout master
+: 1534779962:0;git pull
+: 1534779988:0;git checkout rsdr-csv-upload-RSDR-39
+: 1534779994:0;git rebase master
+: 1534780031:0;yarn test
+: 1534780084:0;nvm use
+: 1534780101:0;npm run test
+: 1534780307:0;cd resisdr-onboarding
+: 1534780340:0;npm install
+: 1534780349:0;npm test
+: 1534782522:0;sudo -u postgres -i
+: 1534782742:0;npm run start resisdr
+: 1534782830:0;cd git/theguarantors.com
+: 1534782852:0;npm run start
+: 1534786681:0;npm run start resisdr
+: 1534791273:0;cd resisdr-onboarding
+: 1534791283:0;npm test
+: 1534792796:0;npm run start resisdr
+: 1534792871:0;sudo -u postgres -i
+: 1534796096:0;cd git/theguarantors.com
+: 1534796104:0;npm start
+: 1534796432:0;npm run start resisdr
+: 1534796564:0;git status
+: 1534796581:0;git commit -m "Fix RSDR application creation from CSV" --amend
+: 1534796587:0;git checkout master
+: 1534796597:0;git add .
+: 1534796600:0;git commit -m "Fix RSDR application creation from CSV" --amend
+: 1534796603:0;git checkout master
+: 1534796606:0;git pull
+: 1534796623:0;git checkout rsdr-csv-upload-RSDR-39
+: 1534796635:0;git rebase master
+: 1534796651:0;git rebase -i HEAD~2
+: 1534796746:0;git push origin rsdr-csv-upload-RSDR-39
+: 1534802039:0;git checkout master
+: 1534802042:0;git pull
+: 1534802070:0;git checkout tjscollins-patch-1
+: 1534802080:0;git status
+: 1534802086:0;git log
+: 1534802122:0;git reset HEAD~
+: 1534802128:0;git log
+: 1534802168:0;git status
+: 1534802320:0;git reset --hard HEAD
+: 1534802333:0;git status
+: 1534805030:0;git checkout master && git pull
+: 1534806962:0;git pull
+: 1534807046:0;git checkout -b switch-yarn-to-npm-DEBT-16
+: 1534807061:0;la
+: 1534807084:0;npm install -g synp
+: 1534807089:0;sudo npm install -g synp
+: 1534807112:0;yarn
+: 1534807146:0;synp --source-file yarn.lock
+: 1534807865:0;rm -rf node_modules
+: 1534807875:0;npm install
+: 1534861442:0;cd git/theguarantors.com
+: 1534861463:0;git reset --hard origin/master
+: 1534861677:0;npm install -g pnpm
+: 1534861723:0;rm -rf node_modules
+: 1534861739:0;pnpm install
+: 1534865180:0;git checkout rsdr-csv-upload-RSDR-39
+: 1534868326:0;rm -rf node_modules
+: 1534868336:0;yarn
+: 1534868380:0;rm -rf node_modules
+: 1534868382:0;yarn
+: 1534868589:0;nvm use
+: 1534868638:0;git status
+: 1534868648:0;git add .
+: 1534868729:0;git commit -m "Address review comments"
+: 1534868741:0;git rebase -i HEAD~2
+: 1534868787:0;git checkout master
+: 1534868790:0;git pull
+: 1534868806:0;yarn
+: 1534868831:0;git checkout -
+: 1534868846:0;git rebase master
+: 1534869371:0;cd resisdr-onboarding
+: 1534869379:0;yarn 
+: 1534869401:0;npm install
+: 1534869418:0;npm test
+: 1534869839:0;git status
+: 1534869843:0;git add .
+: 1534869882:0;git commit -m "Fix tests"
+: 1534869885:0;git rebase -i HEAD~2
+: 1534869914:0;git push
+: 1534869928:0;git push origin rsdr-csv-upload-RSDR-39 -f
+: 1534884978:0;npm test
+: 1534885113:0;git add .
+: 1534885130:0;git commit -m "Address code reviews"
+: 1534885150:0;git rebase -i HEAD~2
+: 1534885182:0;git checkout -
+: 1534885186:0;git pull
+: 1534885208:0;cd ..
+: 1534885217:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1534885260:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1534885271:0;git checkout -
+: 1534885277:0;git rebase master
+: 1534885481:0;git rebase --continue
+: 1534885566:0;cd resisdr-onboarding
+: 1534885573:0;npm install
+: 1534885617:0;npm run start resisdr
+: 1534885909:0;cd ..
+: 1534885929:0;git add .
+: 1534885951:0;git push origin rsdr-csv-upload-RSDR-39 -f
+: 1534885976:0;git rebase -i HEAD~1
+: 1534886133:0;git log
+: 1534886365:0;git checkout upload-documents-dashboard-v2-158695907
+: 1534886379:0;git rebase master
+: 1534888027:0;git status
+: 1534888118:0;git rebase --continue
+: 1534889818:0;yarn test
+: 1534890154:0;git add .
+: 1534890161:0;gi status
+: 1534890165:0;git status
+: 1534890200:0;git commit -m "Rebase and solve conflicts"
+: 1534890212:0;git rebase -i HEAD~2
+: 1534890361:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1534890563:0;git checkout master
+: 1534890566:0;git pull
+: 1534890582:0;git checkout rsdr-csv-upload-RSDR-39
+: 1534890589:0;git rebase master
+: 1534890606:0;git log
+: 1534890939:0;git add .
+: 1534890959:0;git commit -m "Format"
+: 1534890972:0;git rebase -i HEAD~2
+: 1534891089:0;git push origin rsdr-csv-upload-RSDR-39 -f
+: 1534891220:0;git checkout master
+: 1534891228:0;git pull
+: 1534891241:0;git checkout rsdr-csv-upload-RSDR-39
+: 1534891252:0;git rebase master
+: 1534891257:0;git push origin rsdr-csv-upload-RSDR-39 -f
+: 1534894011:0;git add .
+: 1534894024:0;git commit -m "Format"
+: 1534894030:0;git rebase -i HEAD~2
+: 1534894086:0;git checkout master
+: 1534894090:0;git pull
+: 1534894128:0;git checkout -
+: 1534894138:0;git rebase master
+: 1534894146:0;git push origin rsdr-csv-upload-RSDR-39 -f
+: 1534894260:0;git add .
+: 1534894264:0;git commit -m "Format"
+: 1534894268:0;git rebase -i HEAD~2
+: 1534894295:0;git push origin rsdr-csv-upload-RSDR-39 -f
+: 1534947801:0;cd git/theguarantors.com
+: 1534947812:0;git checkout -
+: 1534947817:0;git pull
+: 1534947844:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1534947885:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1534947896:0;git checkout -
+: 1534947909:0;git rebase master
+: 1534948010:0;git add .
+: 1534948025:0;git rebase --continue
+: 1534948041:0;git push origin rsdr-csv-upload-RSDR-39 -f
+: 1534948213:0;visudo
+: 1534948219:0;sudo visudo
+: 1534948352:0;groups
+: 1534948360:0;users
+: 1534948544:0;yaourt -Syyua
+: 1534951451:0;cd git/theguarantors.com
+: 1534951458:0;git checkout -
+: 1534951462:0;git pull
+: 1534958766:0;git checkout -b lg-claims-operations-LG-162
+: 1534972904:0;yarn test
+: 1534973907:0;npm run clean
+: 1534973910:0;yarn test
+: 1535033669:0;yaourt -Syyua
+: 1535038004:0;ssh theguarantors@staging.theguarantors.com
+: 1535060343:0;cd git/theguarantors.com
+: 1535060346:0;yarn test
+: 1535120309:0;cd git/theguarantors.com
+: 1535120499:0;yaourt -Syyua
+: 1535120620:0;nvm use
+: 1535120661:0;yarn test
+: 1535120681:0;la
+: 1535120705:0;cat nvmrc
+: 1535120712:0;cat .nvmrc
+: 1535120801:0;cat .zshrc
+: 1535121010:0;yarn test
+: 1535121114:0;sudo -u postgres -i
+: 1535121812:0;yarn test
+: 1535122631:0;git stash --include-untracked
+: 1535122780:0;git checkout master
+: 1535122784:0;git pull
+: 1535124660:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1535129724:0;git add .
+: 1535130309:0;git commit -m "RIC-69 Fix duplicated RentersInsuranceApplications when creating from onsite and emails"
+: 1535130324:0;git checkout master
+: 1535130334:0;git pull
+: 1535130358:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1535130375:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1535130385:0;git checkout -
+: 1535130397:0;git rebase master
+: 1535130402:0;yarn test
+: 1535130501:0;yarn
+: 1535130662:0;npm run clean
+: 1535130707:0;yarn test
+: 1535131943:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1535131953:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1535139285:0;yarn test
+: 1535147696:0;npm run start
+: 1535147730:0;npm run compile
+: 1535148128:0;sudo -u postgres -i
+: 1535148692:0;node jobs/insert-tenants-from-email.js
+: 1535149868:0;node jobs/insert-leads-from-external-sources.js
+: 1535152171:0;yarn compile
+: 1535152209:0;node jobs/insert-leads-from-external-sources.js
+: 1535152247:0;yarn compile
+: 1535152289:0;cd resisdr-onboarding
+: 1535152301:0;npm run start resisdr
+: 1535153086:0;cd git/theguarantors.com
+: 1535153102:0;npm run start
+: 1535154177:0;git add .
+: 1535154205:0;git commit -m "RIC-69 Fix duplicated RentersInsuranceApplications when creating from onsite and emails" --amend
+: 1535154279:0;git checkout -
+: 1535154282:0;git pull
+: 1535154292:0;yarn
+: 1535154341:0;cd resisdr-onboarding
+: 1535154350:0;npm install
+: 1535154372:0;cd ..
+: 1535154378:0;git checkout -
+: 1535154439:0;git rebase master
+: 1535154444:0;git log
+: 1535154468:0;git push origin fix-RIC-RSDR-applications-duplication-RIC-69
+: 1535380493:0;yaourt -Syyua
+: 1535383516:0;yaourt kraken
+: 1535385323:0;sudo -u postgres -i
+: 1535389827:0;cd git/theguarantors.com
+: 1535389833:0;git checkout -
+: 1535389837:0;git pull
+: 1535390160:0;git checkout -b add-citext-to-RIC-leads-RIC-69
+: 1535395808:0;nvm use
+: 1535395815:0;cd resisdr-onboarding
+: 1535395820:0;npm test
+: 1535395872:0;cd ..
+: 1535395880:0;yarn test
+: 1535399415:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1535400181:0;yar test
+: 1535400214:0;yarn test
+: 1535402155:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1535402217:0;yarn test
+: 1535402344:0;git add .
+: 1535402514:0;git commit -m "RIC-69 Fix duplicated RIC Applications when creating from onsite and emails. Fix duplicated SDR applications when creating from csv"
+: 1535403287:0;git checkout -
+: 1535403296:0;git pull
+: 1535403320:0;git checkout -
+: 1535403417:0;git cherry-pick 68482fbd70546e201fbf622e0d75c00d8e5e88d7
+: 1535403444:0;git status
+: 1535403458:0;git cherry-pick --abort
+: 1535403581:0;git rebase master
+: 1535403825:0;git add .
+: 1535403861:0;git rebase --continue
+: 1535403892:0;git cherry-pick 68482fbd70546e201fbf622e0d75c00d8e5e88d7
+: 1535403956:0;git add .
+: 1535403979:0;git status
+: 1535404005:0;git cherry-pick --continue
+: 1535404091:0;git status
+: 1535404094:0;git log
+: 1535404152:0;git rebase -i HEAD~2
+: 1535404904:0;yarn test
+: 1535405084:0;git add .
+: 1535405554:0;git log
+: 1535405581:0;git rebase -i HEAD~2
+: 1535405642:0;git checkout master
+: 1535405648:0;git pull
+: 1535405689:0;git checkout -
+: 1535405704:0;git rebase master
+: 1535406196:0;git status
+: 1535406223:0;git commit -m "changes"
+: 1535406232:0;git rebase -i HEAD~2
+: 1535406322:0;git push origin add-citext-to-RIC-leads-RIC-69
+: 1535406327:0;git push origin add-citext-to-RIC-leads-RIC-69 -f
+: 1535408404:0;git checkout -
+: 1535408407:0;git pull
+: 1535408530:0;git checkout -b fix-approvalDate-of-onsite-tenants-RIC-71
+: 1535409338:0;git checkout add-citext-to-RIC-leads-RIC-69
+: 1535409346:0;git checkout master
+: 1535409349:0;git pull
+: 1535409360:0;yarn
+: 1535409400:0;git checkout -
+: 1535409406:0;git rebase master
+: 1535409414:0;git push origin add-citext-to-RIC-leads-RIC-69 -f
+: 1535409489:0;git checkout fix-approvalDate-of-onsite-tenants-RIC-71
+: 1535409501:0;git rebase master
+: 1535410294:0;git checkout master
+: 1535410302:0;git pull
+: 1535410313:0;git checkout production
+: 1535410327:0;git checkout -b release-$(date +%Y%m%d)
+: 1535410347:0;git merge master --no-ff
+: 1535410407:0;git push origin release-20180827
+: 1535410877:0;git checkout fix-approvalDate-of-onsite-tenants-RIC-71
+: 1535465487:0;yaourt -Syyua
+: 1535466573:0;cd git/theguarantors.com
+: 1535466578:0;yarn test
+: 1535479902:0;sudo -u postgres -i
+: 1535480165:0;node jobs/insert-tenants-from-email.js
+: 1535481017:0;git status
+: 1535481029:0;git add .
+: 1535481176:0;git commit -m "Make the onsite emails to update the approval date only when its null"
+: 1535481183:0;git checkout master
+: 1535481187:0;git pull
+: 1535481245:0;git checkout -
+: 1535481251:0;git rebase master
+: 1535481254:0;git log
+: 1535481293:0;git push origin fix-approvalDate-of-onsite-tenants-RIC-71
+: 1535481478:0;git add .
+: 1535481492:0;git commit -m "Remove .only"
+: 1535481499:0;git rebase -i HEAD~2
+: 1535481557:0;git push origin fix-approvalDate-of-onsite-tenants-RIC-71
+: 1535481561:0;git push origin fix-approvalDate-of-onsite-tenants-RIC-71 -f
+: 1535489937:0;git checkout upload-documents-dashboard-v2-158695907
+: 1535489958:0;git stash apply
+: 1535489984:0;git stash clear
+: 1535490008:0;npm run clean
+: 1535490898:0;yarn test
+: 1535491005:0;git add .
+: 1535491041:0;git commit -m "Address code review comments"
+: 1535491064:0;git checkout master
+: 1535491071:0;git pull
+: 1535491086:0;git checkout -
+: 1535491090:0;git rebase master
+: 1535491099:0;yarn test
+: 1535492203:0;git add .
+: 1535492213:0;git commit -m "Address code review comments" --amend
+: 1535492231:0;git checkout fix-approvalDate-of-onsite-tenants-RIC-71
+: 1535492542:0;yarn test
+: 1535492662:0;npm run clean
+: 1535492681:0;yarn test
+: 1535492845:0;git status
+: 1535492850:0;git add .
+: 1535492905:0;git commit -m "Address code review commets"
+: 1535492944:0;git checkout master
+: 1535492948:0;git pull
+: 1535492963:0;git checkout -
+: 1535492969:0;git rebase master
+: 1535492974:0;git rebase -i HEAD~2
+: 1535492999:0;git push origin fix-approvalDate-of-onsite-tenants-RIC-71 -f
+: 1535493407:0;git checkout -
+: 1535493410:0;git pull
+: 1535493417:0;yarn
+: 1535493787:0;git checkout -
+: 1535493791:0;git rebase master
+: 1535493797:0;git push origin fix-approvalDate-of-onsite-tenants-RIC-71 -f
+: 1535494562:0;git checkout upload-documents-dashboard-v2-158695907
+: 1535495878:0;yarn test
+: 1535496826:0;git checkout -
+: 1535496856:0;git status
+: 1535496858:0;git log
+: 1535497538:0;git branch
+: 1535497699:0;git add .
+: 1535497712:0;git commit -m "Address code review comments" --amend
+: 1535497939:0;git log
+: 1535497969:0;git reset HEAD~
+: 1535498285:0;yarn test
+: 1535498512:0;git status
+: 1535498526:0;git commit -m "Address code review comments" --amend
+: 1535498554:0;git log
+: 1535498620:0;git reset HEAD~
+: 1535498628:0;git status
+: 1535498669:0;git log
+: 1535498981:0;git reset 'HEAD@{1}'
+: 1535498992:0;git log
+: 1535499008:0;git reflog
+: 1535499100:0;git reset 'HEAD@{4}'
+: 1535499105:0;git log
+: 1535499432:0;git reset HEAD~
+: 1535499436:0;git log
+: 1535499522:0;yarn test
+: 1535499613:0;git commit -m "Address code review comments"
+: 1535499639:0;git stash --include-untracked
+: 1535499680:0;git checkout lg-claims-operations-LG-162
+: 1535499690:0;npm run clean
+: 1535499719:0;git stash apply
+: 1535499738:0;git add .
+: 1535499741:0;git log
+: 1535499808:0;git commit -m "LG-162 Create list function for LG calims"
+: 1535499830:0;git checkout -
+: 1535500399:0;yarn test
+: 1535550688:0;cd git/theguarantors.com
+: 1535550695:0;yarn test
+: 1535550875:0;OA
+: 1535550878:0;yarn test
+: 1535551677:0;git add .
+: 1535551691:0;git log
+: 1535551718:0;git commit -m "Address code review comments" --amend
+: 1535551735:0;git rebase master
+: 1535551741:0;git rebase -i HEAD~2
+: 1535551785:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1535553183:0;git checkout -b lg-claims-operations-LG-162
+: 1535553192:0;git checkout lg-claims-operations-LG-162
+: 1535553211:0;git log
+: 1535553298:0;npm run clean
+: 1535554584:0;yarn test
+: 1535554708:0;git rebase master
+: 1535554719:0;git log
+: 1535554738:0;git add .
+: 1535554766:0;git commit -m "LG-162 Create list function for LG calims" --amend
+: 1535554771:0;git rebase master
+: 1535555578:0;yarn test
+: 1535559168:0;sudo -u postgres -i
+: 1535559346:0;yarn test
+: 1535560612:0;sudo -u postgres -i
+: 1535561010:0;yarn test
+: 1535571059:0;sudo -u postgres -i
+: 1535571630:0;yarn test
+: 1535572709:0;npm run start-dev
+: 1535579109:0;node
+: 1535637281:0;cd git/theguarantors.com
+: 1535637309:0;npm run start-dev
+: 1535639597:0;sudo -u postgres -i
+: 1535639862:0;yaourt -Syyua
+: 1535639966:0;yaourt dbeaver
+: 1535640059:0;dbeaver
+: 1535640088:0;java -v
+: 1535640093:0;java -version
+: 1535640120:0;yaourt -Rns dbeaver
+: 1535640175:0;yaourt pgadmin
+: 1535654588:0;git log
+: 1535654601:0;git add .
+: 1535654614:0;git commit -m "LG-162 Create list function for LG calims" --amend
+: 1535654649:0;git checkout -
+: 1535654664:0;git checkout master
+: 1535654668:0;git pull
+: 1535654691:0;yarn
+: 1535654757:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1535654810:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1535654902:0;git checkout -b fix-RIC-leads-unique-index
+: 1535655748:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1535656304:0;NODE_ENV=test npm run sequelize -- db:migrate:undo
+: 1535656501:0;git status
+: 1535656520:0;git add .
+: 1535656947:0;git commit -m "Replace the email UNIQUE index from RIC Leads with a (email, leaseId) UNIQUE index"
+: 1535656988:0;git push origin fix-RIC-leads-unique-index
+: 1535657461:0;git checkout lg-claims-operations-LG-162
+: 1535657523:0;npm run clean
+: 1535658306:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1535658527:0;git rebase master
+: 1535658546:0;git status
+: 1535658564:0;git prune --help
+: 1535658592:0;git prune -n
+: 1535658622:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1535659986:0;npm run clean
+: 1535659994:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1535660047:0;git status
+: 1535660132:0;git add .
+: 1535660236:0;git commit -m "Delete status fix as it requires to alter the data which is beyond this story's scope"
+: 1535660265:0;npm run start
+: 1535660276:0;cd git/theguarantors.com
+: 1535660285:0;git status
+: 1535660303:0;git push origin lg-claims-operations-LG-162
+: 1535661360:0;git checkout fix-RIC-leads-unique-index
+: 1535661379:0;yarn test
+: 1535662253:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1535662265:0;yarn test
+: 1535662819:0;git checkout lg-claims-operations-LG-162
+: 1535665929:0;yarn test
+: 1535731822:0;cd git/theguarantors.com
+: 1535731828:0;yarn test
+: 1535731836:0;yaourt -Syyua
+: 1535732166:0;yarn test
+: 1535740753:0;git status
+: 1535740757:0;git add .
+: 1535740857:0;git commit -m "Clean up some code and refactor the tests to be more detailed"
+: 1535740870:0;git prune
+: 1535742425:0;git push origin lg-claims-operations-LG-162
+: 1535742498:0;git log
+: 1535742520:0;git rebase -i HEAD~3
+: 1535742566:0;git checkout master
+: 1535742573:0;git pull
+: 1535742597:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1535742604:0;yarn
+: 1535742659:0;git checkout -
+: 1535742667:0;git rebase master
+: 1535742675:0;git push origin lg-claims-operations-LG-162 -f
+: 1535743547:0;yarn test
+: 1535744339:0;git add .
+: 1535744362:0;git commit -m "remove .only"
+: 1535744372:0;git rebase -i HEAD~2
+: 1535744416:0;git push origin lg-claims-operations-LG-162 -f
+: 1535744663:0;git add.
+: 1535744667:0;git add .
+: 1535744689:0;git commit -m "imports"
+: 1535744695:0;git rebase -i HEAD~2
+: 1535744723:0;git push origin lg-claims-operations-LG-162 -f
+: 1535747654:0;git checkout -
+: 1535747657:0;git pull
+: 1535747909:0;node
+: 1535749372:0;echo NODE_ENV
+: 1535749377:0;echo $NODE_ENV
+: 1535752317:0;git pull
+: 1535752338:0;git checkout production
+: 1535752349:0;git pull origin
+: 1535752366:0;git checkout -b release-$(date +%Y%m%d)
+: 1535752378:0;git merge master --no-ff
+: 1535752436:0;git push origin release-20180831
+: 1535753400:0;git checkout master
+: 1535754388:0;git checkout -b fix-rollback-rsdr-applications-RSDR-85
+: 1535759699:0;cd resisdr-onboarding
+: 1535759707:0;npm test
+: 1535759773:0;git checkout master
+: 1535759779:0;cd resisdr-onboarding
+: 1535759785:0;npm test
+: 1535759821:0;git pull
+: 1535759857:0;git checkout -
+: 1535759872:0;npm install
+: 1535759886:0;npm test
+: 1535985223:0;yaourt -Syyua
+: 1535985277:0;cd git/theguarantors.com
+: 1535985323:0;nvm -h
+: 1535985365:0;nvm which
+: 1535985424:0;nvm alias default 8.11.3
+: 1535985437:0;nvm use
+: 1535985455:0;nvm cache clear
+: 1535985573:0;git checkout upload-documents-dashboard-v2-158695907
+: 1535985580:0;git checkout master
+: 1535985584:0;git pull
+: 1535985593:0;yarn
+: 1535985654:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1535985710:0;git checkout -
+: 1535985716:0;git rebase master3
+: 1535985719:0;git rebase master
+: 1535985733:0;git log
+: 1535985783:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1535985814:0;npm run start
+: 1535989762:0;sudo -u postgres -i
+: 1535993069:0;git checkout remove-status-from-resi-applications-DEBT-66
+: 1535993595:0;yarn test
+: 1535995499:0;yarn compile
+: 1535995978:0;npm run clean
+: 1535995985:0;npm run compile
+: 1535996045:0;cd payments
+: 1535996052:0;npm pack
+: 1535996094:0;mv theguarantors-payments-3.0.6.tgz ../_theguarantors-packages/payments
+: 1535996203:0;cd ..
+: 1535996209:0;cd resisdr-onboarding
+: 1535996244:0;npm unistall @theguarantors/payments
+: 1535996262:0;npm uninstall @theguarantors/payments
+: 1535996273:0;npm install @theguarantors/payments
+: 1535996300:0;npm install @theguarantors/payments@3.0.6
+: 1535996313:0;npm install
+: 1536001335:0;cd ..
+: 1536001338:0;PORT=3000 LOCALHOST_PAYMENTS_PORT=3001 LOCALHOST_RESI_SDR_PORT=3002 npm start
+: 1536001371:0;cd git/theguarantors.com
+: 1536001398:0;cd payments
+: 1536001401:0;PORT=3001 npm start
+: 1536001432:0;npm install
+: 1536001453:0;PORT=3001 npm start
+: 1536002114:0;cd git/theguarantors.com
+: 1536002118:0;cd resisdr-onboarding
+: 1536002163:0;PORT=3002 npm start
+: 1536002179:0;npm install
+: 1536002201:0;PORT=3002 npm start
+: 1536002486:0;npm uninstall @theguarantors/payments
+: 1536002536:0;npm install
+: 1536002550:0;PORT=3002 npm start
+: 1536002617:0;rm -rf node_modules
+: 1536002621:0;npm install
+: 1536002666:0;PORT=3002 npm start
+: 1536002730:0;npm instll
+: 1536002734:0;npm install
+: 1536002761:0;yarn
+: 1536002841:0;PORT=3000 LOCALHOST_PAYMENTS_PORT=3001 LOCALHOST_RESI_SDR_PORT=3002 npm start
+: 1536002966:0;PORT=3002 npm run start
+: 1536004325:0;npm install
+: 1536004354:0;npm run clean
+: 1536004371:0;npm run compile
+: 1536004388:0;npm pack
+: 1536004393:0;ll
+: 1536004406:0;mv theguarantors-payments-3.0.6.tgz ../_theguarantors-packages/payments
+: 1536004459:0;npm install
+: 1536004525:0;PORT=3002 npm run start
+: 1536004571:0;PORT=3001 npm start
+: 1536006297:0;git status
+: 1536006310:0;git add .
+: 1536006316:0;git log
+: 1536006347:0;git commit -m "Address code review comments"
+: 1536006354:0;git rebase -i HEAD~2
+: 1536006370:0;git status
+: 1536006375:0;git log
+: 1536006390:0;git add .
+: 1536006393:0;git status
+: 1536006418:0;cd ..
+: 1536006421:0;git add .
+: 1536006428:0;git status
+: 1536006441:0;git commit -m "Address code review comments" --amend
+: 1536006542:0;git push origin remove-status-from-resi-applications-DEBT-66
+: 1536009887:0;git status
+: 1536009898:0;git checkout upload-documents-dashboard-v2-158695907
+: 1536009909:0;git checkout master
+: 1536009921:0;git pull
+: 1536009933:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1536009981:0;yarn
+: 1536010016:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1536010025:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1536010044:0;git checkout -
+: 1536010052:0;git rebase master
+: 1536010057:0;git log
+: 1536010082:0;git push origin upload-documents-dashboard-v2-158695907 -f
+: 1536010926:0;git checkout lg-claims-operations-LG-162
+: 1536010934:0;git rebase master
+: 1536010949:0;git log
+: 1536011325:0;git checkout master
+: 1536011339:0;git pull
+: 1536011350:0;git checkout -
+: 1536011364:0;git rebase master
+: 1536011384:0;git push origin lg-claims-operations-LG-162 -f
+: 1536013374:0;git checkout remove-status-from-resi-applications-DEBT-66
+: 1536014195:0;yarn test
+: 1536014444:0;git checkout master
+: 1536014467:0;git pull
+: 1536014476:0;git checkout -
+: 1536014482:0;git rebase master
+: 1536015574:0;git add .
+: 1536015595:0;git rebase --continue
+: 1536015727:0;git add .
+: 1536015731:0;git status
+: 1536015739:0;git rebase --continue
+: 1536015862:0;yarn test
+: 1536016177:0;git log
+: 1536016186:0;git rebase -i HEAD~2
+: 1536020296:0;yarn test
+: 1536021008:0;git log
+: 1536021015:0;git status
+: 1536021022:0;git add .
+: 1536021035:0;git commit -m "Address code review comments"
+: 1536021042:0;git rebase -i HEAD~2
+: 1536021081:0;git push origin remove-status-from-resi-applications-DEBT-66
+: 1536021086:0;git push origin remove-status-from-resi-applications-DEBT-66 -f
+: 1536021249:0;git checkout fix-RIC-leads-unique-index
+: 1536021256:0;git rebase master
+: 1536021473:0;yarn test
+: 1536022272:0;git status
+: 1536022283:0;git rebase master
+: 1536022309:0;git push origin fix-RIC-leads-unique-index -f
+: 1536023468:0;git checkout remove-status-from-resi-applications-DEBT-66
+: 1536024008:0;git status
+: 1536024183:0;git add .
+: 1536024202:0;git commit -m "fix import"
+: 1536024211:0;git rebase master
+: 1536024216:0;git rebase -i HEAD~2
+: 1536024249:0;git push origin remove-status-from-resi-applications-DEBT-66 -f
+: 1536026001:0;ssh theguarantors@staging.theguarantors.com
+: 1536070231:0;cd git/theguarantors.com
+: 1536070239:0;git checkout master
+: 1536070244:0;git pull
+: 1536070264:0;yarn
+: 1536070289:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1536070330:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1536070353:0;nvm use
+: 1536070373:0;nvm install 8.11.4
+: 1536070459:0;nvim ../../.nvmrc
+: 1536070499:0;git checkout fix-RIC-leads-unique-index
+: 1536070507:0;git rebase master
+: 1536070615:0;git push origin fix-RIC-leads-unique-index -f
+: 1536071999:0;yarn test
+: 1536072672:0;git checkout master
+: 1536072692:0;git pull
+: 1536072981:0;npm run start-dev
+: 1536073181:0;ssh theguarantors@staging.theguarantors.com
+: 1536074298:0;git checkout -b fix-claims-admin-portal-LG-162
+: 1536076524:0;yarn test
+: 1536077680:0;git commit -m "LG-162 fix claims not showing on landlord portal when an application does not have building"
+: 1536077685:0;git add .
+: 1536077686:0;git commit -m "LG-162 fix claims not showing on landlord portal when an application does not have building"
+: 1536077695:0;git checkout master
+: 1536077698:0;git pull
+: 1536077708:0;yarn
+: 1536077724:0;npm run start
+: 1536078008:0;git checkout -
+: 1536079332:0;yarn test
+: 1536090240:0;npm run start
+: 1536090967:0;git add .
+: 1536090971:0;git status
+: 1536090993:0;git commit -m "LG-162 fix claims not showing on landlord portal when an application does not have building" --amend
+: 1536091017:0;git add .
+: 1536091019:0;git commit -m "LG-162 fix claims not showing on landlord portal when an application does not have building" --amend
+: 1536091043:0;git add .
+: 1536091060:0;git commit -m "LG-162 fix claims not showing on landlord portal when an application does not have building" --amend
+: 1536091096:0;git push origin fix-claims-admin-portal-LG-162
+: 1536091115:0;git checkout master
+: 1536091118:0;git pull
+: 1536091134:0;git checkout -
+: 1536091140:0;git rebase master
+: 1536091143:0;git log
+: 1536091160:0;git push origin fix-claims-admin-portal-LG-162 -f
+: 1536091638:0;git add .
+: 1536091670:0;git commit -m "Remove unused import"
+: 1536091696:0;git rebase -i HEAD~2
+: 1536091827:0;git log
+: 1536091840:0;git push origin fix-claims-admin-portal-LG-162 -f
+: 1536092085:0;git checkout fix-RIC-leads-unique-index
+: 1536092092:0;git rebase master
+: 1536092776:0;git checkout -
+: 1536092807:0;yarn test
+: 1536092865:0;git add .
+: 1536092877:0;git log
+: 1536092908:0;git commit -m "fix test" --amend
+: 1536092913:0;git log
+: 1536092926:0;git rebase -i HEAD~2
+: 1536092945:0;git push origin fix-claims-admin-portal-LG-162 -f
+: 1536093114:0;git checkout -
+: 1536093274:0;yarn test
+: 1536093357:0;sudo -u postgres -i
+: 1536093721:0;yarn test
+: 1536097902:0;git log
+: 1536097915:0;git add .
+: 1536097927:0;git commit -m "fix tests"
+: 1536098007:0;git checkout master
+: 1536098010:0;git pull
+: 1536098503:0;git checkout -b revert-2531-fix-claims-admin-portal-LG-162
+: 1536098876:0;git revert 7eb1b0143ab820e6f69dde403fb93989e3a7a159
+: 1536098981:0;git push origin revert-2531-fix-claims-admin-portal-LG-162
+: 1536099012:0;git push origin revert-2531-fix-claims-admin-portal-LG-162 -f
+: 1536099385:0;git checkout -b revert-2491-lg-claims-operations-LG-162
+: 1536099403:0;git rebase master
+: 1536099430:0;git revert b23eb2bd8c615bb5f5422a48dd241521e20fc261
+: 1536099480:0;git push origin revert-2491-lg-claims-operations-LG-162
+: 1536099540:0;git reset origin master
+: 1536099550:0;git status
+: 1536099574:0;git revert b23eb2bd8c615bb5f5422a48dd241521e20fc261
+: 1536099601:0;git reset --hard origin/master
+: 1536099612:0;git revert b23eb2bd8c615bb5f5422a48dd241521e20fc261
+: 1536099621:0;git reset --hard origin/master
+: 1536101668:0;git checkout master
+: 1536101671:0;git pull
+: 1536101686:0;git checkout -
+: 1536101737:0;git revert b23eb2bd8c615bb5f5422a48dd241521e20fc261
+: 1536102028:0;git add .
+: 1536102031:0;git status
+: 1536102045:0;git revert --continue
+: 1536102092:0;git status
+: 1536102124:0;git push origin revert-2491-lg-claims-operations-LG-162
+: 1536102142:0;git push origin revert-2491-lg-claims-operations-LG-162 -f
+: 1536102188:0;git checkout master
+: 1536102191:0;git pull
+: 1536102201:0;git checkout -
+: 1536102208:0;git rebase master
+: 1536102319:0;git add .
+: 1536102324:0;git rebase --continue
+: 1536102337:0;git push origin revert-2491-lg-claims-operations-LG-162 -f
+: 1536103533:0;git checkout master
+: 1536103538:0;git pull
+: 1536103555:0;git checkout production
+: 1536103559:0;git pull
+: 1536103606:0;git pull origin
+: 1536103617:0;git checkout -b release-$(date +%Y%m%d)
+: 1536103632:0;git merge --no-ff master
+: 1536103661:0;git push origin release-20180904
+: 1536104495:0;git checkout master
+: 1536104498:0;git pull
+: 1536104563:0;git checkout -b list-lg-claims-admin-LG-162
+: 1536104593:0;git cherry-pick b23eb2bd8c615bb5f5422a48dd241521e20fc261
+: 1536104622:0;git cherry-pick 7eb1b0143ab820e6f69dde403fb93989e3a7a159
+: 1536104648:0;git status
+: 1536104652:0;git log
+: 1536104971:0;yarn test
+: 1536105090:0;npm run start
+: 1536156490:0;yaourt -Syyua
+: 1536156949:0;cd git/theguarantors.com
+: 1536157020:0;git log
+: 1536157053:0;git add .
+: 1536157103:0;git commit -m "fix claims not showing properly"
+: 1536157115:0;git checkout master
+: 1536157118:0;git pull
+: 1536157140:0;git checkout -
+: 1536157153:0;git rebase master
+: 1536157161:0;yarn
+: 1536157184:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1536157225:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1536157247:0;git checkout fix-RIC-leads-unique-index
+: 1536157295:0;yarn test
+: 1536157529:0;git rebase master
+: 1536157533:0;yarn
+: 1536157543:0;yarn test
+: 1536159460:0;git add .
+: 1536159465:0;git log
+: 1536159502:0;git commit -m "fix tests" --amend
+: 1536159504:0;git log
+: 1536159514:0;git rebase -i HEAD~2
+: 1536159580:0;git push origin fix-RIC-leads-unique-index -f
+: 1536160205:0;git checkout master
+: 1536160208:0;git pull
+: 1536160219:0;git checkout -
+: 1536160224:0;git rebase master
+: 1536160235:0;git push origin fix-RIC-leads-unique-index -f
+: 1536160391:0;git checkout list-lg-claims-admin-LG-162
+: 1536160397:0;git rebase master
+: 1536160513:0;bin/dump_db theguarantors@staging.theguarantors.com
+: 1536160621:0;pg_restore --no-owner --no-acl -j 4 -U postgres -d theguarantors_development theguarantors.zdump
+: 1536160683:0;npm run start
+: 1536162896:0;git log
+: 1536162914:0;git rebase -i HEAD~3
+: 1536163020:0;git push origin list-lg-claims-admin-LG-162
+: 1536164621:0;git checkout master
+: 1536164624:0;git pull
+: 1536164665:0;git checkout -
+: 1536164695:0;git checkout remove-status-from-resi-applications-DEBT-66
+: 1536164723:0;git rebase master
+: 1536166215:0;git status
+: 1536166230:0;git mergetool
+: 1536166971:0;git rebase --continue
+: 1536167652:0;cd payments
+: 1536167661:0;npm run compile
+: 1536167787:0;npm pack
+: 1536167809:0;mv theguarantors-payments-3.0.7.tgz ../_theguarantors-packages/payments
+: 1536167886:0;cd ../resisdr-onboarding
+: 1536167896:0;npm uninstall @theguarantors/payments
+: 1536167946:0;npm install
+: 1536168072:0;git status
+: 1536168178:0;PORT=3000 LOCALHOST_PAYMENTS_PORT=3001 LOCALHOST_RESI_SDR_PORT=3002 npm start
+: 1536168193:0;cd git/theguarantors.com
+: 1536168224:0;cd payments
+: 1536168241:0;PORT=3001 npm start
+: 1536168257:0;cd git/theguarantors.com
+: 1536168261:0;cd resisdr-onboarding
+: 1536168267:0;PORT=3002 npm run start
+: 1536172714:0;cd ../payments
+: 1536172728:0;PORT=3002 npm run start
+: 1536172735:0;PORT=3001 npm run start
+: 1536172757:0;netstat -tupln
+: 1536172776:0;kill -9 1816
+: 1536172795:0;PORT=3001 npm start
+: 1536173543:0;PORT=3002 npm run start
+: 1536174284:0;ssh theguarantors@staging.theguarantors.com
+: 1536174721:0;cd git/theguarantors.com
+: 1536174728:0;PORT=3000 LOCALHOST_PAYMENTS_PORT=3001 LOCALHOST_RESI_SDR_PORT=3002 npm start
+: 1536176231:0;git add .
+: 1536176613:0;hwdetect
+: 1536176637:0;uname
+: 1536176644:0;uname -a
+: 1536176704:0;yaourt dmidecode
+: 1536176717:0;sudo dmidecode
+: 1536177263:0;git checkout master
+: 1536177270:0;git checkout -
+: 1536177275:0;git add .
+: 1536177472:0;git commit -m "Update paymants version"
+: 1536177563:0;git checkout -
+: 1536177580:0;PORT=3000 LOCALHOST_PAYMENTS_PORT=3001 LOCALHOST_RESI_SDR_PORT=3002 npm start
+: 1536177683:0;PORT=3001 npm start
+: 1536177702:0;PORT=3002 npm run start
+: 1536182847:0;git pull
+: 1536182873:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1536183145:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1536183442:0;git checkout -
+: 1536183680:0;git rebase master
+: 1536184100:0;git rebase --continue
+: 1536184107:0;git add .
+: 1536184109:0;git rebase --continue
+: 1536184174:0;git add .
+: 1536184178:0;git rebase --continue
+: 1536184199:0;git status
+: 1536184392:0;npm run compile
+: 1536184426:0;npm pack
+: 1536184437:0;mv theguarantors-payments-3.0.6.tgz ../_theguarantors-packages/payments
+: 1536184493:0;npm uninstall @theguarantors/payments
+: 1536184517:0;npm install
+: 1536184759:0;git status
+: 1536186122:0;PORT=3000 LOCALHOST_PAYMENTS_PORT=3001 LOCALHOST_RESI_SDR_PORT=3002 npm start
+: 1536186388:0;PORT=3001 npm start
+: 1536186415:0;PORT=3002 npm run start
+: 1536186703:0;sudo -u postgres -i
+: 1536187109:0;cd git/theguarantors.com
+: 1536187116:0;bin/dump_db theguarantors@staging.theguarantors.com
+: 1536187139:0;pg_restore --no-owner --no-acl -j 4 -U postgres -d theguarantors_development theguarantors.zdump
+: 1536187391:0;PORT=3000 LOCALHOST_PAYMENTS_PORT=3001 LOCALHOST_RESI_SDR_PORT=3002 npm start
+: 1536187445:0;cd resisdr-onboarding
+: 1536187455:0;cd payments
+: 1536187464:0;PORT=3001 npm start
+: 1536187477:0;cd resisdr-onboarding
+: 1536187503:0;PORT=3002 npm run start
+: 1536187640:0;git status
+: 1536187693:0;git log
+: 1536187710:0;git add .
+: 1536187778:0;git commit -m "Update paymants version" --amend
+: 1536187836:0;git status
+: 1536187856:0;git checkout master
+: 1536187969:0;git pull
+: 1536188013:0;PORT=3000 LOCALHOST_PAYMENTS_PORT=3001 LOCALHOST_RESI_SDR_PORT=3002 npm start
+: 1536188091:0;PORT=3001 npm start
+: 1536188118:0;PORT=3002 npm run start
+: 1536189026:0;git checkout -
+: 1536189044:0;git rebase master
+: 1536189149:0;git checkout master
+: 1536189201:0;git checkout -b remove-only-unit-test-LG-162
+: 1536189256:0;git add .
+: 1536189288:0;git commit -m "remove .only in tests"
+: 1536189307:0;git push origin remove-only-unit-test-LG-162
+: 1536189486:0;git checkout remove-status-from-resi-applications-DEBT-66
+: 1536189499:0;PORT=3000 LOCALHOST_PAYMENTS_PORT=3001 LOCALHOST_RESI_SDR_PORT=3002 npm start
+: 1536189513:0;PORT=3001 npm start
+: 1536189611:0;PORT=3002 npm run start
+: 1536190346:0;git log
+: 1536190366:0;git checkout master
+: 1536190371:0;git pull
+: 1536190400:0;git checkout -
+: 1536190411:0;git rebase master
+: 1536190421:0;git rebase -i HEAD~2
+: 1536190547:0;git push origin remove-status-from-resi-applications-DEBT-66 -f
+: 1536191962:0;git add .
+: 1536191980:0;git commit -m "fix migration"
+: 1536191987:0;git rebase -i HEAD~2
+: 1536192038:0;git checkout master
+: 1536192041:0;git pull
+: 1536192050:0;git checkout -
+: 1536192059:0;git rebase master
+: 1536192070:0;git push origin remove-status-from-resi-applications-DEBT-66 -f
+: 1536247747:0;yarn -v
+: 1536250718:0;cd git/theguarantors.com
+: 1536250728:0;git checkout master
+: 1536251037:0;git pull
+: 1536251050:0;yarn
+: 1536251237:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1536251480:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1536251846:0;git checkout -b upgrade-factory-girl-v5-lg-applications-debt-77
+: 1536253214:0;yarn test
+: 1536253362:0;yarn
+: 1536253504:0;yarn test
+: 1536253663:0;git checkout master
+: 1536253671:0;yarn test
+: 1536253717:0;git  pull
+: 1536253746:0;git checkout -
+: 1536253752:0;git rebase master
+: 1536253767:0;npm run clean
+: 1536253777:0;yarn compile
+: 1536253837:0;yarn test
+: 1536267718:0;ls .psqlrc
+: 1536267779:0;yarn test
+: 1536268031:0;ls /var/lib/postgres/data
+: 1536268038:0;sudo ls /var/lib/postgres/data
+: 1536268071:0;sudo nvim postgresql.conf
+: 1536268093:0;sudo nvim /var/lib/postgres/data/postgresql.conf
+: 1536268515:0;yarn test
+: 1536269476:0;sudo systemctl status postgresql.service
+: 1536269501:0;sudo systemctl restart postgresql.service
+: 1536269522:0;sudo systemctl status postgresql.service
+: 1536269560:0;yarn test
+: 1536329801:0;cd git/theguarantors.com
+: 1536329814:0;yarn test
+: 1536330181:0;yaourt -Syyua
+: 1536330658:0;yaourt -Syyua --noconfirm
+: 1536330682:0;yarn test
+: 1536334666:0;NODE_ENV=test npm run sequelize -- db:migrate:undo:all
+: 1536334692:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1536334713:0;NODE_ENV=test npm run sequelize -- db:migrate:undo:all
+: 1536335153:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1536335190:0;yarn test
+: 1536339947:0;git add status
+: 1536339956:0;git status
+: 1536339962:0;git add .
+: 1536340226:0;git commit -m "[DEBT-77] migrate tests that use factory.define('application') to factory-girl v5"
+: 1536340235:0;git checkout master
+: 1536340238:0;git pull
+: 1536340260:0;yarn
+: 1536340303:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1536340360:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1536340381:0;yarn test
+: 1536340506:0;NODE_ENV=test npm run sequelize -- db:seed:all
+: 1536340527:0;NODE_ENV=development npm run sequelize -- db:seed:all
+: 1536340545:0;yarn test
+: 1536340838:0;\
+
+: 1536340848:0;cd git/theguarantors.com
+: 1536340878:0;git checkout -
+: 1536340889:0;git rebase master
+: 1536340968:0;yaarn testt
+: 1536340975:0;yarn test
+: 1536348099:0;cd Downloads
+: 1536348100:0;ll
+: 1536348136:0;cd ..
+: 1536348137:0;ll
+: 1536348166:0;cd Downloads
+: 1536348187:0;sudo chmod +x run_replace_scherma_test_db.sh
+: 1536348188:0;ll
+: 1536348198:0;./run_replace_scherma_test_db.sh
+: 1536348240:0;cd git/theguarantors.com
+: 1536348254:0;cd ..
+: 1536348257:0;cd git/theguarantors.com
+: 1536348291:0;sh ../../Downloads/run_replace_scherma_test_db.sh
+: 1536348354:0;dropdb theguarantors_test -U postgres
+: 1536348397:0;sh ../../Downloads/run_replace_scherma_test_db.sh
+: 1536348422:0;yarn test
+: 1536348845:0;sh ../../Downloads/run_replace_scherma_test_db.sh
+: 1536348860:0;yarn test
+: 1536349139:0;NODE_ENV=test npm run sequelize -- db:seed:all
+: 1536349162:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1536349303:0;NODE_ENV=test npm run sequelize -- db:seed:all
+: 1536349312:0;yarn test
+: 1536350578:0;git checkout master
+: 1536350763:0;yarn test
+: 1536353661:0;sudo -u postgres -i
+: 1536353790:0;yarn test
+: 1536589700:0;cd git/theguarantors.com
+: 1536589714:0;nvm use
+: 1536589730:0;yarn test
+: 1536589749:0;cat .nvmrc
+: 1536589760:0;nvm use
+: 1536589775:0;yaourt -Syyua --noconfirm
+: 1536589868:0;yarn test
+: 1536589955:0;yaourt -Syyua --noconfirm
+: 1536590052:0;yarn test
+: 1536592476:0;sudo -u postgres -i
+: 1536593343:0;yarn test
+: 1536606662:0;NODE_ENV=test ts-node
+: 1536606667:0;NODE_ENV=test npx ts-node
+: 1536606750:0;npm run build
+: 1536606814:0;NODE_ENV=test node
+: 1536606848:0;ls -al test
+: 1536606870:0;find test -type f -name "*.js"
+: 1536606879:0;find test -type f -name "*.js" | grep factory
+: 1536606883:0;NODE_ENV=test node
+: 1536607083:0;NODE_ENV=test npx ts-ndoe
+: 1536607090:0;NODE_ENV=test npx ts-node
+: 1536607155:0;NODE_ENV=test node
+: 1536607194:0;gst
+: 1536607198:0;cd git/theguarantors.com
+: 1536607203:0;nvm use
+: 1536607215:0;ls -al test | grep factory
+: 1536607228:0;NODE_ENV=test npx ts-node
+: 1536607438:0;npm test
+: 1536607701:0;yarn test
+: 1536618078:0;mailcatcher
+: 1536618085:0;yarn test
+: 1536621777:0;OA
+: 1536621780:0;yarn test
+: 1536674860:0;yaourt -Syyua --noconfirm
+: 1536674903:0;cd git/theguarantors.com
+: 1536674918:0;yarn test
+: 1536675206:0;sudo -u postgres -i
+: 1536676075:0;yarn test
+: 1536706166:0;sudo -u postgres -i
+: 1536706173:0;yarn test
+: 1536761085:0;yaourt -Syyua --noconfirm
+: 1536761255:0;cd git/theguarantors.com
+: 1536761265:0;nvm use
+: 1536761298:0;yarn test
+: 1536762992:0;mailcatcher
+: 1536762997:0;yarn test
+: 1536786920:0;sudo -u postgres -i
+: 1536789483:0;yarn test
+: 1536848563:0;yaourt -Syyua --noconfirm
+: 1536848790:0;yarn test
+: 1536848859:0;cd git/theguarantors.com
+: 1536848860:0;yarn test
+: 1536868245:0;yarn test-dev
+: 1536868389:0;yarn test
+: 1536868489:0;sudo -u postgres -i
+: 1536868824:0;yarn test
+: 1536870805:0;yarn test3
+: 1536870809:0;yarn test
+: 1536876544:0;yarn test3
+: 1536876546:0;yarn test
+: 1536876563:0;yarn test.
+: 1536876566:0;yarn test
+: 1536882339:0;git status
+: 1536882363:0;git add .
+: 1536882366:0;git log
+: 1536882539:0;git commit -m "[DEBT-77] migrate and refactor tests that use factory.define('application') to factory-girl v5"
+: 1536882600:0;git checkout master
+: 1536882602:0;git pull
+: 1536882614:0;yarn
+: 1536882646:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1536882713:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1536882789:0;git checkout -
+: 1536882798:0;git rebase master
+: 1536882990:0;git add .
+: 1536882999:0;git rebase --continue
+: 1536883489:0;git add .
+: 1536883492:0;git rebase --continue
+: 1536883508:0;git add .
+: 1536883602:0;git log
+: 1536883627:0;git commit -m "[DEBT-77] migrate and refactor tests that use factory.define('application') to factory-girl v5" --amend
+: 1536883819:0;git add .
+: 1536883828:0;git commit -m "[DEBT-77] migrate and refactor tests that use factory.define('application') to factory-girl v5" --amend
+: 1536883853:0;git rebase -i HEAD~2
+: 1536883938:0;git rebase --abort
+: 1536883940:0;git rebase -i HEAD~2
+: 1536884501:0;git push origin upgrade-factory-girl-v5-lg-applications-debt-77
+: 1536934136:0;yaourt -Syyua --noconfirm
+: 1536934188:0;cd git/theguarantors.com/test/
+: 1536934189:0;ll
+: 1536934207:0;nvim factory-v5.ts
+: 1536934274:0;ll
+: 1536934277:0;la
+: 1536934431:0;npm install -g neovim
+: 1536934692:0;nvim ~/.config/nvim/init.vim
+: 1536935033:0;cd git/theguarantors.com/test/
+: 1536935040:0;nvim factory-v5.ts
+: 1536935157:0;cd ~
+: 1536935164:0;nvim ~/.config/nvim/init.vim
+: 1536935910:0;pip3 install --user neovim
+: 1536935924:0;yaourt python3
+: 1536935945:0;yaourt pip
+: 1536936080:0;pip install --user neovim
+: 1536936103:0;yaourt python-pip
+: 1536936136:0;pip install --user neovim
+: 1536936167:0;nvim
+: 1536936304:0;pip3 install --user neovim
+: 1536936331:0;nvim ~/.config/nvim/init.vim
+: 1536936379:0;cd .pyenv
+: 1536936381:0;ll
+: 1536936487:0;cd ..
+: 1536936494:0;yaourt pyenv
+: 1536936538:0;ll .pyenv
+: 1536936885:0;pyenv install neovim2
+: 1536936894:0;pyenv install --list
+: 1536936919:0;pyenv install
+: 1536937128:0;pip uninstall --user neovim
+: 1536937141:0;sudo pip uninstall neovim
+: 1536937163:0;sudo pip3 uninstall neovim
+: 1536937763:0;pip3 install neovim
+: 1536937847:0;nvim ~/.config/nvim/init.vim
+: 1536937872:0;nvim
+: 1536937908:0;nvim ~/.config/nvim/init.vim
+: 1536938073:0;python --version
+: 1536938081:0;python2 --version
+: 1536938189:0;nvim ~/.config/nvim/init.vim
+: 1536938272:0;pyenv versions
+: 1536938344:0;yaourt -Rns pyenv
+: 1536938370:0;nvim
+: 1536938415:0;nvim ~/.config/nvim/init.vim
+: 1536938733:0;nvim factory-v5.ts
+: 1536939017:0;cd git/theguarantors.com/test/
+: 1536939050:0;yarn test
+: 1536939182:0;nvim factory-v5.ts
+: 1536939505:0;yarn test
+: 1536942305:0;git add .
+: 1536942331:0;git commit -m "Clean up some code"
+: 1536942340:0;git checkout -
+: 1536942347:0;nvm use
+: 1536942352:0;git pull
+: 1536942366:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1536942384:0;npm run clean
+: 1536942390:0;yarn compile
+: 1536942435:0;yarn
+: 1536942503:0;ssh git@packages.theguarantors.com
+: 1536942508:0;yarn
+: 1536942524:0;ssh git@packages.theguarantors.com
+: 1536942544:0;yarn
+: 1536942574:0;yarn compile
+: 1536943070:0;git checkout -
+: 1536943092:0;yarn test
+: 1536943211:0;npm run clean
+: 1536943218:0;yarn test
+: 1536943292:0;yarn
+: 1536943315:0;yarn test
+: 1536944599:0;mailcatcher
+: 1536944602:0;yarn test
+: 1536946057:0;git add .
+: 1536946068:0;git commit -m "Clean up some code" --amend
+: 1536946073:0;git rebase -i HEAD~2
+: 1536946127:0;git rebase master
+: 1536946199:0;yarn
+: 1536946234:0;git log
+: 1536946260:0;git push origin upgrade-factory-girl-v5-lg-applications-debt-77 -f
+: 1536949912:0;yarn add .
+: 1536949926:0;git add .
+: 1536949941:0;git commit -m "Remove .only"
+: 1536949949:0;git rebase -i HEAD~2
+: 1536949988:0;git push origin upgrade-factory-girl-v5-lg-applications-debt-77 -f
+: 1536951221:0;yarn compile
+: 1536951403:0;npm run lint
+: 1536951428:0;git add .
+: 1536951445:0;git add -m "Remove white spaces"
+: 1536951470:0;git commit -m "Remove white spaces"
+: 1536951545:0;git rebase -i HEAD~2
+: 1536951583:0;git push origin upgrade-factory-girl-v5-lg-applications-debt-77 -f
+: 1536953043:0;yarn test
+: 1536955141:0;node
+: 1536955639:0;yarn test
+: 1537192681:0;yaourt -Syyua --noconfirm
+: 1537193081:0;cd git/theguarantors.com/test/
+: 1537193095:0;yarn test
+: 1537195129:0;git log
+: 1537195140:0;git add .
+: 1537195159:0;git commit -m "Address code review comments"
+: 1537195169:0;git rebase -i HEAD~2
+: 1537195211:0;git checkout -
+: 1537195228:0;cd ..
+: 1537195238:0;git pull
+: 1537195254:0;yarn
+: 1537195265:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1537195311:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1537195333:0;git checkout -
+: 1537195343:0;git rebase master
+: 1537195355:0;git push origin upgrade-factory-girl-v5-lg-applications-debt-77 -f
+: 1537199028:0;git checkout -
+: 1537199031:0;git pull
+: 1537199232:0;git checkout -b sort-claims-landlord-dashboard-RSDR-119
+: 1537199913:0;git checkout upgrade-factory-girl-v5-lg-applications-debt-77
+: 1537200286:0;git checkout -
+: 1537200346:0;git commit -m "Sort claims in landlord's dashboard by most recent updated"
+: 1537200351:0;git add .
+: 1537200353:0;git commit -m "Sort claims in landlord's dashboard by most recent updated"
+: 1537200361:0;git checkout -
+: 1537200393:0;git rebase -i HEAD~
+: 1537200476:0;git log
+: 1537200560:0;git commit --amend
+: 1537200627:0;git rebase master
+: 1537200635:0;git push origin upgrade-factory-girl-v5-lg-applications-debt-77 -f
+: 1537200749:0;git checkout -
+: 1537202310:0;bin/dump_db theguarantors@staging.theguarantors.com
+: 1537202383:0;sudo -u postgres -i
+: 1537202606:0;ls /var/lib/postgres
+: 1537202614:0;sudo touch /var/lib/postgres/.psql_history
+: 1537202635:0;sudo chown postgres.postgres /var/lib/postgres/.psql_history
+: 1537202659:0;sudo -u postgres -i
+: 1537202751:0;pg_restore --no-owner --no-acl -j 4 -U postgres -d theguarantors_development theguarantors.zdump
+: 1537202776:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1537205608:0;yarn test
+: 1537206115:0;git reset HEAD~
+: 1537210783:0;yarn test
+: 1537216279:0;yaourt -Syyua --noconfirm
+: 1537216528:0;yarn test
+: 1537218702:0;sudo -u postgres -i
+: 1537219469:0;yarn test
+: 1537280180:0;yaourt -Syyua --noconfirm
+: 1537280227:0;cd git/theguarantors.com/test/
+: 1537280230:0;cd ..
+: 1537280241:0;yarn test
+: 1537286429:0;node
+: 1537286923:0;yarn test.
+: 1537286925:0;yarn test
+: 1537287683:0;node
+: 1537287884:0;yarn test
+: 1537295735:0;npm run start
+: 1537296273:0;sudo -u postgres -i
+: 1537297439:0;npm run start
+: 1537297464:0;npm run start-dev
+: 1537302241:0;yarn test
+: 1537302680:0;git add .
+: 1537302708:0;git commit -m "Sort claims in landlord's dashboard by most recent updated"
+: 1537302725:0;git checkout -
+: 1537302732:0;git checkout master
+: 1537302736:0;git pull
+: 1537302799:0;git checkout -
+: 1537302803:0;yarn
+: 1537302824:0;git rebase master
+: 1537302829:0;yarn
+: 1537302862:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1537302871:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1537303397:0;git log
+: 1537303430:0;git push origin sort-claims-landlord-dashboard-RSDR-119
+: 1537303590:0;git commit --amend
+: 1537303643:0;git push origin sort-claims-landlord-dashboard-RSDR-119 -f
+: 1537304038:0;git add .
+: 1537304051:0;git commit --amend
+: 1537304067:0;git push origin sort-claims-landlord-dashboard-RSDR-119 -f
+: 1537305268:0;git reset HEAD~
+: 1537305363:0;yarn test
+: 1537305912:0;git log
+: 1537305924:0;git add .
+: 1537305934:0;git commit -m "Sort claims in landlord's dashboard by most recent updated"
+: 1537305940:0;git checkout -
+: 1537305944:0;git pull
+: 1537305954:0;git checkout -
+: 1537305962:0;git push origin sort-claims-landlord-dashboard-RSDR-119 -f
+: 1537305977:0;git commit --amend
+: 1537306010:0;git push origin sort-claims-landlord-dashboard-RSDR-119 -f
+: 1537307243:0;yarn test
+: 1537307470:0;git add .
+: 1537307493:0;git commit -m "Fix tests"
+: 1537307505:0;git rebase -i HEAD~2
+: 1537307545:0;git push origin sort-claims-landlord-dashboard-RSDR-119 -f
+: 1537308250:0;git checkout master
+: 1537308254:0;git pull
+: 1537308303:0;git checkout -b upgrade-factory-girl-v5-buildings-debt-78
+: 1537309771:0;yarn test
+: 1537312389:0;TZ=UTC yarn test
+: 1537366715:0;yaourt -Syyua --noconfirm
+: 1537366745:0;cd git/theguarantors.com/test/
+: 1537366750:0;cd ..
+: 1537366762:0;cd git/theguarantors.com
+: 1537366767:0;yarn test
+: 1537368885:0;TZ=UTC yarn test
+: 1537453018:0;yaourt -Syyua --noconfirm
+: 1537453033:0;cd git/theguarantors.com
+: 1537453050:0;TZ=UTC yarn test
+: 1537539581:0;cd git/theguarantors.com
+: 1537539587:0;yarn test
+: 1537539592:0;yaourt -Syyua --noconfirm
+: 1537539807:0;yarn test
+: 1537550696:0;mailcatcher
+: 1537550699:0;yarn test
+: 1537562111:0;git add .
+: 1537562156:0;git commit -m "Upgrade buildings tests to factory-v5"
+: 1537562170:0;git checkout master
+: 1537562173:0;pull
+: 1537562177:0;git pull
+: 1537562192:0;yarn
+: 1537562526:0;git checkout -b revert-2656-admin-docs-RSDR-92
+: 1537562548:0;git revert bc3dbdcbf58be1c044943c45d73bd798328eddb6
+: 1537562623:0;git log
+: 1537562641:0;git push origin revert-2656-admin-docs-RSDR-92
+: 1537562748:0;git push origin revert-2656-admin-docs-RSDR-92 -f
+: 1537563044:0;git checkout upgrade-factory-girl-v5-buildings-debt-78
+: 1537563054:0;git rebase master
+: 1537563673:0;yarn test
+: 1537564025:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1537564037:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1537564043:0;yarn test
+: 1537564229:0;git rebase --continue
+: 1537564237:0;git add .
+: 1537564239:0;git rebase --continue
+: 1537564400:0;yarn test
+: 1537566090:0;git add .
+: 1537566121:0;git commit -m "Upgrade buildings tests to factory-v5 2"
+: 1537566128:0;git log
+: 1537566155:0;git rebase -i HEAD~2
+: 1537566221:0;git commit --amend
+: 1537566279:0;git push origin upgrade-factory-girl-v5-buildings-debt-78
+: 1537569929:0;yarn test
+: 1537570005:0;git add .
+: 1537570043:0;git commit -m "Fix tests"
+: 1537570076:0;git rebase -i HEAD~2
+: 1537570111:0;git push origin upgrade-factory-girl-v5-buildings-debt-78 -f
+: 1537570199:0;git checkout master
+: 1537570205:0;git pull
+: 1537570216:0;yarn
+: 1537798379:0;yaourt -Syyua --noconfirm
+: 1537799355:0;cd git/theguarantors.com
+: 1537799381:0;yarn test
+: 1537799782:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1537799789:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1537799795:0;yarn test
+: 1537800203:0;git pull
+: 1537800223:0;git checkout -
+: 1537800230:0;git rebase master
+: 1537800242:0;yarn
+: 1537800250:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1537800878:0;yarn test
+: 1537801050:0;git add .
+: 1537801071:0;git commit -m "Code review"
+: 1537801080:0;git rebase -i HEAD~2
+: 1537801109:0;git push origin upgrade-factory-girl-v5-buildings-debt-78 -f
+: 1537802299:0;git checkout -
+: 1537802302:0;git pull
+: 1537802369:0;git checkout -b update-leases-covered-widget-with-paidAt-RSDR-136
+: 1537802637:0;git checkout upgrade-factory-girl-v5-buildings-debt-78
+: 1537802755:0;yarn test
+: 1537803115:0;git add .
+: 1537803125:0;git commit -m "Fix tests"
+: 1537803130:0;git rebase -i HEAD~2
+: 1537803227:0;git push origin upgrade-factory-girl-v5-buildings-debt-78 -f
+: 1537803286:0;git checkout -
+: 1537808700:0;TZ=UTC yarn test
+: 1537823887:0;npm run start
+: 1537823958:0;sudo -u postgres -i
+: 1537824657:0;npm run start-dev
+: 1537827541:0;TZ=UTC yarn test
+: 1537829117:0;git add .
+: 1537829167:0;git commit -m "Update leases covered widget to use paidAt field rather than dealDate"
+: 1537829201:0;git commit --amend
+: 1537829306:0;git push origin update-leases-covered-widget-with-paidAt-RSDR-136
+: 1537830102:0;npm run start
+: 1537830869:0;git add .
+: 1537830888:0;git commit -m "Fix tests"
+: 1537830894:0;git rebase -i HEAD~2
+: 1537830922:0;git push origin update-leases-covered-widget-with-paidAt-RSDR-136
+: 1537830926:0;git push origin update-leases-covered-widget-with-paidAt-RSDR-136 -f
+: 1537831090:0;git checkout upgrade-factory-girl-v5-buildings-debt-78
+: 1537831207:0;yarn test
+: 1537885873:0;cd git/theguarantors.com
+: 1537885905:0;git checkout update-leases-covered-widget-with-paidAt-RSDR-136
+: 1537885917:0;git checkout -
+: 1537885949:0;git checkout update-leases-covered-widget-with-paidAt-RSDR-136
+: 1537885956:0;npm run start
+: 1537886637:0;sudo -u postgres -i
+: 1537888428:0;ssh git@packages.theguarantors.com
+: 1537888436:0;exit
+: 1537888446:0;ssh theguarantors@staging.theguarantors.com
+: 1537889250:0;npm run start-dev
+: 1537895937:0;git checkout master
+: 1537895941:0;git pull
+: 1537895961:0;git checkout -
+: 1537896273:0;git checkout upgrade-factory-girl-v5-buildings-debt-78
+: 1537896277:0;yarn
+: 1537896290:0;git rebase master
+: 1537896404:0;git add .
+: 1537896415:0;git rebase --continue
+: 1537896440:0;yarn
+: 1537896468:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1537896567:0;TZ=UTC yarn test
+: 1537899170:0;git add .
+: 1537899176:0;git commit -m "Fix tests"
+: 1537899188:0;git rebase -i HEAD~2
+: 1537899239:0;git push origin upgrade-factory-girl-v5-buildings-debt-78 -f
+: 1537902281:0;git checkout master
+: 1537902285:0;git pull
+: 1537902304:0;git checkout -
+: 1537902311:0;git rebase master
+: 1537902534:0;git checkout -
+: 1537902562:0;git checkout RSDR-56-renewal-cancel-qa
+: 1537902589:0;git rebase master
+: 1537903358:0;ssh theguarantors@staging.theguarantors.com
+: 1537913638:0;yarn test
+: 1537913826:0;git add .
+: 1537913852:0;git rebase --continue
+: 1537913954:0;git push origin RSDR-56-renewal-cancel-qa
+: 1537913964:0;git push origin RSDR-56-renewal-cancel-qa -f
+: 1537916256:0;git checkout -b remove-duplicated-factory-NO-STORY
+: 1537916267:0;git checkout master
+: 1537916270:0;git pull
+: 1537916280:0;git checkout -
+: 1537916320:0;git rebase master
+: 1537916391:0;git add .
+: 1537916443:0;git commit -m "Remove duplicated factory which causes tests to fail"
+: 1537916472:0;git push origin remove-duplicated-factory-NO-STORY
+: 1537916560:0;git log
+: 1537916611:0;git checkout -
+: 1537916679:0;git push origin --delete remove-duplicated-factory-NO-STORY
+: 1537916709:0;git branch -d remove-duplicated-factory-NO-STORY
+: 1537916721:0;git branch -D remove-duplicated-factory-NO-STORY
+: 1537916732:0;git checkout -b remove-duplicated-factory-NO-STORY
+: 1537916766:0;git add .
+: 1537916819:0;git branch -D remove-duplicated-factory-NO-STORY
+: 1537916833:0;git checkout -
+: 1537916835:0;git branch -D remove-duplicated-factory-NO-STORY
+: 1537970926:0;yaourt -Syyua --noconfirm
+: 1537971055:0;cd git/theguarantors.com
+: 1537971061:0;pull
+: 1537971086:0;git pull
+: 1537971106:0;git pull -f
+: 1537971150:0;git reset origin master
+: 1537971164:0;git reset origin master --hard
+: 1537971182:0;git status
+: 1537971240:0;git pull
+: 1537972144:0;git checkout -b update-coverageStart-to-today-RIC-72
+: 1537975063:0;npm run start
+: 1537975149:0;yarn
+: 1537975509:0;y
+: 1537976342:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1537976349:0;npm run start
+: 1537977188:0;cd git/theguarantors.com
+: 1537977191:0;yarn
+: 1537978503:0;sudo -u postgres -i
+: 1537979307:0;npm run start
+: 1537979502:0;netstat -tupln
+: 1537979530:0;kill -9 7776
+: 1537979534:0;npm run start
+: 1537979765:0;npm run start-dev
+: 1538000221:0;TZ=UTC yarn test
+: 1538002506:0;cd git/theguarantors.com
+: 1538002508:0;TZ=UTC yarn test
+: 1538056891:0;cd git/theguarantors.com
+: 1538056896:0;yarn test
+: 1538056906:0;yaourt -Syyua --noconfirm
+: 1538056913:0;TZ=UTC yarn test
+: 1538061709:0;sudo -u postgres -i
+: 1538062070:0;psql theguarantors_test
+: 1538062210:0;fg
+: 1538062289:0;psql theguarantors_development
+: 1538065231:0;TZ=UTC yarn test
+: 1538067204:0;npm run start-dev
+: 1538067424:0;psql theguarantors_development
+: 1538068960:0;npm run start-dev
+: 1538069282:0;npm run start
+: 1538070038:0;cd git/theguarantors.com
+: 1538070042:0;yarn test
+: 1538070746:0;TZ=UTC yarn test
+: 1538074767:0;npm run start
+: 1538074890:0;netstat -tupln
+: 1538074915:0;kill -9 21191
+: 1538074919:0;netstat -tupln
+: 1538074924:0;npm run start
+: 1538075766:0;hp-setup
+: 1538075908:0;netstat -tupln
+: 1538077325:0;hp-setup -i
+: 1538077830:0;cd git/theguarantors.com
+: 1538077837:0;npm run start
+: 1538080033:0;cd /etc/cups
+: 1538080035:0;ls
+: 1538080046:0;cat printers.conf
+: 1538080051:0;sudo cat printers.conf
+: 1538080059:0;cat printers.conf
+: 1538080079:0;cups restart
+: 1538080090:0;systemctl restart cups
+: 1538080147:0;sudo hp-setup -i
+: 1538080167:0;sudo hp-setup
+: 1538080215:0;sudo service cups restart
+: 1538080237:0;sudo systemctl status cups
+: 1538080249:0;yaourt cups
+: 1538080340:0;sudo systemctl status cupsd
+: 1538080381:0;sudo systemctl status org.cups.cupsd.service
+: 1538080393:0;sudo systemctl restart org.cups.cupsd.service
+: 1538080487:0;ps -al
+: 1538080493:0;ps -aL
+: 1538080512:0;ps -Al
+: 1538080610:0;ps -Al | grep print
+: 1538080614:0;ps -Al | grep pri
+: 1538080694:0;visudo
+: 1538080699:0;sudo visudo
+: 1538081270:0;ssh theguarantors@staging.theguarantors.com
+: 1538081331:0;sudo hp-setup -i 192.168.168.245
+: 1538081483:0;ssh theguarantors@staging.theguarantors.com
+: 1538081705:0;git add .
+: 1538081776:0;git commit -m "[RIC-72] Update coverageStart if its before than today"
+: 1538081785:0;git checkout master
+: 1538081789:0;git pull
+: 1538081799:0;git checkout -
+: 1538081808:0;git rebase master
+: 1538081834:0;git log
+: 1538081867:0;git push origin update-coverageStart-to-today-RIC-72
+: 1538085816:0;git add .
+: 1538085829:0;git commit -m "[RIC-72] Update coverageStart if its before than today" --amend
+: 1538085843:0;git push origin update-coverageStart-to-today-RIC-72 -f
+: 1538086083:0;git add .
+: 1538086087:0;git commit -m "[RIC-72] Update coverageStart if its before than today" --amend
+: 1538086092:0;git push origin update-coverageStart-to-today-RIC-72 -f
+: 1538089412:0;git add .
+: 1538089424:0;git commit -m "[RIC-72] Update coverageStart if its before than today" --amend
+: 1538089435:0;git checkout -
+: 1538089445:0;git pull
+: 1538089474:0;git push origin update-coverageStart-to-today-RIC-72 -f
+: 1538143101:0;yaourt -Syyua --noconfirm
+: 1538143149:0;cd /etc/cups
+: 1538143155:0;cd ~
+: 1538143159:0;cd git/theguarantors.com
+: 1538143182:0;git pull
+: 1538143458:0;git checkout -
+: 1538143475:0;git rebase master
+: 1538143482:0;git push origin update-coverageStart-to-today-RIC-72 -f
+: 1538143492:0;git checkout -
+: 1538144385:0;git add .
+: 1538144394:0;git commit -m "[RIC-72] Update coverageStart if its before than today" --amend
+: 1538144403:0;git push origin update-coverageStart-to-today-RIC-72 -f
+: 1538144956:0;git checkout -
+: 1538145488:0;lspci -k
+: 1538145536:0;ip link
+: 1538145644:0;iw dev
+: 1538145665:0;iw dev wlp4s0 link
+: 1538145694:0;iw dev wlp4s0 scan | less
+: 1538145736:0;ip link set wlp4s0 up
+: 1538145912:0;git checkout -b show-diferent-instructions-RIC85
+: 1538149323:0;ssh theguarantors@staging.theguarantors.com
+: 1538149573:0;dropdb theguarantors_development -U postgres
+: 1538149587:0;psql
+: 1538149624:0;createdb theguarantors-development -U postgres
+: 1538149664:0;git checkout update-coverageStart-to-today-RIC-72
+: 1538149669:0;bin/dump_db theguarantors@staging.theguarantors.com
+: 1538149698:0;pg_restore --no-owner --no-acl -j 4 -U postgres -d theguarantors_development theguarantors.zdump
+: 1538149719:0;createdb theguarantors_development -U postgres
+: 1538149732:0;dropdb theguarantors-development -U postgres
+: 1538149752:0;npm start
+: 1538149763:0;npm run start
+: 1538149889:0;git rebase master
+: 1538149933:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1538149990:0;dropdb theguarantors_development -U postgres
+: 1538150000:0;pg_restore --no-owner --no-acl -j 4 -U postgres -d theguarantors_development theguarantors.zdump
+: 1538150010:0;createdb theguarantors_development -U postgres
+: 1538150013:0;pg_restore --no-owner --no-acl -j 4 -U postgres -d theguarantors_development theguarantors.zdump
+: 1538150025:0;psql theguarantors_development
+: 1538150061:0;npm run start
+: 1538150606:0;npm run start-dev
+: 1538151373:0;npm run start
+: 1538153890:0;git checkout show-diferent-instructions-RIC85
+: 1538158318:0;git add .
+: 1538160544:0;git commit -m "[RIC-85] Show if building has required or recommended RIC"
+: 1538160609:0;git branch -m show-different-instructions-RIC-85
+: 1538161137:0;git checkout update-coverageStart-to-today-RIC-72
+: 1538164022:0;git add .
+: 1538164067:0;git commit -m "[RIC-85] Fix issue when coverageEnd is null"
+: 1538164095:0;git checkout show-different-instructions-RIC-85
+: 1538166990:0;git add .
+: 1538167032:0;git commit -m "[RIC-85] Show if building has required or recommended RIC" --amend
+: 1538167215:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1538167504:0;yarn test
+: 1538167682:0;git add .
+: 1538167716:0;git commit -m "[RIC-85] Show if building has required or recommended RIC" --amend
+: 1538167732:0;git checkout update-coverageStart-to-today-RIC-72
+: 1538404295:0;yaourt -Syyua --noconfirm
+: 1538408365:0;cd git/theguarantors.com
+: 1538408373:0;npm run clean
+: 1538414373:0;TZ=UTC yarn test
+: 1538414548:0;TZ=UTC yarn test.
+: 1538414551:0;TZ=UTC yarn test
+: 1538414933:0;psql theguarantors_test
+: 1538414956:0;psql theguarantors_development
+: 1538414965:0;TZ=UTC yarn test
+: 1538417171:0;git branch -m fix-coverage-end-RIC-112
+: 1538417205:0;npm run start
+: 1538417457:0;psql theguarantors_development
+: 1538417825:0;npm run start
+: 1538417838:0;npm run start-dev
+: 1538420941:0;npm run start
+: 1538423563:0;TZ=UTC yarn test
+: 1538423674:0;npm run start
+: 1538423956:0;git add .
+: 1538424038:0;git commit -m "[RIC-112] Fix coverage end when it is null on payment page"
+: 1538424068:0;git checkout master
+: 1538424071:0;git pull
+: 1538424083:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1538424136:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1538424210:0;git checkout -
+: 1538424214:0;git pull
+: 1538424313:0;git rebase master
+: 1538424317:0;yarn
+: 1538424539:0;git push origin fix-coverage-end-RIC-112
+: 1538424648:0;git log
+: 1538424672:0;git rebase -i HEAD~2
+: 1538424724:0;git push origin fix-coverage-end-RIC-112
+: 1538424732:0;git push origin fix-coverage-end-RIC-112 -f
+: 1538426143:0;git checkout show-different-instructions-RIC-85
+: 1538426151:0;git rebase master
+: 1538426177:0;TZ=UTC yarn test
+: 1538426353:0;cd ~
+: 1538426364:0;ls -la
+: 1538426501:0;alias
+: 1538426916:0;nvm .zshrc
+: 1538426946:0;nvim .zshrc
+: 1538427103:0;nvim .zshenv
+: 1538428462:0;cd .dotfiles
+: 1538428467:0;git status
+: 1538428482:0;git add .
+: 1538428534:0;git add commit -m "Update node version and add some aliases"
+: 1538428543:0;git commit -m "Update node version and add some aliases"
+: 1538428549:0;git push
+: 1538428570:0;TZ=UTC yarn test
+: 1538429530:0;NODE_ENV=test npm run sequelize -- db:migrate:undo:20180928120613-add-ric-condition-buildings.js
+: 1538429555:0;NODE_ENV=test npm run sequelize -- db:migrate:undo:20180928120613-add-ric-condition-buildings.ts
+: 1538429592:0;NODE_ENV=test npm run sequelize -- db:migrate:undo:migratons/20180928120613-add-ric-condition-buildings.js
+: 1538429637:0;NODE_ENV=test npm run sequelize -- db:migrate:undo --name migratons/20180928120613-add-ric-condition-buildings.js
+: 1538429663:0;NODE_ENV=test npm run sequelize -- db:migrate:undo --name 20180928120613-add-ric-condition-buildings.js
+: 1538429686:0;NODE_ENV=development npm run sequelize -- db:migrate:undo --name 20180928120613-add-ric-condition-buildings.js
+: 1538429805:0;npm run clean
+: 1538430162:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1538430527:0;NODE_ENV=test npm run sequelize -- db:migrate:undo
+: 1538430537:0;npm run clean
+: 1538430669:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1538490941:0;yao
+: 1538490946:0;yaourt -Syyua --noconfirm
+: 1538491109:0;cd git/theguarantors.com
+: 1538491119:0;git log
+: 1538491367:0;alias
+: 1538491455:0;git add .
+: 1538491463:0;gca
+: 1538491515:0;alias
+: 1538491613:0;git -h
+: 1538491619:0;git commit -h
+: 1538491650:0;gcan!
+: 1538491716:0;git reset HEAD~
+: 1538492305:0;npm run start
+: 1538493220:0;git add .
+: 1538493233:0;git commit -m "[RIC-85] Show if building has required or recommended RIC"
+: 1538493292:0;git checkout fix-coverage-end-RIC-112
+: 1538493298:0;git checkout master
+: 1538493301:0;git pull
+: 1538493316:0;git checkout -
+: 1538493323:0;git rebase master
+: 1538493327:0;yarn
+: 1538493642:0;yarn test
+: 1538493716:0;TZ=UTC yarn test
+: 1538494270:0;git add .
+: 1538494360:0;git commit -m "[RIC-112]Fix coverageEnd date in RIC payments"
+: 1538494381:0;git rebase -i HEAD~2
+: 1538494422:0;git push origin fix-coverage-end-RIC-112 -f
+: 1538494462:0;git add .
+: 1538494472:0;gcan!
+: 1538494475:0;git log
+: 1538494489:0;git push origin fix-coverage-end-RIC-112 -f
+: 1538494991:0;git checkout show-different-instructions-RIC-85
+: 1538494999:0;git rebase master
+: 1538495280:0;git add .
+: 1538495293:0;alias
+: 1538495315:0;grbc
+: 1538497820:0;npm run start
+: 1538497981:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1538498068:0;NODE_ENV=test npm run sequelize -- db:migrate:undo
+: 1538498077:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1538498132:0;NODE_ENV=development npm run sequelize -- db:migrate:undo --name 20181001164913-add-ric-requirement-buildings.js
+: 1538498315:0;dropdb theguarantors_test -U postgres
+: 1538498336:0;createdb theguarantors_test -U postgres
+: 1538498343:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1538498383:0;NODE_ENV=test npm run sequelize -- db:seed:all
+: 1538498422:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1538498721:0;npm run start-dev
+: 1538499486:0;git log
+: 1538499505:0;git add .
+: 1538499508:0;gcan!
+: 1538499532:0;git checkout master
+: 1538499544:0;npm run start
+: 1538500146:0;pg_ga_dev
+: 1538500910:0;cd git/theguarantors.com
+: 1538500958:0;netstat -tupln
+: 1538500971:0;kill -9 30009
+: 1538500997:0;pg_ga_dev
+: 1538501391:0;git checkout -
+: 1538501402:0;npm run start
+: 1538515657:0;NODE_ENV=development npm run sequelize -- db:migrate:undo --name 20181001164913-add-ric-requirement-buildings.js
+: 1538515683:0;NODE_ENV=test npm run sequelize -- db:migrate:undo --name 20181001164913-add-ric-requirement-buildings.js
+: 1538515778:0;NODE_ENV=test npm run sequelize -- db:seed:all
+: 1538515789:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1538515803:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1538578003:0;cd git/theguarantors.com
+: 1538578012:0;TZ=UTC yarn test
+: 1538578199:0;npm run clean
+: 1538578481:0;npm run start
+: 1538579461:0;pg_ga_dev
+: 1538579704:0;git add .
+: 1538579707:0;git log
+: 1538579763:0;git commit --amend
+: 1538580253:0;git checkout master
+: 1538580257:0;git pull
+: 1538580294:0;git checkout -
+: 1538580299:0;git rebase master
+: 1538580304:0;yarn
+: 1538580545:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1538580604:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1538580651:0;git push origin show-different-instructions-RIC-85
+: 1538581031:0;git add .
+: 1538581062:0;gcan!
+: 1538581070:0;git push origin show-different-instructions-RIC-85 -f
+: 1538585612:0;git add .
+: 1538585615:0;gcan!
+: 1538585619:0;git push origin show-different-instructions-RIC-85 -f
+: 1538586523:0;ifconfig
+: 1538586580:0;uname -a
+: 1538586625:0;uname
+: 1538586630:0;uname -u
+: 1538586635:0;uname -h
+: 1538586642:0;uname --help
+: 1538586653:0;uname -o
+: 1538586657:0;uname -a
+: 1538586674:0;uname -i
+: 1538586683:0;uname -p
+: 1538588611:0;TZ=UTC yarn test
+: 1538602531:0;git log
+: 1538602588:0;git add .
+: 1538602592:0;gcan!
+: 1538602607:0;git checkout master
+: 1538602635:0;git pull
+: 1538602683:0;git checkout -
+: 1538602692:0;git rebase master
+: 1538602760:0;git add .
+: 1538602767:0;alias
+: 1538602780:0;grbc
+: 1538602807:0;yarn
+: 1538602974:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1538603375:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1538603635:0;npm run start
+: 1538604624:0;git add .
+: 1538604629:0;gcan!
+: 1538604747:0;git push origin show-different-instructions-RIC-85 -f
+: 1538663114:0;yaourt -Syyua --noconfirm
+: 1538671156:0;cd git/theguarantors.com
+: 1538671378:0;NODE_ENV=test npm run sequelize -- db:migrate:undo --name 20181001164913-add-ric-requirement-buildings.js
+: 1538671524:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1538671557:0;pg_ga_test
+: 1538671685:0;NODE_ENV=test npm run sequelize -- db:migrate:undo --name 20181001164913-add-ric-requirement-buildings.js
+: 1538671794:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1538672190:0;vi ~/.zshenv
+: 1538673482:0;git add .
+: 1538673499:0;git log
+: 1538673522:0;gcan!
+: 1538673531:0;git checkout -
+: 1538673536:0;git pull
+: 1538673558:0;git checkout -
+: 1538673567:0;git rebase master
+: 1538673916:0;yarn
+: 1538674066:0;git status
+: 1538674103:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1538674156:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1538674238:0;npm run start
+: 1538674542:0;git add .
+: 1538674546:0;gcan!
+: 1538674557:0;git push origin show-different-instructions-RIC-85 -f
+: 1538689625:0;git checkout master
+: 1538689637:0;alias
+: 1538689684:0;git pull
+: 1538689757:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1538689818:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1538689864:0;yarn
+: 1538694162:0;npm run start
+: 1538695324:0;gco -b increase-body-parser-params-LG-209
+: 1538749957:0;yaourt -Syyua --noconfirm
+: 1538756139:0;vi
+: 1538756369:0;yaourt -S upterm
+: 1538758205:0;cd git/theguarantors.com
+: 1538758219:0;npm run start
+: 1538758376:0;yaourt -Rns upterm
+: 1538758494:0;npm run start
+: 1538764296:0;cd git/theguarantors.com
+: 1538764300:0;TZ=UTC yarn test
+: 1538764624:0;npm run clean
+: 1538764628:0;TZ=UTC yarn test
+: 1538765598:0;yarn upgrade @types/body-parser
+: 1538765770:0;yarn add @types/body-parser
+: 1538766343:0;TZ=UTC yarn test
+: 1538768455:0;tg_db_test
+: 1538768955:0;TZ=UTC yarn test
+: 1538772249:0;cd .dotfiles
+: 1538772260:0;git log
+: 1538772268:0;git status
+: 1538772281:0;git add .
+: 1538772360:0;git commit -m "Updated zshenv"
+: 1538772406:0;git push
+: 1538773819:0;tg_db_dev
+: 1539095168:0;yaourt -Syyua --noconfirm
+: 1539097967:0;tg_db_dev
+: 1539099031:0;cd git/theguarantors.com
+: 1539099052:0;yarn compile
+: 1539102453:0;tg_db_dev
+: 1539102486:0;node test/building-factory.js
+: 1539102839:0;npm run clean
+: 1539102848:0;yarn compile
+: 1539102907:0;node test/building-factory.js
+: 1539103588:0;git add .
+: 1539103655:0;git commit -m "[LG-209] Increase body-parser params limit to 2000"
+: 1539103666:0;git checkout master
+: 1539103673:0;git pull
+: 1539103688:0;yarn
+: 1539104132:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1539104165:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1539105027:0;git checkout -b remove-rent-manager-constraint-from-building-RIC-126
+: 1539110526:0;npm run start-dev
+: 1539111934:0;yarn test
+: 1539112009:0;npm run clean
+: 1539112013:0;yarn test
+: 1539116680:0;node
+: 1539116736:0;yarn test
+: 1539116893:0;git add .
+: 1539117107:0;git commit -m "[RIC-126] Fix the update when buildings have rent manager location id as ''"
+: 1539117172:0;git branch -m fix-update-building-RIC-126
+: 1539117182:0;git checkout master
+: 1539117189:0;git pull
+: 1539117203:0;git checkout -
+: 1539117215:0;git rebase master
+: 1539117220:0;git push
+: 1539117238:0;git push origin fix-update-building-RIC-126
+: 1539117466:0;npm run start
+: 1539118694:0;git add .
+: 1539118705:0;git commit -m fix tests
+: 1539118714:0;git commit -m "fix tests"
+: 1539118721:0;git rebase -i HEAD~2
+: 1539118762:0;git push origin fix-update-building-RIC-126 -f
+: 1539121873:0;npm run start
+: 1539123105:0;git add .
+: 1539123119:0;git commit -m "code review"
+: 1539123124:0;git rebase -i HEAD~2
+: 1539123258:0;git push origin fix-update-building-RIC-126 -f
+: 1539123473:0;yarn test
+: 1539125041:0;git add .
+: 1539125059:0;git commit -m "Code review"
+: 1539125066:0;git rebase -i HEAD~2
+: 1539125092:0;git push origin fix-update-building-RIC-126 -f
+: 1539127170:0;yarn test
+: 1539127447:0;git add .
+: 1539127454:0;git commit -m "Code review"
+: 1539127459:0;git rebase -i HEAD~2
+: 1539127498:0;git push origin fix-update-building-RIC-126 -f
+: 1539127605:0;git checkout master
+: 1539127614:0;git log
+: 1539127637:0;git branch
+: 1539127735:0;git checkout increase-body-parser-params-LG-209
+: 1539127741:0;git rebase master
+: 1539184624:0;cd git/theguarantors.com
+: 1539184682:0;git checkout  fix-update-building-RIC-126
+: 1539184722:0;yarn comile
+: 1539184725:0;yarn compile
+: 1539189419:0;yarn test
+: 1539190986:0;git add .
+: 1539191000:0;git commit -m "Code review"
+: 1539191010:0;git rebase -i HEAD~2
+: 1539191033:0;git checkout master
+: 1539191036:0;git pull
+: 1539191076:0;git checkout master
+: 1539191115:0;git checkout -
+: 1539191129:0;git checkout  fix-update-building-RIC-126
+: 1539191134:0;git rebase master
+: 1539191215:0;yarn
+: 1539191298:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1539191348:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1539191463:0;git push origin fix-update-building-RIC-126 -f
+: 1539192258:0;git checkout increase-body-parser-params-LG-209
+: 1539199255:0;git rebase master
+: 1539199265:0;git checkout  fix-update-building-RIC-126
+: 1539200174:0;npm run start
+: 1539201087:0;yarn test
+: 1539201198:0;git add .
+: 1539201239:0;git commit -m "Code review"
+: 1539201243:0;git rebase -i HEAD~2
+: 1539201296:0;git checkout master
+: 1539201301:0;git pull
+: 1539201312:0;git checkout -
+: 1539201316:0;git rebase master
+: 1539201325:0;git push origin fix-update-building-RIC-126 -f
+: 1539201844:0;tg_db_dev
+: 1539202969:0;git add .
+: 1539202976:0;gcan!
+: 1539203026:0;git push origin fix-update-building-RIC-126 -f
+: 1539205003:0;git checkout increase-body-parser-params-LG-209
+: 1539206307:0;yarn compile
+: 1539206558:0;node test/building-factory.js
+: 1539206702:0;npm run start
+: 1539207979:0;tg_db_dev
+: 1539210655:0;yarn test
+: 1539211206:0;tg_db_test
+: 1539211270:0;yarn test
+: 1539266794:0;yaourt -Syyua --noconfirm
+: 1539267163:0;npm run start
+: 1539267176:0;cd git/theguarantors.com
+: 1539267177:0;npm run start
+: 1539268215:0;yarn test
+: 1539274029:0;git log
+: 1539274054:0;git reset HEAD~
+: 1539274121:0;git add status
+: 1539274127:0;git status
+: 1539274145:0;git commit -m "[LG-209] Increase body-parser params limit to 2000"
+: 1539274186:0;git stash --include-untracked
+: 1539274195:0;git log
+: 1539274207:0;git checkout master
+: 1539274235:0;git pull
+: 1539274253:0;git checkout -
+: 1539274264:0;git rebase master
+: 1539274293:0;git push origin increase-body-parser-params-LG-209
+: 1539274386:0;git add .
+: 1539274394:0;gcan!
+: 1539274398:0;git push origin increase-body-parser-params-LG-209
+: 1539274403:0;git push origin increase-body-parser-params-LG-209 -f
+: 1539275792:0;git stash
+: 1539281458:0;git checkout master
+: 1539281465:0;git pull
+: 1539281648:0;git checout -b prevent-orphaned-deals-hubspot-LG-219
+: 1539281655:0;git checkout -b prevent-orphaned-deals-hubspot-LG-219
+: 1539282115:0;git checkout increase-body-parser-params-LG-209
+: 1539282223:0;yarn upgrade @types/body-parser
+: 1539282512:0;yaourt yvm
+: 1539282531:0;yaourt yarn
+: 1539282662:0;yaourt -Rns yarn
+: 1539282680:0;yarn -v
+: 1539282881:0;yaourt yarn
+: 1539282932:0;yarn remove @types/body-parser
+: 1539283008:0;yarn add @types/body-parser
+: 1539283081:0;npm run clean
+: 1539283088:0;yarn compile
+: 1539283296:0;alias
+: 1539283349:0;gaa
+: 1539283365:0;git status\
+: 1539283367:0;git status
+: 1539283386:0;gcan!
+: 1539283457:0;gpsup
+: 1539283462:0;gpsup -f
+: 1539284058:0;ping staging.theguarantors.com\
+
+: 1539284479:0;git checkout -
+: 1539286839:0;npm run start-dev
+: 1539287569:0;tg_db_test
+: 1539287576:0;tg_db_dev
+: 1539292795:0;npm run start
+: 1539355819:0;cd git/theguarantors.com
+: 1539355847:0;tg_db_dev
+: 1539375276:0;yaourt -Syyua --noconfirm
+: 1539378538:0;git add .
+: 1539378573:0;git commit -m "[LG-2019] Delete orphaned deals from hubspot"
+: 1539378590:0;git checkout -m
+: 1539378598:0;git checkout master
+: 1539378604:0;git checkout -
+: 1539378606:0;git checkout master
+: 1539378609:0;git pull
+: 1539378629:0;yarn
+: 1539378660:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1539378719:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1539379033:0;git checkout -b fix-formatting-about-us-WDB-51
+: 1539380125:0;cd git/theguarantors.com
+: 1539380134:0;npm run start
+: 1539381016:0;git add .
+: 1539381020:0;git status
+: 1539381095:0;git commit -m "[WDB-51] Fix formatting issues and a typo"
+: 1539381118:0;git push origin fix-formatting-about-us-WDB-51
+: 1539382419:0;git checkout prevent-orphaned-deals-hubspot-LG-219
+: 1539382487:0;git branch -m delete-orphaned-deals-hubspot-LG-219
+: 1539612216:0;passwd
+: 1539614012:0;yaourt -Syyua --noconfirm
+: 1539614423:0;node
+: 1539617341:0;cd git/theguarantors.com
+: 1539617347:0;yarn test
+: 1539625589:0;npm run clean
+: 1539625602:0;yarn test
+: 1539631648:0;tg_db_dev
+: 1539632974:0;yarn test
+: 1539635197:0;npm run start
+: 1539642324:0;yarn test
+: 1539642602:0;npm run start
+: 1539644448:0;tg_db_dev
+: 1539645340:0;npm run start
+: 1539699628:0;yaourt -Syyua --noconfirm
+: 1539700142:0;cd g
+: 1539700175:0;node services/process-hubspot-queue.js 
+: 1539700208:0;cd git/theguarantors.com
+: 1539700212:0;node services/process-hubspot-queue.js 
+: 1539700355:0;npm run start
+: 1539700574:0;cd git/theguarantors.com
+: 1539700583:0;npm run start
+: 1539700808:0;node services/process-hubspot-queue.js 
+: 1539701222:0;git status
+: 1539701289:0;git log
+: 1539701386:0;gcan!
+: 1539701391:0;git add .
+: 1539701394:0;gcan!
+: 1539701414:0;git log
+: 1539701425:0;git checkout master
+: 1539701429:0;git pull
+: 1539701441:0;yarn
+: 1539701879:0;git checkout -
+: 1539701896:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1539702570:0;git rebase master
+: 1539702575:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1539702612:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1539702638:0;gpsup
+: 1539702787:0;git commit --amend
+: 1539702814:0;gpsup -f
+: 1539703038:0;git add .
+: 1539703047:0;gcan!
+: 1539703058:0;gpsup -f
+: 1539703730:0;yarn install
+: 1539705196:0;npm run start
+: 1539705805:0;node services/process-hubspot-queue.js 
+: 1539706571:0;npm run start
+: 1539714973:0;yarn test
+: 1539719694:0;npm run start
+: 1539723995:0;cd ~/Desktop
+: 1539723996:0;ll
+: 1539724075:0;scp building-factory.js theguarantors@staging.theguarantors.com:~
+: 1539724223:0;ssh theguarantors@staging.theguarantors.com
+: 1539725972:0;npm run start
+: 1539726239:0;node services/process-hubspot-queue.js 
+: 1539726472:0;tg_db_dev
+: 1539728509:0;npm run start
+: 1539730527:0;node services/process-hubspot-queue.js 
+: 1539785935:0;yaourt -Syyua --noconfirm
+: 1539785973:0;cd git/theguarantors.com
+: 1539786002:0;npm run start
+: 1539786136:0;node services/process-hubspot-queue.js 
+: 1539790663:0;node
+: 1539794395:0;yarn test
+: 1539796232:0;npm run start
+: 1539796726:0;node services/process-hubspot-queue.js 
+: 1539798152:0;npm run start
+: 1539798409:0;node services/process-hubspot-queue.js 
+: 1539798900:0;npm run start
+: 1539799157:0;node services/process-hubspot-queue.js 
+: 1539805341:0;npm run start
+: 1539806132:0;node services/process-hubspot-queue.js 
+: 1539807003:0;npm run start
+: 1539810454:0;node services/process-hubspot-queue.js 
+: 1539810824:0;npm run start
+: 1539810940:0;node services/process-hubspot-queue.js 
+: 1539812339:0;npm run start
+: 1539812463:0;node services/process-hubspot-queue.js 
+: 1539817233:0;npm run start
+: 1539818119:0;npm run start-dev
+: 1539818248:0;node services/process-hubspot-queue.js 
+: 1539818879:0;npm run clean
+: 1539818919:0;yarn test
+: 1539819609:0;npm run start
+: 1539819630:0;cd git/theguarantors.com
+: 1539819637:0;git add .
+: 1539819641:0;gcan!
+: 1539819671:0;git checkout -
+: 1539819675:0;git pull
+: 1539819693:0;git checkout -
+: 1539819698:0;git rebase master
+: 1539819747:0;git add .
+: 1539819777:0;git rebase --continue
+: 1539819843:0;git add .
+: 1539819846:0;gcan!
+: 1539819859:0;gpsup -f
+: 1539820143:0;yarn
+: 1539820298:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1539820315:0;npm run start
+: 1539820532:0;netstat -tupln
+: 1539820544:0;kill -9 29748
+: 1539820547:0;npm run start
+: 1539820664:0;node services/process-hubspot-queue.js 
+: 1539871517:0;yaourt -Syyua --noconfirm
+: 1539871586:0;la
+: 1539871644:0;vi .tmux.conf
+: 1539872023:0;la
+: 1539872093:0;ll
+: 1539872201:0;yaourt powerline
+: 1539872332:0;ls /usr/lib/python3.7/site-packages/powerline/bindings/zsh/powerline.zsh
+: 1539872345:0;ll /usr/lib/python3.7/site-packages/powerline/bindings/zsh/powerline.zsh
+: 1539872370:0;vi .zshrc
+: 1539872431:0;vi .tmux.conf
+: 1539873302:0;vi .config/nvim/init.vim
+: 1539873538:0;la
+: 1539873637:0;cd .dotfiles
+: 1539873640:0;ll
+: 1539873681:0;cd ..
+: 1539873914:0;vi .config/nvim/init.vim
+: 1539876894:0;vi /usr/lib/python3.7/site-packages/powerline/config_files/themes/tmux/default.json
+: 1539876937:0;vi .config/nvim/init.vim
+: 1539877176:0;rm "/home/mmena/.local/share/nvim/swap//%home%mmena%.config%nvim%init.vim.swp\
+\
+"
+: 1539877193:0;rm "/home/mmena/.local/share/nvim/swap//%home%mmena%.config%nvim%init.vim.swp"
+: 1539877202:0;vi .config/nvim/init.vim
+: 1539877660:0;cd git/theguarantors.com
+: 1539877671:0;yarn test
+: 1539878154:0;yaourt powerline
+: 1539878443:0;vi .tmux.conf
+: 1539878799:0;yarn test
+: 1539878852:0;yaourt powerline-console-fonts
+: 1539879269:0;cd git/theguarantors.com
+: 1539879279:0;git checkout -
+: 1539879332:0;git add .
+: 1539879336:0;gcan!
+: 1539879342:0;git checkout -
+: 1539879346:0;git pull
+: 1539879360:0;git checkout -
+: 1539879375:0;git rebase master
+: 1539879379:0;gpsup -f
+: 1539879429:0;vi .config/nvim/init.vim
+: 1539880060:0;tput colors
+: 1539880352:0;.vimrc
+: 1539880357:0;vi .vimrc
+: 1539880493:0;vi .config/nvim/init.vim
+: 1539880617:0;rm .vimrc
+: 1539880665:0;vi .config/nvim/init.vim
+: 1539881495:0;git add .
+: 1539881498:0;gcan!
+: 1539881501:0;gpsup -f
+: 1539882193:0;vi .config/nvim/init.vim
+: 1539882265:0;vi .zshrc
+: 1539882316:0;vi .antigen/init.zsh
+: 1539882349:0;vi .config/nvim/init.vim
+: 1539883342:0;node test/building-factory.js
+: 1539883495:0;npm run clean
+: 1539883532:0;yarn compile
+: 1539883597:0;node test/building-factory.js
+: 1539890359:0;tg_db_dev
+: 1539891076:0;pg_dump --table=_buildings --data-only --column-inserts theguarantors_development > ~/buildings_qa.sql
+: 1539891092:0;vi ~/buildings_qa.sql
+: 1539891908:0;git add .
+: 1539891915:0;gcan!
+: 1539891923:0;git checkout -
+: 1539891926:0;git pull
+: 1539891940:0;git checkout -
+: 1539891946:0;git rebase master
+: 1539891951:0;gpsup -f
+: 1539892245:0;pg_dump --table=_AssignedBuildings --data-only --column-inserts theguarantors_development > ~/AssignedBuildings_qa.sql
+: 1539892262:0;vi ~/AssignedBuildings_qa.sql
+: 1539893423:0;pg_dump --table=_Buildings --data-only --column-inserts theguarantors_development > ~/buildings_qa.sql
+: 1539893437:0;vi ~/buildings_qa.sql
+: 1539894158:0;pg_dump --table=_AssignedBuildings --data-only --column-inserts theguarantors_development > ~/AssignedBuildings_qa.sql
+: 1539894171:0;vi ~/AssignedBuildings_qa.sql
+: 1539897692:0;yarn compile
+: 1539897754:0;node test/building-factory.js
+: 1539897953:0;pg_dump --table=_Buildings --data-only --column-inserts theguarantors_development > ~/buildings_qa.sql
+: 1539897966:0;vi ~/buildings_qa.sql
+: 1539958309:0;yaourt -Syyua --noconfirm
+: 1539958648:0;vi ~/buildings_qa.sql
+: 1539958688:0;vi .config/nvim/init.vim
+: 1539959138:0;yaourt airline
+: 1539959289:0;vi .config/nvim/init.vim
+: 1539965367:0;cd git/theguarantors.com
+: 1539965377:0;cd master
+: 1539965384:0;git checkout master
+: 1539965434:0;git checkout -b delete-all-orphaned-deals-hubspot-LG-47
+: 1539968818:0;git add .
+: 1539968988:0;git commit -m "Add interfaces and a new function to get deals from hubspot"
+: 1539969001:0;git checkout master
+: 1539969008:0;git pull
+: 1539969104:0;git checkout -
+: 1539969110:0;git rebase master
+: 1539969129:0;gpsup -f
+: 1539974896:0;node
+: 1539976355:0;yarn test
+: 1539976422:0;yarn
+: 1539976671:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1539976687:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1539976696:0;yarn test
+: 1539976810:0;npm run clean
+: 1539976829:0;yarn test
+: 1539979947:0;git add .
+: 1539979952:0;gcan!
+: 1539979956:0;gpsup -f
+: 1540217980:0;yaourt -Syyua --noconfirm
+: 1540218139:0;cd git/theguarantors.com
+: 1540235635:0;fdisk -l
+: 1540235642:0;sudo fdisk -l
+: 1540235990:0;lsblk
+: 1540239690:0;mount
+: 1540249494:0;node
+: 1540302938:0;yaourt -Syyua --noconfirm
+: 1540306258:0;cd git/theguarantors.com
+: 1540306265:0;yarn test
+: 1540310210:0;yarn compile
+: 1540310287:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540310307:0;yarn compile
+: 1540310390:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540310812:0;yarn compile
+: 1540310879:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540310969:0;yarn compile
+: 1540311031:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540311135:0;yarn compile
+: 1540311189:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540311676:0;yarn compile
+: 1540311726:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540311803:0;yarn compile
+: 1540311980:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540312225:0;fg
+: 1540312523:0;yarn compile
+: 1540312603:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540312915:0;yarn compile
+: 1540313060:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540313123:0;yarn compile
+: 1540313235:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540313355:0;yarn compile
+: 1540313440:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540314552:0;yarn compile
+: 1540314627:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540321298:0;node
+: 1540322505:0;yarn compile
+: 1540322879:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540324060:0;yarn compile
+: 1540324117:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540325356:0;yarn test
+: 1540326949:0;vi .config/nvim/init.vim
+: 1540327605:0;yarn compile
+: 1540327665:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540328367:0;yarn compile
+: 1540328607:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540329625:0;yarn compile
+: 1540329693:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540329767:0;yarn compile
+: 1540329866:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540329918:0;yarn compile
+: 1540329966:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540330399:0;yarn compile
+: 1540330509:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540331717:0;yarn compile
+: 1540331781:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540332458:0;yarn compile
+: 1540333187:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540333258:0;yarn compile
+: 1540333327:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540333501:0;yarn compile
+: 1540333587:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540333666:0;yarn compile
+: 1540333728:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540333819:0;git add .
+: 1540333839:0;gcan!
+: 1540333892:0;git reset HEAD~
+: 1540333911:0;git add .
+: 1540333967:0;git commit -m "[LG-47] Delete all orphaned deals from hubspot"
+: 1540333978:0;git checkout -
+: 1540333985:0;git pull
+: 1540334092:0;git git checkout production
+: 1540334099:0;git checkout production
+: 1540334116:0;git pull origin
+: 1540334141:0;git checkout -b release-$(date +%Y%m%d)
+: 1540334154:0;git merge --no-ff master
+: 1540334193:0;gpsup
+: 1540334618:0;git checkout -b delete-all-orphaned-deals-hubspot-LG-47
+: 1540334627:0;git checkout delete-all-orphaned-deals-hubspot-LG-47
+: 1540334774:0;yarn compile
+: 1540334975:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540335273:0;yarn compile
+: 1540335331:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540335476:0;ssh theguarantors@staging.theguarantors.com
+: 1540390236:0;yaourt -Syyua --noconfirm
+: 1540395558:0;hap --help
+: 1540395569:0;hap -v
+: 1540396463:0;stack upgrade
+: 1540399163:0;cd git/theguarantors.com
+: 1540399171:0;yarn test
+: 1540400388:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540400598:0;yarn compile
+: 1540400696:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540405108:0;ssh theguarantors@staging.theguarantors.com
+: 1540405406:0;tg_db_dev
+: 1540405506:0;bin/dump_db theguarantors@staging.theguarantors.com
+: 1540405544:0;tg_db_dev
+: 1540405578:0;sudo -u postgres -i
+: 1540405700:0;pg_restore --no-owner --no-acl -j 4 -U postgres -d theguarantors_development theguarantors.zdump
+: 1540405726:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540405883:0;tg_db_dev
+: 1540406322:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540406407:0;git status
+: 1540406415:0;git log
+: 1540406532:0;git commit -m "[LG-47] Delete all orphaned LG deals from hubspot"
+: 1540406538:0;git add .
+: 1540406540:0;git commit -m "[LG-47] Delete all orphaned LG deals from hubspot"
+: 1540406553:0;git rebase -i HEAD~2
+: 1540406620:0;git checkout master
+: 1540406623:0;git pull
+: 1540406649:0;git checkout -
+: 1540406654:0;git rebase master
+: 1540406669:0;gpsup
+: 1540406700:0;gpsup -f
+: 1540408366:0;yarn compile
+: 1540408449:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540408700:0;yarn compile
+: 1540409011:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540409104:0;git add .
+: 1540409108:0;gcan!
+: 1540409113:0;gpsup -f
+: 1540410305:0;git add .
+: 1540410308:0;gcan!
+: 1540410311:0;gpsup -f
+: 1540415534:0;yarn test
+: 1540416430:0;git add .
+: 1540416433:0;gcan!
+: 1540416439:0;gpsup -f
+: 1540417565:0;git checkout -
+: 1540417573:0;git pull
+: 1540417662:0;git checkout -b move-building-id-from-LG-applications-DEBT-48
+: 1540420703:0;git checkout master
+: 1540420736:0;git branch -D move-building-id-from-LG-applications-DEBT-48
+: 1540477146:0;yaourt -Syyua --noconfirm
+: 1540477302:0;vi .config/nvim/init.vim
+: 1540477353:0;vi .tmux.conf
+: 1540477373:0;vi .config/nvim/init.vim
+: 1540477413:0;cd .dotfiles
+: 1540477418:0;git status
+: 1540477429:0;git add .
+: 1540477482:0;git commit -m "Modify some configurations of nvim and tmux"
+: 1540477488:0;git push
+: 1540477951:0;yaourt haskell
+: 1540477984:0;yaourt stack
+: 1540478369:0;cd ~
+: 1540478399:0;vi /etc/pacman.conf
+: 1540480995:0;cd git/theguarantors.com
+: 1540481091:0;git checkout -b replace-truncate-with-withRollback-DEBT-65
+: 1540484016:0;cd ..
+: 1540484030:0;journalctl -X
+: 1540484033:0;journalctl -Xe
+: 1540484039:0;journalctl
+: 1540484055:0;journalctl -e
+: 1540484098:0;journalctl
+: 1540484161:0;htop
+: 1540484183:0;journalctl
+: 1540485494:0;journalctl -e
+: 1540511223:0;fdisk -l
+: 1540511233:0;sudo fdisk -l
+: 1540511349:0;cp -R .ssh /dev/sdb1
+: 1540511571:0;cd /run/mount
+: 1540511572:0;ll
+: 1540511639:0;/mnt
+: 1540511640:0;ll
+: 1540511717:0;ls /proc/mounts
+: 1540511788:0;sudo lsblk -f
+: 1540511857:0;lsblk
+: 1540511981:0;mkdir /mnt/usbstick
+: 1540511987:0;sudo mkdir /mnt/usbstick
+: 1540512053:0;mount /dev/sdb1
+: 1540512175:0;cd ~
+: 1540512257:0;cp -R .ssh Dropbox/ssh/
+: 1540512636:0;poweroff
+: 1540563341:0;la
+: 1540563357:0;ll .vscode
+: 1540563539:0;cp .config/Code/User/settings.json Dropbox/vscode
+: 1540563793:0;poweroff
+: 1540574921:0;cat .zsh_history
+: 1540574968:0;cp .zsh_history Dropbox/.zsh_history
+: 1540575053:0;cp .zsh_history Dropbox/.\zsh_history
+: 1540575062:0;cp .zsh_history Dropbox/zsh_history
+: 1540579235:0;cat ~/.zsh_history
+: 1540579294:0;cd git/theguarantors.com
+: 1540579313:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1540579403:0;sudo -u postgres -i
+: 1540579633:0;sudo systemctl enable postgresql.service
+: 1540579639:0;sudo systemctl start postgresql.service
+: 1540579646:0;sudo -u postgres -i
+: 1540579683:0;createdb theguarantors_test -U postgres
+: 1540579688:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1540580087:0;cp ~/Dropbox/StackBuilders/bkp-sb/*.env* .
+: 1540580107:0;cp ~/Dropbox/StackBuilders/bkp-sb/.env .env
+: 1540580116:0;cp ~/Dropbox/StackBuilders/bkp-sb/.env.test .env.test
+: 1540580222:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1540580267:0;createuser --interactive
+: 1540580311:0;createuser --interactive -U postgres
+: 1540580323:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1540580395:0;yay postgis
+: 1540580951:0;createdb theguarantors_development -U postgres
+: 1540580957:0;tg_db_test
+: 1540581010:0;tg_db_dev
+: 1540581029:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1540581052:0;NODE_ENV=test npm run sequelize -- db:seed:all
+: 1540581074:0;bin/dump_db theguarantors@staging.theguarantors.com
+: 1540581104:0;pg_restore --no-owner --no-acl -j 4 -U postgres -d theguarantors_development theguarantors.zdump
+: 1540581142:0;yarn test
+: 1540581773:0;htop
+: 1540581801:0;lsblk
+: 1540581844:0;yay tree
+: 1540581871:0;baobab
+: 1540581906:0;yay tree
+: 1540585295:0;yarn test
+: 1540589122:0;git add .
+: 1540589125:0;git log
+: 1540589155:0;git add .
+: 1540589160:0;gcan!
+: 1540589187:0;gpsup -f
+: 1540589246:0;cp ~/.zsh_history ~/.dotfiles/zsh_history
+: 1540589696:0;cd ~/git/theguarantors.com
+: 1540589703:0;git add .
+: 1540589710:0;gcan!
+: 1540589716:0;gpsup -f
+: 1540590387:0;cd ~/.dotfiles
+: 1540590393:0;vi README.md
+: 1540590463:0;git add .
