@@ -3815,3 +3815,438 @@
 : 1540590387:0;cd ~/.dotfiles
 : 1540590393:0;vi README.md
 : 1540590463:0;git add .
+: 1540590544:0;git commit -m "Add zsh_history"
+: 1540590556:0;git push
+: 1540590676:0;git remote v
+: 1540590679:0;git remote -v
+: 1540590747:0;git remote set-url origin git@github.com:mrcrow85/dotfiles.git
+: 1540590752:0;git push
+: 1540591233:0;vi
+: 1540591684:0;yay pip
+: 1540592151:0;yay fonts
+: 1540592198:0;yay awesome-terminal-fonts
+: 1540592318:0;pip3 install --user neovim
+: 1540592343:0;pip3 install neovim
+: 1540592359:0;vi ~/.config/nvim/init.vim
+: 1540592791:0;yay pip
+: 1540592964:0;tput colors
+: 1540593028:0;vi ~/.config/nvim/init.vim
+: 1540595490:0;w
+: 1540596209:0;sudo visudo
+: 1540823394:0;yay
+: 1540827673:0;git clone git@github.com:stackbuilders/training-mmena.git
+: 1540827687:0;cd training-mmena
+: 1540827698:0;echo "# training-mmena" >> README.md
+: 1540827706:0;git init
+: 1540827720:0;git add README.md
+: 1540829561:0;ll
+: 1540829570:0;node async/async-and-await.js
+: 1540833159:0;tg_db_dev
+: 1540841035:0;git add .
+: 1540841072:0;git commit -m "Add async examples"
+: 1540841083:0;gpsup
+: 1540844640:0;yay breeze
+: 1540848553:0;cd ~/git/theguarantors.com
+: 1540848571:0;git branches
+: 1540848585:0;git branch -a
+: 1540848626:0;git checkout master
+: 1540848631:0;git pull
+: 1540848686:0;git branch -a
+: 1540848722:0;git checkout add-v2-endpoints-to-ric-application-RIC-142\
+
+: 1540848731:0;git status
+: 1540848737:0;git log
+: 1540852823:0;yay awesome
+: 1540852854:0;yay spotify
+: 1540852963:0;pacman -Qn libinput xf86-input-synaptics
+: 1540854617:0;cd git/theguarantors.com
+: 1540854623:0;git add .
+: 1540854659:0;git commit -m "Pairing Martin 2"
+: 1540854666:0;gpsup
+: 1540908891:0;la
+: 1540908934:0;gedit .vscode/launch.json
+: 1540910125:0;sudo vi /etc/pacman.d/mirrorlist
+: 1540910292:0;sudo vim /etc/pacman.d/mirrorlist
+: 1540910299:0;sudo nvim /etc/pacman.d/mirrorlist
+: 1540910474:0;vi
+: 1540910525:0;yay -Syyu
+: 1540910617:0;yay --help
+: 1540910675:0;yay -Syyua
+: 1540910684:0;yay -Syyu
+: 1540910754:0;locale -a
+: 1540910812:0;sudo vi /etc/locale.conf
+: 1540920043:0;cd git/theguarantors.com
+: 1540920052:0;yarn test
+: 1540920481:0;ping 8.8.8.8
+: 1540920514:0;yarn test
+: 1540920658:0;yarn
+: 1540920787:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1540920799:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1540920815:0;yarn test
+: 1540921409:0;git add .
+: 1540921435:0;git commit -m "Pairing Martin 3"
+: 1540921452:0;git reset HEAD~
+: 1540921469:0;git add .
+: 1540921471:0;git commit -m "Pairing Martin 3"
+: 1540921477:0;gpsup
+: 1540925926:0;pacman -Qs gnome-screensaver
+: 1540925942:0;yay gnome-screensaver
+: 1540927886:0;git pull
+: 1540928943:0;yarn test
+: 1540934241:0;ls /usr/share/fonts/awesome-terminal-fonts
+: 1540934283:0;vi /etc/fonts/conf.d/10-symbols.conf
+: 1540935432:0;yarn test
+: 1540939724:0;git add .
+: 1540939745:0;git commit -m "Pairing Martin 5"
+: 1540939763:0;gpsup
+: 1540941310:0;yarn compile
+: 1540941423:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540941611:0;ssh theguarantors@staging.theguarantors.com
+: 1540941917:0;NODE_ENV=test node jobs/delete-orphaned-hubspot-deals.js
+: 1540942121:0;npm run clean
+: 1540942128:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540942168:0;yarn compile
+: 1540942211:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540943071:0;ssh theguarantors@staging.theguarantors.com
+: 1540943666:0;yarn compile
+: 1540943715:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540943782:0;ssh theguarantors@staging.theguarantors.com
+: 1540944423:0;cd g
+: 1540944428:0;cd git/theguarantors.com
+: 1540944436:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540944445:0;yarn compile
+: 1540944509:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1540944618:0;tg_db_dev
+: 1540944849:0;ssh theguarantors@logs.theguarantors.com
+: 1540945184:0;ssh theguarantors@staging.theguarantors.com
+: 1540995322:0;yay
+: 1540996358:0;ssh theguarantors@logs.theguarantors.com
+: 1540996471:0;ssh theguarantors@staging.theguarantors.com
+: 1540999230:0;cd git/theguarantors.com
+: 1540999249:0;git checkout master
+: 1540999254:0;git pull
+: 1540999264:0;yarn
+: 1540999603:0;NODE_ENV=test node jobs/delete-orphaned-hubspot-deals.js
+: 1540999640:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1540999966:0;git checkout -b fix-delete-hubspot-orpaned-deals-LG-47
+: 1541001216:0;npm run clean
+: 1541001642:0;yarn compile
+: 1541001782:0;dropdb theguarantors_development -U postgres
+: 1541001788:0;createdb theguarantors_development -U postgres
+: 1541001805:0;bin/dump_db theguarantors@staging.theguarantors.com
+: 1541001889:0;pg_restore --no-owner --no-acl -j 4 -U postgres -d theguarantors_development theguarantors.zdump
+: 1541001906:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1541001929:0;tg_db_dev
+: 1541001958:0;node services/process-hubspot-queue.js 
+: 1541002315:0;yay office
+: 1541003450:0;yay
+: 1541004329:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1541004680:0;node services/process-hubspot-queue.js 
+: 1541005897:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1541006174:0;npm run clean
+: 1541006245:0;yarn compile
+: 1541006395:0;node jobs/delete-orphaned-hubspot-deals.js
+: 1541006543:0;git add .
+: 1541006604:0;git commit - m "[LG-47] Fix issue where hubspot deals weren't being removed"
+: 1541006611:0;git commit -m "[LG-47] Fix issue where hubspot deals weren't being removed"
+: 1541006628:0;gpsup
+: 1541006736:0;git add .
+: 1541006739:0;gcan!
+: 1541006743:0;gpsup
+: 1541006749:0;gpsup -f
+: 1541013612:0;ssh theguarantors@staging.theguarantors.com
+: 1541018061:0;git checkout master
+: 1541018064:0;git pull
+: 1541018095:0;yarn
+: 1541018419:0;git checkout -b upload-deals-without-approved-date-RSDR-156
+: 1541020107:0;yay -Rns onlyoffice
+: 1541020145:0;yay libreoffice
+: 1541020604:0;npm run start-dev
+: 1541020925:0;tg_db_dev
+: 1541024717:0;cd resisdr-onboarding
+: 1541024723:0;yarn
+: 1541024815:0;npm run start
+: 1541028062:0;fc-cache --help
+: 1541028141:0;cd /usr/share/fonts/awesome-terminal-fonts
+: 1541028171:0;fc-cache -fv /usr/share/fonts/awesome-terminal-fonts
+: 1541028261:0;cd ~
+: 1541028263:0;la
+: 1541028312:0;ll .config/fontconfig
+: 1541028734:0;fc-list | grep 'awesome'
+: 1541028829:0;ll
+: 1541029758:0;vi /etc/fonts/conf.d/10-symbols.conf
+: 1541029984:0;la
+: 1541030013:0;vi .antigen/init.zsh
+: 1541030032:0;vi .zshrc
+: 1541030360:0;fc-list | grep 'powerline'
+: 1541030369:0;yay powerline
+: 1541030447:0;fc-cache -vf
+: 1541030645:0;ls ~/.config/fontconfig/conf.d
+: 1541036138:0;mkdir .config/fontconfig/conf.d
+: 1541427003:0;yay
+: 1541427173:0;sudo visudo
+: 1541427390:0;sudo -l
+: 1541427555:0;sudo visudo
+: 1541427660:0;ls /etc/sudoers.d
+: 1541427665:0;sudo ls /etc/sudoers.d
+: 1541427720:0;sudo ll /etc/sudoers.d
+: 1541427727:0;sudo ls -l /etc/sudoers.d
+: 1541427777:0;sudo cat /etc/sudoers.d/10-installer
+: 1541427887:0;sudo rm /etc/sudoers.d/10-installer
+: 1541427892:0;sudo -l
+: 1541427967:0;yay noto
+: 1541428135:0;cd git/theguarantors.com
+: 1541428395:0;yay -Rns awesome-terminal-fonts
+: 1541431810:0;yarn test
+: 1541439923:0;git add .
+: 1541440253:0;git commit -m "[RSDR-156] Remove some csv validations which are sometimes not mandatory"
+: 1541440273:0;git checkout master
+: 1541440508:0;git git pull
+: 1541440516:0;git pull
+: 1541440550:0;git checkout -
+: 1541440555:0;git rebase master
+: 1541440770:0;git add .
+: 1541440778:0;git rebase --continue
+: 1541440893:0;gpsup
+: 1541444747:0;git reset HEAD~
+: 1541444981:0;yay postman
+: 1541445729:0;git log
+: 1541445756:0;git add .
+: 1541445767:0;git commit -m "[RSDR-156] Remove some csv validations which are sometimes not mandatory"
+: 1541445793:0;git log
+: 1541445800:0;fg
+: 1541446349:0;git diff
+: 1541448547:0;git pull
+: 1541448594:0;git pull --continue
+: 1541448608:0;git status
+: 1541448623:0;git add .
+: 1541448636:0;git pull
+: 1541448650:0;git merge --abort
+: 1541448691:0;git reset origin upload-deals-without-approved-date-RSDR-156 --hard
+: 1541448872:0;git reset --hard origin/upload-deals-without-approved-date-RSDR-156
+: 1541449432:0;git checkout master
+: 1541449437:0;git pull
+: 1541449494:0;git checkout -b update-source-map-loader-DEBT-195
+: 1541449523:0;yay
+: 1541450052:0;yarn upgrade source-map-loader
+: 1541450294:0;yarn remove source-map-loader
+: 1541450491:0;yarn add source-map-loader
+: 1541450806:0;npm run clean
+: 1541450816:0;yarn compile
+: 1541450892:0;npm run clean
+: 1541450906:0;npm start
+: 1541451070:0;git add .
+: 1541451160:0;git commit -m "[DEBT-195] Update source-map-loader dependency on main application"
+: 1541451654:0;yarn -v
+: 1541451761:0;git reset HEAD~
+: 1541451789:0;yarn
+: 1541452208:0;git add .
+: 1541452215:0;git commit -m "[DEBT-195] Update source-map-loader dependency on main application"
+: 1541452310:0;gpsup
+: 1541452840:0;git add .
+: 1541452858:0;gcan!
+: 1541452876:0;gpsup
+: 1541452880:0;gpsup -f
+: 1541453881:0;git checkout upload-deals-without-approved-date-RSDR-156
+: 1541454163:0;yarn test
+: 1541458015:0;git checkout update-source-map-loader-DEBT-195
+: 1541458071:0;yarn
+: 1541458652:0;git add .
+: 1541458656:0;gcan!
+: 1541458666:0;gpsup -f
+: 1541458951:0;git checkout upload-deals-without-approved-date-RSDR-156
+: 1541514424:0;cd git/theguarantors.com
+: 1541514437:0;npm run start
+: 1541514850:0;tg_db_dev
+: 1541515254:0;ssh theguarantors@staging.theguarantors.com
+: 1541516067:0;git add .
+: 1541516084:0;gcan!
+: 1541516113:0;git checkout update-source-map-loader-DEBT-195
+: 1541516155:0;./node_modules/yarn/bin/yarn
+: 1541517068:0;git add .
+: 1541517075:0;gcan!
+: 1541517082:0;gpsup -f
+: 1541517187:0;git checkout master
+: 1541517193:0;git pull
+: 1541517217:0;NODE_ENV=test node jobs/delete-orphaned-hubspot-deals.js
+: 1541517254:0;NODE_ENV=test npm run sequelize -- db:migrate
+: 1541517282:0;NODE_ENV=development npm run sequelize -- db:migrate
+: 1541517305:0;git checkout -
+: 1541517311:0;git rebase master
+: 1541517516:0;git rebase --abort
+: 1541517715:0;git reset HEAD~
+: 1541517774:0;git commit -m "[DEBT-195] Update source-map-loader dependency on main application"
+: 1541517780:0;git add .
+: 1541517784:0;git commit -m "[DEBT-195] Update source-map-loader dependency on main application"
+: 1541517821:0;git rebase master
+: 1541517830:0;./node_modules/yarn/bin/yarn
+: 1541517921:0;yarn
+: 1541518098:0;gcan!
+: 1541518107:0;gpsup -f
+: 1541519020:0;git checkout -b replace-truncate-with-withRollback-DEBT-65
+: 1541519026:0;git rebase master
+: 1541519852:0;yarn test
+: 1541524630:0;mailcatcher
+: 1541524644:0;yarn test
+: 1541533125:0;git add .
+: 1541533325:0;git commit -m "[DEBT-65] Replace beforeEach hook with withRollBack 1/7"
+: 1541533366:0;gpsup
+: 1541533442:0;git log
+: 1541533534:0;git reset HEAD~
+: 1541533571:0;git add .
+: 1541533582:0;git commit -m "[DEBT-65] Replace beforeEach hook with withRollBack 1/7"
+: 1541533592:0;git log
+: 1541533820:0;git reset --hard origin/replace-truncate-with-withRollback-DEBT-65
+: 1541533841:0;git log
+: 1541533883:0;git checkout master
+: 1541533897:0;git pull
+: 1541533924:0;git checkout -
+: 1541533930:0;git rebase master
+: 1541533935:0;git log
+: 1541533949:0;gpsup -f
+: 1541534486:0;git checkout upload-deals-without-approved-date-RSDR-156
+: 1541534503:0;git rebase master
+: 1541534990:0;yarn test
+: 1541535589:0;git add .
+: 1541535592:0;gcan!
+: 1541535601:0;gpsup -f
+: 1541535739:0;./node_modules/yarn/bin/yarn -v
+: 1541537535:0;git checkout master
+: 1541537545:0;git pull
+: 1541537576:0;git checkout -b replace-truncate-with-withRollback-DEBT-69
+: 1541537771:0;yarn test
+: 1541538523:0;npm run cleam
+: 1541538525:0;npm run clean
+: 1541538622:0;yarn test
+: 1541540006:0;git add .
+: 1541540035:0;git commit -m "[DEBT-69] Replace beforeEach hook with withRollBack 2/7"
+: 1541540058:0;gpsup
+: 1541540568:0;git checkout master
+: 1541540578:0;git checkout upload-deals-without-approved-date-RSDR-156
+: 1541540728:0;git add .
+: 1541540730:0;gcan!
+: 1541540739:0;gpsup -f
+: 1541541524:0;git checkout master
+: 1541541550:0;git checkout -b replace-truncate-with-withRollback-DEBT-70
+: 1541541805:0;yarn test
+: 1541545296:0;git add .
+: 1541545314:0;git commit -m "[DEBT-70] Replace beforeEach hook with withRollBack 3/7"
+: 1541545334:0;gpsup
+: 1541608283:0;yay
+: 1541609936:0;gnome-tweaks
+: 1541611606:0;cd git/theguarantors.com
+: 1541611610:0;yarn test
+: 1541612101:0;git add .
+: 1541612107:0;gcan!
+: 1541612142:0;gpsup -f
+: 1541612782:0;git add .
+: 1541612786:0;gcan!
+: 1541612793:0;gpsup -f
+: 1541612827:0;git checkout -b replace-truncate-with-withRollback-DEBT-69
+: 1541614012:0;yarn test
+: 1541614229:0;git stash --include-untracked
+: 1541614303:0;git checkout -b replace-truncate-with-withRollback-DEBT-69
+: 1541614310:0;git checkout replace-truncate-with-withRollback-DEBT-69
+: 1541614316:0;git pop
+: 1541614333:0;git stash apply
+: 1541614789:0;yarn test
+: 1541615284:0;git status
+: 1541615334:0;git reset --hard origin/replace-truncate-with-withRollback-DEBT-69
+: 1541620907:0;yarn test
+: 1541621126:0;git status
+: 1541621132:0;git add .
+: 1541621136:0;gcan!
+: 1541621147:0;gpsup -f
+: 1541621338:0;git checkout replace-truncate-with-withRollback-DEBT-65
+: 1541622109:0;yarn test
+: 1541622240:0;git add .
+: 1541622254:0;gcan!
+: 1541622262:0;gpsup -f
+: 1541622339:0;git checkout upload-deals-without-approved-date-RSDR-156
+: 1541622360:0;git checkout master
+: 1541622363:0;git pull
+: 1541622780:0;npx yarn@1.3.2
+: 1541622898:0;git checkout upload-deals-without-approved-date-RSDR-156
+: 1541622915:0;git rebase master
+: 1541623020:0;npm run clean
+: 1541623031:0;yarn compile
+: 1541623115:0;git add .
+: 1541623118:0;gcan!
+: 1541623125:0;gpsup -f
+: 1541624331:0;git checkout master
+: 1541624375:0;git checkout -b replace-truncate-with-withRollback-DEBT-71
+: 1541624622:0;yarn test
+: 1541686519:0;cd git/theguarantors.com
+: 1541686521:0;yarn test
+: 1541686531:0;yay
+: 1541686922:0;yarn test
+: 1541697826:0;git add .
+: 1541697852:0;git commit -m "[DEBT-71] Replace beforeEach hook with withRollBack 4/7"
+: 1541697872:0;gpsup
+: 1541698295:0;git checkout -
+: 1541698300:0;git pull
+: 1541698330:0;npx yarn@1.3.2
+: 1541698414:0;git checkout replace-truncate-with-withRollback-DEBT-70
+: 1541698419:0;git rebase master
+: 1541698550:0;git add .
+: 1541698556:0;gcan!
+: 1541698569:0;gpsup -f
+: 1541703537:0;git checkout replace-truncate-with-withRollback-DEBT-71
+: 1541703610:0;yarn test
+: 1541703940:0;git add .
+: 1541703943:0;gcan!
+: 1541703950:0;gpsup -f
+: 1541707216:0;git checkout master
+: 1541707219:0;git pull
+: 1541707258:0;git checkout replace-truncate-with-withRollback-DEBT-73
+: 1541707268:0;git checkout -b replace-truncate-with-withRollback-DEBT-73
+: 1541707613:0;yarn test
+: 1541708538:0;npm run clean
+: 1541708618:0;yarn test
+: 1541710998:0;npm run clean
+: 1541711012:0;yarn test
+: 1541711304:0;yay kraken
+: 1541712299:0;yay git
+: 1541712512:0;grep -r ".only" *
+: 1541712581:0;grep -r ".only"
+: 1541712610:0;grep -r "\.only"
+: 1541712631:0;grep -r "\.only" *.test.ts
+: 1541712740:0;grep -r -F ".only" *
+: 1541712809:0;grep -r -F ".only(" *
+: 1541714119:0;git stash --include-untracked
+: 1541714130:0;git checkout master
+: 1541714136:0;git pull
+: 1541714183:0;git checkout -
+: 1541714193:0;git stash list
+: 1541714217:0;git stash pop
+: 1541714223:0;git stash clear
+: 1541714269:0;git rebase master
+: 1541714286:0;git add .
+: 1541714306:0;git commit -m "[DEBT-73] Replace beforeEach hook with withRollBack 6/7"
+: 1541714321:0;git rebase master
+: 1541714332:0;git reset HEAD~
+: 1541714392:0;yarn test
+: 1541715026:0;mailcatcher
+: 1541715124:0;yarn test
+: 1541717213:0;ll .git/hooks
+: 1541717260:0;vi .git/hooks/pre-commit
+: 1541719088:0;ls pre-commit.sh
+: 1541719094:0;ll pre-commit.sh
+: 1541719114:0;chmod +x pre-commit.sh
+: 1541719188:0;git add .
+: 1541719199:0;git commit -m "[DEBT-73] Replace beforeEach hook with withRollBack 6/7"
+: 1541719236:0;git reset HEAD~
+: 1541772260:0;cd git/theguarantors.com
+: 1541772270:0;git diff --cached
+: 1541772281:0;git add .
+: 1541772284:0;git diff --cached
+: 1541772306:0;git diff --cached --name-only | \\
+    grep -E '\.test\.ts$' | \\
+    GREP_COLOR='4;5;37;41' xargs grep --color --with-filename -n '(describe.only|context.only|it.only)' && echo 'COMMIT REJECTED Found "$FORBIDDEN" references. Please remove them before commiting' && exit 1
+: 1541772375:0;git diff --cached --name-only | \\
+    grep -E '\.test\.ts$' | \\
+    GREP_COLOR='4;5;37;41' xargs grep --color --with-filename -n 'describe.only|context.only|it.only' && echo 'COMMIT REJECTED Found "$FORBIDDEN" references. Please remove them before commiting' && exit 1
+: 1541772503:0;git diff --cached
+: 1541772702:0;git diff --cached --name-only | \\
+    grep -E '\.test\.ts$' | \\
+    GREP_COLOR='4;5;37;41' xargs grep --color --with-filename -n -E '(describe.only|context.only|it.only)' && echo 'COMMIT REJECTED Found "$FORBIDDEN" references. Please remove them before commiting' && exit 1

@@ -1,5 +1,3 @@
-let g:airline_theme='badwolf'
-
 call plug#begin('~/.local/share/nvim/plugged')
 Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'altercation/vim-colors-solarized'
@@ -7,7 +5,7 @@ Plug 'ctrlpvim/ctrlp.vim'
 Plug 'ntpeters/vim-better-whitespace'
 Plug 'scrooloose/nerdtree'
 Plug 'vim-airline/vim-airline'
-Plug 'vim-airline/vim-airline-themes'
+" Plug 'vim-airline/vim-airline-themes'
 
 Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 Plug 'Shougo/vimproc.vim', { 'do': 'make' }
@@ -40,3 +38,4 @@ Plug 'thoughtbot/vim-rspec'
 Plug 'leafgarland/typescript-vim'
 
 call plug#end()
+let g:airline_theme='badwolf'
