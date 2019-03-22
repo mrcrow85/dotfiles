@@ -1,12 +1,12 @@
 call plug#begin('~/.local/share/nvim/plugged')
 Plug 'Xuyuanp/nerdtree-git-plugin'
-Plug 'altercation/vim-colors-solarized'
+" Plug 'altercation/vim-colors-solarized'
 Plug 'ctrlpvim/ctrlp.vim'
 Plug 'ntpeters/vim-better-whitespace'
 Plug 'scrooloose/nerdtree'
 Plug 'vim-airline/vim-airline'
 " Plug 'vim-airline/vim-airline-themes'
-
+Plug 'flazz/vim-colorschemes'
 Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 Plug 'Shougo/vimproc.vim', { 'do': 'make' }
 Plug 'SirVer/ultisnips'
@@ -30,7 +30,10 @@ Plug 'carlitux/deoplete-ternjs'
 Plug 'mxw/vim-jsx'
 Plug 'pangloss/vim-javascript'
 Plug 'posva/vim-vue'
-
+Plug 'mattn/emmet-vim'
+Plug 'w0rp/ale'
+Plug 'skywind3000/asyncrun.vim'
+Plug 'gorodinskiy/vim-coloresque'
 " Ruby
 Plug 'thoughtbot/vim-rspec'
 
@@ -38,4 +41,13 @@ Plug 'thoughtbot/vim-rspec'
 Plug 'leafgarland/typescript-vim'
 
 call plug#end()
-let g:airline_theme='badwolf'
+"let g:airline_theme='badwolf'
+colorscheme molokai
+let g:user_emmet_leader_key='<Tab>'
+let g:user_emmet_settings = {
+  \  'javascript.jsx' : {
+    \      'extends' : 'jsx',
+    \  },
+  \}
+autocmd BufWritePost *.js AsyncRun -post=checktime npx eslint --fix %
+
