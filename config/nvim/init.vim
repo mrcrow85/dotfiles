@@ -5,7 +5,7 @@ Plug 'ctrlpvim/ctrlp.vim'
 Plug 'ntpeters/vim-better-whitespace'
 Plug 'scrooloose/nerdtree'
 Plug 'vim-airline/vim-airline'
-" Plug 'vim-airline/vim-airline-themes'
+Plug 'vim-airline/vim-airline-themes'
 Plug 'flazz/vim-colorschemes'
 Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 Plug 'Shougo/vimproc.vim', { 'do': 'make' }
@@ -41,7 +41,7 @@ Plug 'thoughtbot/vim-rspec'
 Plug 'leafgarland/typescript-vim'
 
 call plug#end()
-"let g:airline_theme='badwolf'
+let g:airline_theme='wombat'
 colorscheme molokai
 let g:user_emmet_leader_key='<Tab>'
 let g:user_emmet_settings = {
