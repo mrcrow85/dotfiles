@@ -5,6 +5,10 @@ set -g prefix C-a
 set -g base-index 1
 setw -g pane-base-index 1
 
+run-shell "powerline-daemon -q"
+
+source /usr/lib/python3.7/site-packages/powerline/bindings/tmux/powerline.conf
+
 # Disable prompt confirmation
 bind-key & kill-window
 bind-key x kill-pane
