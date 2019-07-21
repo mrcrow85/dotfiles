@@ -41,6 +41,9 @@ Plug 'thoughtbot/vim-rspec'
 " TypeScript
 Plug 'leafgarland/typescript-vim'
 
+" Use deoplete.
+let g:deoplete#enable_at_startup = 1
+
 call plug#end()
 let g:airline_theme='wombat'
 colorscheme molokai
