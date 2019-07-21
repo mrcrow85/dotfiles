@@ -18,6 +18,7 @@ Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-projectionist'
 Plug 'tpope/vim-repeat'
 Plug 'tpope/vim-surround'
+Plug 'ryanoasis/vim-devicons'
 
 " Haskell
 Plug 'eagletmt/neco-ghc', { 'do': ':UpdateRemotePlugins' }
