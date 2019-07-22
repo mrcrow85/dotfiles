@@ -1,0 +1,57 @@
+{
+    "explorer.confirmDelete": false,
+    "editor.formatOnSave": false,
+    "terminal.integrated.lineHeight": 1,
+    "terminal.integrated.fontSize": 16,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 1,
+    "editor.tabSize": 2,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "breadcrumbs.enabled": true,
+    "editor.tabCompletion": "on",
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "workbench.editor.highlightModifiedTabs": true,
+    "breadcrumbs.symbolSortOrder": "name",
+    "window.titleBarStyle": "custom",
+    "editor.rulers": [
+        120
+    ],
+    "tslint.autoFixOnSave": true,
+    "typescript.tsdk": "./node_modules/typescript/lib",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "gitlens.views.repositories.location": "gitlens",
+    "gitlens.views.fileHistory.location": "gitlens",
+    "gitlens.views.lineHistory.location": "gitlens",
+    "gitlens.views.compare.location": "gitlens",
+    "gitlens.views.search.location": "gitlens",
+    "cSpell.userWords": [
+        "MAPLECROFT",
+        "NEWSFEED",
+        "Shipit",
+        "bitbucket",
+        "exxondashboard",
+        "repo",
+        "rollbar",
+        "stackbuilders"
+    ],
+    "workbench.iconTheme": "vscode-icons",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.tree.renderIndentGuides": "onHover",
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
