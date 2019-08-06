@@ -9,9 +9,8 @@ SPACESHIP_KUBECONTEXT_SHOW=false
 antigen use oh-my-zsh
 
 antigen bundle git
-antigen bundle nvm
-antigen bundle pyenv
-antigen bundle rbenv
+antigen bundle docker
+antigen bundle asdf
 antigen bundle ssh-agent
 antigen bundle tmux
 antigen bundle archlinux
@@ -33,3 +32,7 @@ key[Down]="${terminfo[kcud1]}"
 [[ -n "${key[Up]}"   ]] && bindkey -- "${key[Up]}"   history-substring-search-up
 [[ -n "${key[Down]}" ]] && bindkey -- "${key[Down]}" history-substring-search-down
 
+
+. /opt/asdf-vm/asdf.sh
+
+. /opt/asdf-vm/completions/asdf.bash
