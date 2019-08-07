@@ -37,7 +37,7 @@ Plug 'skywind3000/asyncrun.vim'
 Plug 'gorodinskiy/vim-coloresque'
 " Ruby
 Plug 'thoughtbot/vim-rspec'
-
+Plug 'tpope/vim-rails'
 " TypeScript
 Plug 'leafgarland/typescript-vim'
 
