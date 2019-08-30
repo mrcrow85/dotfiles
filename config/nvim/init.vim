@@ -38,6 +38,8 @@ Plug 'gorodinskiy/vim-coloresque'
 " Ruby
 Plug 'thoughtbot/vim-rspec'
 Plug 'tpope/vim-rails'
+Plug 'vim-ruby/vim-ruby'
+Plug 'tpope/vim-bundler'
 " TypeScript
 Plug 'leafgarland/typescript-vim'
 
