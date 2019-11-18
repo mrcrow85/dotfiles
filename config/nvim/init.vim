@@ -1,3 +1,5 @@
+let g:python3_host_prog = $HOME.'/.asdf/installs/python/3.7.3/bin/python'
+
 call plug#begin('~/.local/share/nvim/plugged')
 Plug 'Xuyuanp/nerdtree-git-plugin'
 " Plug 'altercation/vim-colors-solarized'
@@ -19,6 +21,8 @@ Plug 'tpope/vim-projectionist'
 Plug 'tpope/vim-repeat'
 Plug 'tpope/vim-surround'
 Plug 'ryanoasis/vim-devicons'
+Plug 'mbbill/undotree'
+Plug 'vim-syntastic/syntastic'
 
 " Snippets
 Plug 'MarcWeber/vim-addon-mw-utils'
@@ -48,10 +52,22 @@ Plug 'tpope/vim-bundler'
 " TypeScript
 Plug 'leafgarland/typescript-vim'
 
+" Python
+Plug 'nvie/vim-flake8'
+
+
+call plug#end()
+
 " Use deoplete.
 let g:deoplete#enable_at_startup = 1
 
-call plug#end()
+let python_highlight_all=1
+syntax on
+syntax enable
+" Use deoplete.
+let g:deoplete#enable_at_startup = 1
+
+let g:airline_powerline_fonts = 1
 let g:airline_theme='wombat'
 colorscheme molokai
 let g:user_emmet_leader_key='<Tab>'
