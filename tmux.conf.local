@@ -283,7 +283,7 @@ set -g base-index 1
 setw -g pane-base-index 1
 
 # increase history size
-#set -g history-limit 10000
+set -g history-limit 10000
 
 # start with mouse mode enabled
 set -g mouse on
@@ -302,3 +302,18 @@ set -g mouse on
 
 # move status line to top
 #set -g status-position top
+
+set -g @resurrect-strategy-nvim 'session'
+set -g @resurrect-capture-pane-contents 'on'
+
+# List of plugins
+set -g @tpm_plugins '          \
+  tmux-plugins/tpm             \
+  tmux-plugins/tmux-sensible   \
+  tmux-plugins/tmux-continuum  \
+  tmux-plugins/tmux-resurrect  \
+  samoshkin/tmux-plugin-sysstat  \
+'
+
+# Initialize TMUX plugin manager
+run -b '~/.tmux/plugins/tpm/tpm'

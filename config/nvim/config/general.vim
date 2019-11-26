@@ -2,7 +2,7 @@ syntax on
 syntax enable
 
 " clipboard
-set clipboard=unnamedplus
+set clipboard^=unnamed,unnamedplus
 
 " allow backspacing over everything in insert mode
 set backspace=indent,eol,start
