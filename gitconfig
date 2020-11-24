@@ -1,3 +1,7 @@
 [user]
 	email = mmena@stackbuilders.com
 	name = Martin Mena
+[pull]
+	rebase = true
+[diff]
+	colorMoved = zebra

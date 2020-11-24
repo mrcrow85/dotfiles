@@ -44,14 +44,37 @@
         "exxondashboard",
         "repo",
         "rollbar",
-        "stackbuilders"
+        "stackbuilders",
+        "Twilio"
     ],
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.iconTheme": "material-icon-theme",
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "workbench.tree.renderIndentGuides": "onHover",
     "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "bracket-pair-colorizer-2.colors": [
+        "Gold",
+        "Orchid",
+        "LightSkyBlue"
+    ],
+    "bracket-pair-colorizer-2.activeScopeCSS": [
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}",
+        "opacity: 0.5"
+    ],
+    "python.languageServer": "Pylance",
+    "kite.showWelcomeNotificationOnStartup": false,
+    "python.analysis.completeFunctionParens": true,
+    "files.autoSave": "onFocusChange",
+    "python.analysis.extraPaths": [
+        "./twilio_docs"
+    ],
+    "editor.matchBrackets": "never",
+    "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     }
 }
